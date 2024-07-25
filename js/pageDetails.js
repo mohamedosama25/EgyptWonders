@@ -349,7 +349,7 @@ places = [
             }
         ]
     },
-    
+
     {
         "id": 18,
         "name": "Montaza Palace and Gardens",
@@ -602,7 +602,7 @@ places = [
             }
         ]
     },
-    
+
     {
         "id": 30,
         "name": "Kafr Abdo",
@@ -621,7 +621,7 @@ places = [
             }
         ]
     }
-    ,{
+    , {
         "id": 31,
         "name": "El Max",
         "imagesrc": "https://lh6.ggpht.com/-_E9_uQBFxLU/VI7LdeEqsbI/AAAAAAAA9vI/PptpubDCJKQ/al-max-Alexandria-1%25255B6%25255D.jpg?imgmax=800",
@@ -641,9 +641,9 @@ places = [
             }
         ]
     }
-    
-    
-    ,{
+
+
+    , {
         "id": 32,
         "name": "Bianki",
         "imagesrc": "https://i.pinimg.com/474x/52/5c/52/525c524d4d867d494afcd348211eeb6c--cairo-egypte-hurghada-egypt.jpg",
@@ -722,13 +722,13 @@ places = [
                 "price": "$90 - $180 per night"
             }
         ]
-    
+
     },
     {
         "id": 38,
-        "name": "Kazino El Shatby",
+        "name": "Casino Al Shatby",
         "imagesrc": "https://i.pinimg.com/736x/db/36/f9/db36f945c1fab49aa64ce6dc19ad040d.jpg",
-        "description": "Kazino El Shatby is a historic entertainment venue located in the Shatby district of Alexandria. Known for its elegant architecture and scenic views of the Mediterranean Sea, it offers a variety of dining and leisure options. Visitors can enjoy live music, cultural performances, and a relaxing atmosphere in a setting that blends the charm of old Alexandria with modern amenities.",
+        "description": "Casino Al Shatby is a historic entertainment venue located in the Shatby district of Alexandria. Known for its elegant architecture and scenic views of the Mediterranean Sea, it offers a variety of dining and leisure options. Visitors can enjoy live music, cultural performances, and a relaxing atmosphere in a setting that blends the charm of old Alexandria with modern amenities.",
         "price": {
             "Entry": "Free"
         },
@@ -744,9 +744,9 @@ places = [
             }
         ]
     }
-    
-    
-    ]
+
+
+]
 function getPlaceById(id) {
     return places.find(place => place.id === parseInt(id));
 }

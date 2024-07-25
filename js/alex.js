@@ -425,9 +425,9 @@ places = [
 },
 {
     "id": 38,
-    "name": "Kazino El Shatby",
+    "name": "Casino Al Shatby",
     "imagesrc": "https://i.pinimg.com/736x/db/36/f9/db36f945c1fab49aa64ce6dc19ad040d.jpg",
-    "description": "Kazino El Shatby is a historic entertainment venue located in the Shatby district of Alexandria. Known for its elegant architecture and scenic views of the Mediterranean Sea, it offers a variety of dining and leisure options. Visitors can enjoy live music, cultural performances, and a relaxing atmosphere in a setting that blends the charm of old Alexandria with modern amenities.",
+    "description": "Casino Al Shatby is a historic entertainment venue located in the Shatby district of Alexandria. Known for its elegant architecture and scenic views of the Mediterranean Sea, it offers a variety of dining and leisure options. Visitors can enjoy live music, cultural performances, and a relaxing atmosphere in a setting that blends the charm of old Alexandria with modern amenities.",
     "price": {
         "Entry": "Free"
     },
