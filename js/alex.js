@@ -380,7 +380,8 @@ places = [
     "imagesrc": "https://scontent.fcai2-2.fna.fbcdn.net/v/t39.30808-6/317074681_114558018145657_1703056046938658936_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=Z-j4lR5WSHwQ7kNvgE7AOm9&_nc_ht=scontent.fcai2-2.fna&oh=00_AYByCh3FJ8z8lV4lqiZUn1gqlgY5KKfBqsuRmlsvO7jovA&oe=66A82CAA",
     "description": "The Walk Sidi Gaber is a popular waterfront promenade in Alexandria, offering stunning views of the Mediterranean Sea. This scenic walkway is perfect for a leisurely stroll, jogging, or cycling, with its well-maintained paths and picturesque surroundings. The area is dotted with cafes, restaurants, and shops, making it a great spot to relax and enjoy the coastal ambiance. The Walk Sidi Gaber is particularly beautiful during sunset, providing a serene and romantic setting along the Alexandrian coast.",
     "price": {
-        "Entry": "Free"
+        "Entry": "Free",
+        "Cafe": "Prices vary according to the cafe you choose."
     },
     "hours": "Open all day",
     "hotels": [
@@ -396,7 +397,8 @@ places = [
     "imagesrc": "https://i.pinimg.com/originals/5a/a4/4a/5aa44ae54fd505482db048fefe9ec088.jpg",
     "description": "Blue Harbor Rooftop is a chic rooftop lounge located in Alexandria, offering panoramic views of the Mediterranean Sea and the city skyline. This stylish venue is perfect for enjoying a relaxing evening with friends or a romantic night out. Guests can indulge in a variety of delicious food and drinks while taking in the breathtaking scenery. The rooftop features comfortable seating, elegant decor, and a vibrant atmosphere, making it a popular spot for both locals and visitors looking to unwind and enjoy the beauty of Alexandria from above.",
     "price": {
-        "Entry": "Free"
+        "Entry": "Free",
+        "Cafe": "Prices vary according to the cafe you choose."
     },
     "hours": "5:00 PM to 2:00 AM",
     "hotels": [
@@ -410,9 +412,10 @@ places = [
     "id": 36,
     "name": "Gleem Bay",
     "imagesrc": "https://i.ytimg.com/vi/qVNWd_fr1cA/maxresdefault_live.jpg",
-    "description": "Gleem Bay is a picturesque coastal area in Alexandria known for its clear waters and vibrant atmosphere. It's a favorite spot for sitting in cafes and restaurants, enjoying delicious food while taking in the refreshing sea breeze. The area offers a perfect setting for relaxation and recreation along the beautiful coastline",
+    "description": "Gleem Bay is a picturesque coastal area in Alexandria known for its clear waters and vibrant atmosphere. It's a favorite spot for sitting in cafes and restaurants, enjoying delicious food while taking in the refreshing sea breeze. The area offers a perfect setting for relaxation and recreation along the beautiful coastline.",
     "price": {
-        "Entry": "Free"
+        "Entry": "Free",
+        "Cafe": "Prices vary according to the cafe you choose."
     },
     "hours": "Open all day",
     "hotels": [
@@ -421,7 +424,6 @@ places = [
             "price": "$90 - $180 per night"
         }
     ]
-
 },
 {
     "id": 38,
@@ -429,7 +431,8 @@ places = [
     "imagesrc": "https://i.pinimg.com/736x/db/36/f9/db36f945c1fab49aa64ce6dc19ad040d.jpg",
     "description": "Casino Al Shatby is a historic entertainment venue located in the Shatby district of Alexandria. Known for its elegant architecture and scenic views of the Mediterranean Sea, it offers a variety of dining and leisure options. Visitors can enjoy live music, cultural performances, and a relaxing atmosphere in a setting that blends the charm of old Alexandria with modern amenities.",
     "price": {
-        "Entry": "Free"
+        "Entry": "Free",
+        "Cafe": "Prices vary according to the cafe you choose."
     },
     "hours": "10:00 AM to 11:00 PM",
     "hotels": [
@@ -443,6 +446,7 @@ places = [
         }
     ]
 }
+
 
 
 ]
