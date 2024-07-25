@@ -758,9 +758,7 @@ places = [
             }
         ]
     }
-    
-
-
+    // /ay khara 3shan 3ayz a3ml commitaya tanya/ 
 ]
 function getPlaceById(id) {
     return places.find(place => place.id === parseInt(id));
