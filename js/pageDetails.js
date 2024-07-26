@@ -757,384 +757,286 @@ places = [
                 "price": "$150 - $250 per night"
             }
         ]
-    }
-    // /ay khara 3shan 3ayz a3ml commitaya tanya/ 
-    ,   {
+    },
+    {
         "id": 39,
-        "name": "Karnak Temple",
-        "imagesrc": "",
-        "description": "Karnak Temple is a vast temple complex dedicated to the god Amun, located near Luxor, Egypt. This impressive site features massive pylons, towering obelisks, and intricately designed sanctuaries. The temple complex was built over centuries by numerous pharaohs, making it a historical treasure trove. Visitors can explore the Great Hypostyle Hall, famous for its forest of giant columns. Karnak Temple is also home to the Sacred Lake and several smaller temples and chapels. The complex is a testament to ancient Egyptian architecture and religious practices. Sound and light shows held in the evenings provide a magical experience, bringing the history of the temple to life.",
+        "name": "Philae Temple",
+        "imagesrc": "https://egypttravelblog.com/wp-content/uploads/2021/02/Philae-Isis-Temple-Shutterstock-copy.jpg",
+        "description": "Philae Temple, located on Agilkia Island in Aswan, is dedicated to the goddess Isis and is renowned for its picturesque setting. The temple complex, with its stunning architecture and intricate carvings, offers a fascinating glimpse into ancient Egyptian religious practices. The temple was relocated from its original location to Agilkia Island to save it from the rising waters of the Nile due to the construction of the Aswan High Dam. Visitors can explore the beautiful courtyards, columns, and sanctuaries, all set against the backdrop of the Nile. Philae Temple is especially enchanting during the evening sound and light show, which brings the history of the temple to life. The serene surroundings and historical significance make it a must-visit site in Aswan.",
         "price": {
-            "Entrance Fee": {
-                "Egyptian": 40,
-                "Student": 20,
-                "Foreign": 200,
-                "Foreign Student": 100
+            "Prices":{
+            "Adults": "100 EGP",
+            "Students": "50 EGP",
+            "Note": "Additional costs for the sound and light show"
             }
         },
-        "hours": "6:00 AM to 5:30 PM",
+        "hours": "7:00 AM to 4:00 PM",
         "hotels": [
             {
-                "name": "Sofitel Winter Palace Luxor",
-                "price": "$200 - $400 per night"
+                "name": "Mövenpick Resort Aswan",
+                "price": "$120 - $250 per night"
             },
             {
-                "name": "Steigenberger Nile Palace",
-                "price": "$150 - $300 per night"
+                "name": "Basma Hotel Aswan",
+                "price": "$80 - $150 per night"
             }
         ]
     },
     {
         "id": 40,
-        "name": "Luxor Temple",
-        "imagesrc": "",
-        "description": "Luxor Temple is a large ancient Egyptian temple complex situated on the east bank of the Nile River in Luxor. It is renowned for its grand statues, sphinxes, and beautiful reliefs. The temple was primarily built by Amenhotep III and later completed by Tutankhamun and Ramses II. Luxor Temple was dedicated to the Theban Triad of Amun, Mut, and Khonsu. The site is especially picturesque at night when it is illuminated, creating a stunning visual effect. The Avenue of Sphinxes, which once connected Luxor Temple to Karnak Temple, is being excavated and restored. The temple's architecture showcases the grandeur of ancient Egyptian civilization. The annual Opet Festival was celebrated here in ancient times, emphasizing its religious significance.",
+        "name": "Aswan High Dam",
+        "imagesrc": "https://cdn.britannica.com/34/76234-050-97AA0FE0/Aswan-High-Dam-Egypt.jpg",
+        "description": "The Aswan High Dam is an engineering marvel located on the Nile River in Aswan. Completed in 1970, the dam controls the annual flooding of the Nile and has created Lake Nasser, one of the largest man-made lakes in the world. The dam plays a crucial role in Egypt's irrigation and electricity supply, providing a steady water source and generating hydroelectric power. Visitors can learn about the construction and significance of the dam at the nearby visitor center. The panoramic views from the top of the dam are impressive, offering a unique perspective of the Nile and the vast expanse of Lake Nasser.",
         "price": {
-            "Entrance Fee": {
-                "Egyptian": 30,
-                "Student": 15,
-                "Foreign": 160,
-                "Foreign Student": 80
-            }
-        },
-        "hours": "6:00 AM to 9:00 PM",
+            "Entry": "Free"
+            },
+        "hours": "8:00 AM to 5:00 PM",
         "hotels": [
             {
-                "name": "Pavillon Winter Luxor",
-                "price": "$100 - $250 per night"
+                "name": "Sofitel Legend Old Cataract Aswan",
+                "price": "$300 - $500 per night"
             },
             {
-                "name": "Sonesta St. George Hotel Luxor",
-                "price": "$120 - $270 per night"
+                "name": "Pyramisa Isis Island Aswan Resort",
+                "price": "$100 - $200 per night"
             }
         ]
     },
     {
         "id": 41,
-        "name": "Valley of the Kings",
-        "imagesrc": "",
-        "description": "The Valley of the Kings is a royal burial ground for pharaohs and nobles, located on the west bank of the Nile near Luxor. It is renowned for its elaborately decorated tombs, including the famous tomb of Tutankhamun. The valley contains 63 tombs and chambers, showcasing intricate hieroglyphs and stunning wall paintings. Each tomb provides unique insights into ancient Egyptian beliefs about the afterlife. Visitors can explore several tombs, each with its distinct features and artwork. The valley's isolation and hidden location were intended to protect the tombs from looters. Despite this, many tombs were plundered in antiquity. Today, it remains a major archaeological and tourist site, attracting researchers and history enthusiasts worldwide.",
+        "name": "Nubian Museum",
+        "imagesrc": "https://mlrhpz8jmuut.i.optimole.com/cb:Ie5o.50122/w:495/h:400/q:mauto/rt:fill/g:ce/ig:avif/f:best/https://www.egypttoursplus.com/wp-content/uploads/2014/03/Nubia-Museum-Aswan.-Entrance-Photo-by-JMCC1.jpg",
+        "description": "The Nubian Museum in Aswan is dedicated to showcasing the history, art, and culture of the Nubian people. Opened in 1997, the museum houses a vast collection of artifacts, including pottery, jewelry, statues, and tools, dating back to prehistoric times. The museum also features exhibits on the history of Nubia, from ancient civilizations to the modern era, including the impact of the Aswan High Dam on the Nubian community. The beautifully landscaped gardens surrounding the museum and the stunning architecture make it a pleasant place to explore. Interactive displays and informative panels provide a comprehensive understanding of Nubian heritage.",
         "price": {
-            "Entrance Fee": {
-                "Egyptian": 60,
-                "Student": 30,
-                "Foreign": 240,
-                "Foreign Student": 120
+            "Prices":{
+            "Adults": "140 EGP",
+            "Students": "70 EGP"
             }
+            
         },
-        "hours": "6:00 AM to 5:00 PM",
+        "hours": "9:00 AM to 5:00 PM",
         "hotels": [
             {
-                "name": "Maritim Jolie Ville Kings Island Luxor",
-                "price": "$140 - $280 per night"
+                "name": "Helnan Aswan Hotel",
+                "price": "$90 - $180 per night"
             },
             {
-                "name": "Hilton Luxor Resort & Spa",
-                "price": "$180 - $350 per night"
+                "name": "Tolip Aswan Hotel",
+                "price": "$100 - $200 per night"
             }
         ]
     },
     {
         "id": 42,
-        "name": "Valley of the Queens",
-        "imagesrc": "",
-        "description": "The Valley of the Queens is the burial site of the wives of pharaohs, located near the Valley of the Kings in Luxor. This serene and beautiful valley is home to around 90 tombs, each with intricate decorations and inscriptions. The tombs of the queens and their children feature stunning wall paintings and well-preserved reliefs. The most famous tomb in the valley is that of Nefertari, the beloved wife of Ramses II, known for its vivid and well-preserved artwork. The site provides valuable insights into the burial practices and beliefs of ancient Egyptian royalty. The tombs are less crowded than those in the Valley of the Kings, offering a more intimate experience. The valley's peaceful atmosphere and historical significance make it a must-visit for history enthusiasts.",
+        "name": "Unfinished Obelisk",
+        "imagesrc": "https://th.bing.com/th/id/R.b8719d06a06be0c6d8c5781c6a7af506?rik=FbR0GS44YMH4rw&pid=ImgRaw&r=0",
+        "description": "The Unfinished Obelisk is an ancient obelisk located in a granite quarry in Aswan. It was abandoned due to a crack that appeared during its construction, providing valuable insight into the stone-working techniques of ancient Egypt. The obelisk, if completed, would have been the largest ever erected, standing at approximately 42 meters tall. Visitors can explore the site and see the marks left by ancient tools, offering a fascinating glimpse into the process of obelisk creation. The site is an open-air museum, and informative signs explain the significance of the obelisk and the quarry.",
         "price": {
-            "Entrance Fee": {
-                "Egyptian": 40,
-                "Student": 20,
-                "Foreign": 200,
-                "Foreign Student": 100
+            "Prices":{
+            "Adults": "80 EGP",
+            "Students": "40 EGP"
             }
+            
         },
-        "hours": "6:00 AM to 4:00 PM",
+        "hours": "7:00 AM to 4:00 PM",
         "hotels": [
             {
-                "name": "Al Moudira Hotel",
-                "price": "$180 - $320 per night"
+                "name": "Philae Hotel Aswan",
+                "price": "$50 - $100 per night"
             },
             {
-                "name": "Djorff Palace",
-                "price": "$130 - $260 per night"
+                "name": "Oscar Hotel Aswan",
+                "price": "$30 - $60 per night"
             }
         ]
     },
     {
         "id": 43,
-        "name": "Colossi of Memnon",
-        "imagesrc": "",
-        "description": "The Colossi of Memnon are two massive stone statues of Pharaoh Amenhotep III, located on the west bank of the Nile River near Luxor. These iconic statues have stood for over 3,400 years and are among the most recognizable landmarks in Egypt. Each statue is about 18 meters high and weighs approximately 720 tons. The Colossi originally guarded the entrance to Amenhotep's mortuary temple, which was one of the largest and most magnificent temples in ancient Egypt. Today, the temple is mostly in ruins, but the Colossi remain an impressive sight. The statues have been a source of fascination for travelers and historians for centuries. They are particularly famous for the 'singing' phenomenon, where one of the statues would emit a musical sound at dawn, a mystery that captivated ancient visitors. The Colossi of Memnon are an enduring symbol of the grandeur of ancient Egyptian civilization.",
+        "name": "Elephantine Island",
+        "imagesrc": "https://th.bing.com/th/id/R.51b6ae42f3ee40518ec9dc8e15651260?rik=GRWLqa5LFVFYmw&pid=ImgRaw&r=0",
+        "description": "Elephantine Island is a historically rich island in the Nile River, located in Aswan. The island is home to several archaeological sites, including ancient ruins and temples. It also hosts the Aswan Museum, which features artifacts from the island and surrounding areas. The island's name comes from its shape, which resembles an elephant's tusk. Visitors can explore the ruins of the Temple of Khnum, the ancient Nilometer, and the remains of a Jewish community that once resided there. The island is a serene escape, with lush gardens and traditional Nubian villages, offering a glimpse into both ancient and contemporary life in Aswan.",
         "price": {
-            "Entrance Fee": {
-                "Egyptian": 20,
-                "Student": 10,
-                "Foreign": 100,
-                "Foreign Student": 50
+            "Prices":{
+            "Adults": "60 EGP",
+            "Students": "30 EGP"
             }
-        },
-        "hours": "6:00 AM to 5:00 PM",
+            
+            },
+        "hours": "8:00 AM to 5:00 PM",
         "hotels": [
             {
-                "name": "Mercure Luxor Karnak",
-                "price": "$90 - $180 per night"
+                "name": "Mövenpick Resort Aswan",
+                "price": "$120 - $250 per night"
             },
             {
-                "name": "Achti Resort Luxor",
-                "price": "$110 - $220 per night"
+                "name": "Basma Hotel Aswan",
+                "price": "$80 - $150 per night"
             }
         ]
     },
     {
         "id": 44,
-        "name": "Hatshepsut's Mortuary Temple",
-        "imagesrc": "",
-        "description": "Hatshepsut's Mortuary Temple, also known as Deir el-Bahari, is an impressive funerary temple built for the female pharaoh Hatshepsut. Located on the west bank of the Nile near Luxor, the temple is renowned for its stunning architecture, including terraces and colonnades that blend seamlessly with the surrounding cliffs. The temple complex is dedicated to the sun god Amun-Ra and features beautiful reliefs depicting Hatshepsut's divine birth and her expedition to the Land of Punt. The temple's innovative design and artistic achievements reflect the high point of ancient Egyptian architecture and craftsmanship. Visitors can explore the various chapels, sanctuaries, and the central courtyard. The temple's serene location and historical significance make it a fascinating site to visit. Hatshepsut's Mortuary Temple stands as a testament to the legacy of one of Egypt's most successful and enigmatic pharaohs.",
+        "name": "Kom Ombo Temple",
+        "imagesrc": "https://th.bing.com/th/id/R.c1d4ed8356df180d2fe09a1c512419a5?rik=S%2foWyeTUxWN9iA&pid=ImgRaw&r=0&sres=1&sresct=1",
+        "description": "Kom Ombo Temple is a unique double temple located a short distance from Aswan, dedicated to the gods Sobek and Horus. The temple is symmetrically divided into two halves, each with its own sanctuaries, halls, and chambers. Built during the Ptolemaic dynasty, the temple features well-preserved reliefs and carvings that depict various scenes from ancient Egyptian mythology. Visitors can explore the temple complex, including the birth house, the mummified crocodiles, and the intricate carvings on the walls. The temple's location on a hill offers panoramic views of the Nile River and the surrounding countryside.",
         "price": {
-            "Entrance Fee": {
-                "Egyptian": 40,
-                "Student": 20,
-                "Foreign": 160,
-                "Foreign Student": 80
+            "Prices":{
+            "Adults": "100 EGP",
+            "Students": "50 EGP"
             }
+            
         },
-        "hours": "6:00 AM to 5:00 PM",
+        "hours": "9:00 AM to 5:00 PM",
         "hotels": [
             {
-                "name": "Nefertiti Hotel Luxor",
-                "price": "$70 - $140 per night"
+                "name": "Steigenberger Omar El Khayam",
+                "price": "$200 - $350 per night"
             },
             {
-                "name": "Hotel Sheherazade",
-                "price": "$60 - $120 per night"
+                "name": "MS Nile Goddess Cruise",
+                "price": "$150 - $300 per night"
             }
         ]
     },
     {
         "id": 45,
-        "name": "Luxor Museum",
-        "imagesrc": "",
-        "description": "Luxor Museum is a prominent museum located in Luxor, Egypt, showcasing an impressive collection of artifacts from the region. The museum offers a more intimate and focused experience compared to the larger Egyptian Museum in Cairo. Visitors can admire a range of exhibits, including statues, jewelry, pottery, and mummies, all beautifully displayed in a modern and well-lit setting. Highlights include the statues of Amenhotep III and the cache of royal mummies discovered in the nearby Valley of the Kings. The museum's chronological layout provides a comprehensive overview of Luxor's history from the Old Kingdom to the Islamic era. Interactive displays and informative plaques enhance the visitor experience, making it educational and engaging. Luxor Museum is an essential visit for those interested in ancient Egyptian history and culture. The museum also offers stunning views of the Nile River from its outdoor terrace.",
+        "name": "Aswan Botanical Garden",
+        "imagesrc": "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/51891/2000x2000-0-70-15606f8f59f2e999232785ac4e335b04.jpg",
+        "description": "The Aswan Botanical Garden is situated on Kitchener's Island in the Nile River. The garden is home to a wide variety of exotic plants and trees, collected from all over the world. The lush greenery and peaceful ambiance make it a perfect place for a relaxing stroll. Visitors can enjoy the beautifully landscaped gardens, complete with walking paths, shaded areas, and benches. The island is accessible by felucca, a traditional sailboat, adding to the charm of the visit. The botanical garden is a popular spot for picnics, bird watching, and enjoying the scenic views of the Nile.",
         "price": {
-            "Entrance Fee": {
-                "Egyptian": 20,
-                "Student": 10,
-                "Foreign": 140,
-                "Foreign Student": 70
-            }
-        },
-        "hours": "9:00 AM to 4:00 PM",
+            "Entry": "Free"
+           },
+        "hours": "8:00 AM to 5:00 PM",
         "hotels": [
             {
-                "name": "Aracan Eatabe Luxor Hotel",
-                "price": "$80 - $160 per night"
+                "name": "Pyramisa Isis Island Aswan Resort",
+                "price": "$100 - $200 per night"
             },
             {
-                "name": "Jolie Ville Resort & Spa Kings Island Luxor",
-                "price": "$100 - $200 per night"
+                "name": "Sofitel Legend Old Cataract Aswan",
+                "price": "$300 - $500 per night"
             }
         ]
     },
     {
         "id": 46,
-        "name": "Temple of Seti I",
-        "imagesrc": "",
-        "description": "The Temple of Seti I is an unfinished temple located in Abydos, dedicated to the god Osiris. Known for its beautiful reliefs and inscriptions, the temple offers a fascinating glimpse into ancient Egyptian religious practices. The temple was built by Seti I and later completed by his son, Ramses II. Its unique L-shaped design features several chapels dedicated to different deities, including Osiris, Isis, and Horus. The quality and detail of the carvings are among the finest in Egypt, depicting scenes of the pharaoh's divine birth and his relationship with the gods. The temple also includes the Abydos King List, a chronological list of pharaohs from the earliest times to Seti I. Despite its unfinished state, the Temple of Seti I remains a significant site for its architectural and artistic achievements. Visitors can explore the various chambers and admire the well-preserved decorations that have survived thousands of years.",
+        "name": "Tombs of the Nobles",
+        "imagesrc": "https://www.thebritishacademy.ac.uk/media/images/Boats-Nile-River-Aswan-Egypt.55c6a9f9.fill-1000x600.jpg",
+        "description": "The Tombs of the Nobles are rock-cut tombs located on the west bank of the Nile in Aswan. These tombs belonged to ancient Egyptian nobles and officials and offer a fascinating glimpse into their burial practices and artwork. The tombs are decorated with colorful reliefs and inscriptions depicting scenes from daily life, religious rituals, and the afterlife. Visitors can explore several tombs, each with its own unique features and historical significance. The site also offers stunning views of the Nile and the surrounding landscape. The tombs provide valuable insight into the lives and beliefs of the ancient Egyptians.",
         "price": {
-            "Entrance Fee": {
-                "Egyptian": 40,
-                "Student": 20,
-                "Foreign": 160,
-                "Foreign Student": 80
+            "Prices":{
+            "Adults": "60 EGP",
+            "Students": "30 EGP"
             }
+            
         },
         "hours": "8:00 AM to 5:00 PM",
         "hotels": [
             {
-                "name": "House of Life Abydos Hotel",
-                "price": "$60 - $120 per night"
+                "name": "Helnan Aswan Hotel",
+                "price": "$90 - $180 per night"
             },
             {
-                "name": "Sohag International Hotel",
-                "price": "$80 - $160 per night"
+                "name": "Tolip Aswan Hotel",
+                "price": "$100 - $200 per night"
             }
         ]
     },
     {
         "id": 47,
-        "name": "Temple of Ramesses II",
-        "imagesrc": "",
-        "description": "The Temple of Ramesses II, located in the Valley of the Kings, is a magnificent structure known for its colossal statues of the pharaoh. Also known as the Ramesseum, this mortuary temple was dedicated to the god Ra and served as a place of worship and remembrance for Ramses II. The temple features a massive pylon, a hypostyle hall, and several sanctuaries. The colossal statues, originally flanking the entrance, are among the most striking features, showcasing the grandeur of Ramses II's reign. The walls of the temple are adorned with intricate reliefs depicting scenes from the Battle of Kadesh and other significant events. Despite the passage of time, the temple's architecture and artwork remain impressive. The site provides valuable insights into the religious and political life of ancient Egypt. Visitors can explore the ruins and appreciate the craftsmanship and scale of this monumental temple.",
+        "name": "Abu Simbel Temples",
+        "imagesrc": "https://res.cloudinary.com/culturemap-com/image/upload/ar_4:3,c_fill,g_faces:center,w_980/v1628778964/photos/322989_original.jpg",
+        "description": "The Abu Simbel Temples are massive rock temples located near the Sudanese border, about 280 km from Aswan. Built by Ramses II, the temples are dedicated to the gods Ra-Horakhty, Amun, and Ptah, as well as Ramses II himself. The larger temple features four colossal statues of Ramses II, while the smaller temple is dedicated to his queen, Nefertari. The temples were relocated in the 1960s to save them from the rising waters of Lake Nasser. The intricate carvings and impressive architecture make the temples a UNESCO World Heritage Site. Visitors can explore the temples and learn about their historical and cultural significance.",
         "price": {
-            "Entrance Fee": {
-                "Egyptian": 50,
-                "Student": 25,
-                "Foreign": 180,
-                "Foreign Student": 90
+            "Prices":{
+            "Adults": "240 EGP",
+            "Students": "120 EGP"
             }
+            
         },
-        "hours": "6:00 AM to 5:00 PM",
+        "hours": "5:00 AM to 6:00 PM",
         "hotels": [
             {
-                "name": "Iberotel Luxor",
-                "price": "$90 - $180 per night"
+                "name": "Seti Abu Simbel Lake Resort",
+                "price": "$200 - $350 per night"
             },
             {
-                "name": "Steigenberger Resort Achti",
-                "price": "$100 - $200 per night"
+                "name": "Nefertari Hotel Abu Simbel",
+                "price": "$150 - $300 per night"
             }
         ]
     },
     {
         "id": 48,
-        "name": "Tomb of Tutankhamun",
-        "imagesrc": "",
-        "description": "The Tomb of Tutankhamun, discovered nearly intact by Howard Carter in 1922, is one of the most famous archaeological finds in history. Located in the Valley of the Kings, the tomb of the boy king Tutankhamun is renowned for its wealth of treasures and its relatively small size compared to other royal tombs. The tomb's antechamber, burial chamber, and treasury were filled with stunning artifacts, including the iconic golden mask of Tutankhamun. The discovery of the tomb provided invaluable insights into the burial practices and material culture of ancient Egypt. Visitors to the tomb can see the well-preserved wall paintings and the original stone sarcophagus. The treasures of Tutankhamun are now housed in the Egyptian Museum in Cairo, but the tomb itself remains a significant and popular tourist attraction. The story of its discovery and the legacy of Tutankhamun continue to captivate people worldwide.",
+        "name": "St. Simeon Monastery",
+        "imagesrc": "https://www.kemetexperience.com/wp-content/uploads/2019/09/St.-Simeon-Monastery-Aswan.jpg",
+        "description": "St. Simeon Monastery is an ancient Christian monastery located in the desert, across from Elephantine Island in Aswan. Founded in the 6th century, the monastery offers panoramic views of the Nile and the surrounding landscape. The monastery complex includes well-preserved churches, living quarters, and defensive walls. Visitors can explore the remains of the monastery and learn about the lives of the monks who once lived there. The site provides a sense of tranquility and a unique perspective on early Christian monastic life in Egypt. The journey to the monastery can be made by camel or on foot, adding to the adventure.",
         "price": {
-            "Entrance Fee": {
-                "Egyptian": 60,
-                "Student": 30,
-                "Foreign": 240,
-                "Foreign Student": 120
+            "Prices":{
+            "Adults": "40 EGP",
+            "Students": "20 EGP"
             }
-        },
-        "hours": "6:00 AM to 5:00 PM",
+            
+           },
+        "hours": "8:00 AM to 5:00 PM",
         "hotels": [
             {
-                "name": "Al Baeirat Hotel",
-                "price": "$80 - $160 per night"
+                "name": "Sofitel Legend Old Cataract Aswan",
+                "price": "$300 - $500 per night"
             },
             {
-                "name": "Cleopatra Hotel Luxor",
-                "price": "$60 - $120 per night"
+                "name": "Basma Hotel Aswan",
+                "price": "$80 - $150 per night"
             }
         ]
     },
     {
         "id": 49,
-        "name": "Tomb of Nefertari",
-        "imagesrc": "",
-        "description": "The Tomb of Nefertari, located in the Valley of the Queens, is one of the most beautiful and well-preserved tombs in Egypt. Nefertari was the beloved wife of Ramses II, and her tomb reflects her high status and the love her husband had for her. The tomb is renowned for its vivid and colorful wall paintings, depicting Nefertari in various divine and daily life scenes. The quality of the artwork and the preservation of the colors are exceptional, offering a glimpse into the artistry of ancient Egyptian craftsmen. The tomb includes a series of chambers, each adorned with intricate and symbolic decorations. The Tomb of Nefertari is considered one of the finest examples of ancient Egyptian funerary art. Access to the tomb is limited to preserve its delicate condition, making it a rare and exclusive experience for visitors. The tomb's beauty and historical significance make it a highlight of any visit to Luxor.",
+        "name": "Felucca Ride on the Nile",
+        "imagesrc": "https://www.traveltalktours.com/wp-content/uploads/2021/11/shutterstock_1383558347-scaled.jpg",
+        "description": "A felucca ride on the Nile River is one of the most serene and enjoyable activities in Aswan. Feluccas are traditional wooden sailboats that have been used on the Nile for centuries. These rides offer a peaceful way to take in the scenic beauty of Aswan, with its lush islands, sandy shores, and ancient monuments. The gentle movement of the sailboat and the sound of the wind in the sails create a relaxing atmosphere. Rides can be arranged for a few hours or for a full day, with options to include meals and stops at various attractions along the river. A felucca ride is a perfect way to experience the timeless beauty of the Nile.",
         "price": {
-            "Entrance Fee": {
-                "Egyptian": 100,
-                "Student": 50,
-                "Foreign": 400,
-                "Foreign Student": 200
-            }
+            "Entry": "Varies by tour",
+            "Prices": "Prices vary depending on the duration and services included"
         },
-        "hours": "6:00 AM to 4:00 PM",
+        "hours": "All day",
         "hotels": [
             {
-                "name": "Nour El Balad",
-                "price": "$70 - $140 per night"
+                "name": "Mövenpick Resort Aswan",
+                "price": "$120 - $250 per night"
             },
             {
-                "name": "El Mesala Hotel",
-                "price": "$60 - $120 per night"
-            }
-        ]
-    },
-    {
-        "id": 50,
-        "name": "Tomb of Thutmose III",
-        "imagesrc": "",
-        "description": "The Tomb of Thutmose III, located in the Valley of the Kings, is a uniquely designed tomb featuring a spiral staircase and vibrant wall paintings. Thutmose III, often referred to as the Napoleon of ancient Egypt, was one of the greatest military pharaohs. His tomb reflects his importance and the grandeur of his reign. The tomb is accessed through a steep descent, leading to a series of chambers decorated with scenes from the Amduat, an ancient Egyptian funerary text. The vivid and detailed paintings provide insights into the religious beliefs and practices of the time. The tomb's innovative design and the quality of its artwork make it a significant site in the Valley of the Kings. Despite being plundered in antiquity, the tomb remains an important archaeological and tourist destination. Visitors can explore the chambers and admire the intricate decorations that have survived the ravages of time.",
-        "price": {
-            "Entrance Fee": {
-                "Egyptian": 60,
-                "Student": 30,
-                "Foreign": 240,
-                "Foreign Student": 120
-            }
-        },
-        "hours": "6:00 AM to 5:00 PM",
-        "hotels": [
-            {
-                "name": "Villa Nile House",
-                "price": "$80 - $160 per night"
-            },
-            {
-                "name": "New Memnon Hotel",
-                "price": "$70 - $140 per night"
-            }
-        ]
-    },
-    {
-        "id": 51,
-        "name": "Tomb of Ramesses VI",
-        "imagesrc": "",
-        "description": "The Tomb of Ramesses VI, located in the Valley of the Kings, is known for its detailed astronomical ceiling and colorful wall decorations. The tomb is one of the most beautifully decorated in the valley, showcasing the artistic achievements of ancient Egyptian craftsmen. The ceiling features intricate depictions of the night sky, including constellations and astronomical symbols. The walls are adorned with scenes from various funerary texts, including the Book of the Dead and the Book of Gates. The tomb's layout and design reflect the importance of Ramesses VI and his desire to ensure a safe passage to the afterlife. Despite damage and looting over the centuries, the tomb remains an important and popular site for visitors. The preservation of the colors and the quality of the artwork make it a highlight of any visit to the Valley of the Kings. The tomb provides valuable insights into ancient Egyptian beliefs about the afterlife and the pharaoh's role in the cosmos.",
-        "price": {
-            "Entrance Fee": {
-                "Egyptian": 50,
-                "Student": 25,
-                "Foreign": 180,
-                "Foreign Student": 90
-            }
-        },
-        "hours": "6:00 AM to 5:00 PM",
-        "hotels": [
-            {
-                "name": "Desert Rose Hotel",
-                "price": "$70 - $140 per night"
-            },
-            {
-                "name": "El Nakhil Hotel",
-                "price": "$60 - $120 per night"
-            }
-        ]
-    },
-    {
-        "id": 52,
-        "name": "Hot Air Balloon Ride",
-        "imagesrc": "",
-        "description": "A Hot Air Balloon Ride over Luxor offers a unique and breathtaking perspective of the ancient city and its surroundings. The early morning flights provide stunning views of the temples, the Nile River, and the desert landscape as the sun rises. This experience allows visitors to see Luxor from a new angle, capturing the beauty and majesty of the historical sites from above. The ride typically lasts about an hour, during which passengers can enjoy a serene and peaceful journey through the sky. The balloons are operated by experienced pilots, ensuring a safe and enjoyable experience. The views of landmarks such as the Valley of the Kings, Karnak Temple, and Hatshepsut's Mortuary Temple are truly unforgettable. A hot air balloon ride is a must-do activity for those seeking a memorable and unique way to experience Luxor. The combination of adventure and history makes it an ideal addition to any visit to this ancient city.",
-        "price": {
-            "Entrance Fee": {
-                "Egyptian": 200,
-                "Student": 150,
-                "Foreign": 400,
-                "Foreign Student": 300
-            }
-        },
-        "hours": "5:00 AM to 8:00 AM",
-        "hotels": [
-            {
-                "name": "Scarab Hotel Luxor",
+                "name": "Pyramisa Isis Island Aswan Resort",
                 "price": "$100 - $200 per night"
-            },
-            {
-                "name": "Sunset Hotel Luxor",
-                "price": "$90 - $180 per night"
             }
         ]
     },
-    {
-        "id": 53,
-        "name": "Dendera Temple Complex",
-        "imagesrc": "",
-        "description": "The Dendera Temple Complex, located north of Luxor, is one of the best-preserved temple sites in Egypt. Dedicated to the goddess Hathor, the complex features a stunning zodiac ceiling, which is one of its most famous attractions. The main temple, the Temple of Hathor, showcases elaborate carvings and well-preserved reliefs depicting scenes of the pharaohs and deities. The complex also includes the Temple of Isis, the Sacred Lake, and several smaller chapels and shrines. The detailed astronomical and astrological decorations provide valuable insights into ancient Egyptian beliefs and practices. The temple's impressive architecture and intricate artwork make it a significant historical and cultural site. Visitors can explore the various chambers and admire the craftsmanship that has survived thousands of years. The Dendera Temple Complex offers a fascinating glimpse into the religious and artistic achievements of ancient Egypt, making it a must-visit for history enthusiasts.",
+        {"id": 50,
+        "name": "Qubbet el-Hawa (Dome of the Wind)",
+        "imagesrc": "https://cdn.localadventures.io/cdn-cgi/image/w=1920,h=1080,q=85,f=auto/330367/Visitando-El-Cairo-Sharm-el-sheikh-Dahab-89aa794.jpg",
+        "description": "Qubbet el-Hawa, also known as the Dome of the Wind, is an ancient archaeological site located on the west bank of the Nile River near Aswan. This site is famous for its impressive dome-shaped tombs carved into the rock, which date back to the Old and Middle Kingdoms of Egypt. The tombs are known for their well-preserved hieroglyphs and intricate carvings that provide valuable insights into the funerary practices and beliefs of ancient Egyptians. The site offers stunning views of the Nile and the surrounding desert landscape. Visiting Qubbet el-Hawa provides a unique opportunity to explore lesser-known but historically significant burial sites and learn about the lives of the elite during Egypt's early dynastic periods.",
         "price": {
-            "Entrance Fee": {
-                "Egyptian": 50,
-                "Student": 25,
-                "Foreign": 180,
-                "Foreign Student": 90
+            "Prices":{
+            "Adults": "100 EGP",
+            "Students": "50 EGP"
             }
-        },
-        "hours": "7:00 AM to 5:00 PM",
+            
+           },
+        "hours": "8:00 AM to 5:00 PM",
         "hotels": [
             {
-                "name": "Hotel Dendera",
-                "price": "$80 - $160 per night"
+                "name": "Helnan Aswan Hotel",
+                "price": "$90 - $180 per night"
             },
             {
-                "name": "Hathor Hotel",
-                "price": "$70 - $140 per night"
+                "name": "Tolip Aswan Hotel",
+                "price": "$100 - $200 per night"
             }
         ]
     }
+    
 ]
+
 function getPlaceById(id) {
     return places.find(place => place.id === parseInt(id));
 }
