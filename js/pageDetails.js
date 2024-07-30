@@ -1990,32 +1990,32 @@ places = [
 
 {
     "id": 94,
-    "name": "Shali Fortress",
-    "imagesrc": "https://aminus3.s3.amazonaws.com/image/g0032/u00031613/i01815569/8b140cd0202e0838cb2e43e07fa9083d_large.jpg",
-    "description": "Shali Fortress is a historic and iconic structure located in the heart of the Siwa Oasis. Built in the 13th century, this mud-brick fortress served as a defensive stronghold for the local inhabitants. The fortress is a labyrinth of narrow alleys, towering walls, and ancient houses, many of which have been partially restored. Visitors can explore the ruins and enjoy panoramic views of Siwa from the top of the fortress. The Shali Fortress is an excellent place to learn about the history and architecture of the Siwa Oasis, offering insights into the traditional construction techniques and the daily life of its past residents. The fortress is illuminated at night, creating a magical atmosphere that adds to its charm. A visit to Shali Fortress is a journey back in time, providing a fascinating glimpse into the history and culture of this unique oasis.",
-    "price": {
-        "Entrance Fee": {
-            "Egyptian": 20,
-            "Student": 10,
-            "Foreign": 40,
-            "Foreign Student": 20
-        }
-    },
-    "hours": "8:00 AM to 8:00 PM",
-    "hotels": [
-        {
-            "name": "Siwa Shali Resort",
-            "price": "$90 - $150 per night"
+    "name": "Siwa Lake",
+    "imagesrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/76/37/79/salte.jpg?w=1200&h=-1&s=1",
+        "description": "Siwa Lake is a picturesque body of water located in the Siwa Oasis, surrounded by lush palm groves and stunning desert landscapes. This saltwater lake is one of the most tranquil spots in the oasis, offering visitors a chance to relax and unwind in a serene environment. The lake is known for its high salt content, which makes floating on the water a unique and buoyant experience. The shores of Siwa Lake are perfect for picnicking, bird-watching, and enjoying the natural beauty of the area. The surrounding palm groves provide a shady retreat from the sun, making it an ideal spot for a leisurely afternoon. Whether you're looking to float in the lake, explore the surrounding nature, or simply enjoy the peaceful ambiance, Siwa Lake is a must-visit destination in the Siwa Oasis.",
+        "price": {
+            "Entrance Fee": {
+                "Egyptian": 20,
+                "Student": 10,
+                "Foreign": 40,
+                "Foreign Student": 20
+            }
         },
-        {
-            "name": "Ghaliet Ecolodge",
-            "price": "$100 - $180 per night"
-        },
-        {
-            "name": "Siwa Oasis Hotel",
-            "price": "$80 - $140 per night"
-        }
-    ]
+        "hours": "7:00 AM to 6:00 PM",
+        "hotels": [
+            {
+                "name": "Siwa Shali Resort",
+                "price": "$90 - $150 per night"
+            },
+            {
+                "name": "Adrere Amellal",
+                "price": "$180 - $300 per night"
+            },
+            {
+                "name": "Taziry Ecolodge",
+                "price": "$120 - $200 per night"
+            }
+        ]
 },
 
    
