@@ -36,13 +36,13 @@ function addNav() {
               </svg>
           </a>
           <div class="dropdown-content">
-            <a href="hotels.html?id=cairo">Cairo Hotels</a>
-            <a href="hotels.html?id=alex">Alexandria Hotels</a>
-            <a href="hotels.html?id=luxor">Luxor Hotels</a>
-            <a href="hotels.html?id=aswan">Aswan Hotels</a>
-            <a href="hotels.html?id=sharm">Sharm El Sheikh Hotels</a>
-            <a href="hotels.html?id=siwa">Siwa Hotels</a>
-            <a href="hotels.html?id=fayoum">Fayoum Hotels</a>
+            <a href="hotels.html?city=cairo">Cairo Hotels</a>
+            <a href="hotels.html?city=alexandria">Alexandria Hotels</a>
+            <a href="hotels.html?city=luxor">Luxor Hotels</a>
+            <a href="hotels.html?city=aswan">Aswan Hotels</a>
+            <a href="hotels.html?city=sharm">Sharm El Sheikh Hotels</a>
+            <a href="hotels.html?city=siwa">Siwa Hotels</a>
+            <a href="hotels.html?city=fayoum">Fayoum Hotels</a>
           </div>
         </li>
       </ul>
@@ -73,9 +73,8 @@ function addLoadingScreen() {
   }
 addLoadingScreen();
 function hideLoadingScreen() {
-    setTimeout(() => {
-        document.getElementById("loading-screen").style.display = "none";
-    }, 500);
+            document.getElementById("loading-screen").style.display = "none";
+    
 }
 
 window.addEventListener('load', hideLoadingScreen);

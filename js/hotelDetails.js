@@ -22,7 +22,6 @@ Hotels = [
     {
         id: 3,
         name: "Kempinski Nile Hotel Garden City Cairo",
-        city: "cairo",
         insideimg: "",
         outsideimg: "",
         description: "Kempinski Nile Hotel Garden City Cairo is a boutique hotel that offers personalized service and luxurious accommodations. The hotel features elegantly designed rooms and suites, each equipped with modern amenities. Guests can enjoy a variety of dining options, from gourmet restaurants to casual cafes. The rooftop pool provides stunning views of the Nile River and the city skyline. The hotel also offers a state-of-the-art fitness center and a full-service spa. Business travelers will appreciate the well-equipped meeting rooms and event spaces. Kempinski Nile Hotel Garden City Cairo is the ideal choice for those seeking a luxurious and intimate stay in Cairo.",
@@ -139,55 +138,29 @@ Hotels = [
     }
 ];
 
+function getPlaceById(id) {
+    return Hotels.find(place => place.id === parseInt(id));
+}
+
+function renderPlaceDetail(place) {
+    document.getElementById('hotel-name').textContent = place.name;
+    document.getElementById('place-image').setAttribute('src', place.insideimg);
+    document.getElementById('place-image').setAttribute('alt', place.name);
+    document.getElementById('place-outsideImage').setAttribute('src', place.outsideimg);
+    document.getElementById('place-outsideImage').setAttribute('alt', place.name);
+    document.getElementById('hotel-description').textContent = place.description;
+    document.getElementById('hotel-link').setAttribute('href', place.link);
+    document.getElementById('hotel-link').textContent = place.link;
+    document.getElementById('hotel-prices').textContent = place.prices;
+}
 
 
-function getHotelsByCity(city) {
-    return Hotels.filter(hotel => hotel.city === city);
-  }
-  
-  function createCards(places) {
-    document.getElementById('page-title').textContent = `Hotels in ${places[0].city.charAt(0).toUpperCase() + places[0].city.slice(1)}`;
-      const container = document.getElementById('cards-container');
-      container.innerHTML = ''; // Clear previous cards
-      places.forEach(place => {
-          const card = document.createElement('div');
-          card.className = 'card';
-  
-          const img = document.createElement('img');
-          img.setAttribute('src', place.outsideimg);
-          img.setAttribute('alt', place.name);
-  
-          const contentDiv = document.createElement('div');
-          contentDiv.className = 'card__content';
-  
-          const title = document.createElement('p');
-          title.className = 'card__title';
-          title.textContent = place.name;
-  
-          const description = document.createElement('p');
-          description.className = 'card__description';
-          description.textContent = place.description;
-  
-          contentDiv.appendChild(title);
-          contentDiv.appendChild(description);
-  
-          card.appendChild(img);
-          card.appendChild(contentDiv);
-  
-          card.addEventListener('click', () => {
-              window.location.href = `hotelDetails.html?id=${place.id}`;
-          });
-  
-          container.appendChild(card);
-      });
-  }
-  
-  const urlParams = new URLSearchParams(window.location.search);
-  const city = urlParams.get('city');
-  const hotelsInCity = getHotelsByCity(city);
-  
-  if (hotelsInCity.length > 0) {
-      createCards(hotelsInCity);
-  } else {
-      document.getElementById('cards-container').textContent = 'No hotels found in this city.';
-  }
+const urlParams = new URLSearchParams(window.location.search);
+const placeId = urlParams.get('id');
+const place = getPlaceById(placeId);
+
+if (place) {
+    renderPlaceDetail(place);
+} else {
+    document.getElementById('detail-container').textContent = 'Place not found.';
+}
