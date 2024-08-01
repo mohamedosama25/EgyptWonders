@@ -29,12 +29,29 @@ function addNav() {
         <li><a href="sharm.html">Sharm El Sheikh</a></li>
         <li><a href="siwa.html">Siwa</a></li>
         <li><a href="fayoum.html">Fayoum</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropbtn">Hotels
+              <svg class="dropdown-arrow" width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+                  <polygon points="0,0 10,0 5,5" fill="white"/>
+              </svg>
+          </a>
+          <div class="dropdown-content">
+            <a href="hotels.html?id=cairo">Cairo Hotels</a>
+            <a href="hotels.html?id=alex">Alexandria Hotels</a>
+            <a href="hotels.html?id=luxor">Luxor Hotels</a>
+            <a href="hotels.html?id=aswan">Aswan Hotels</a>
+            <a href="hotels.html?id=sharm">Sharm El Sheikh Hotels</a>
+            <a href="hotels.html?id=siwa">Siwa Hotels</a>
+            <a href="hotels.html?id=fayoum">Fayoum Hotels</a>
+          </div>
+        </li>
       </ul>
     </div>
   `;
 }
 
 addNav();
+
 
 function addLoadingScreen() {
     const loadingScreenHTML = `

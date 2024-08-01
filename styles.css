@@ -485,3 +485,48 @@ img {
   font-size: 1.3em;
   
 }
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropbtn {
+  background-color: var(--nav-clr);
+
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.dropbtn svg.dropdown-arrow {
+  margin-left: 5px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: var(--nav-clr);
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  right: 0; /* Ensure the dropdown content is within the viewport */
+}
+
+.dropdown-content a {
+ 
+  padding: 15px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+
+  color: var(--btn-hover);
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
