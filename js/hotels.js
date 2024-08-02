@@ -309,19 +309,9 @@ Hotels = [
         prices: "$120 - $250 per night",
         link: "https://www.booking.com/hotel/eg/helnan-aswan-formerly-iberotel-aswan.html"
     },
-    {
-        id: 46,
-        name: "Helnan Aswan Hotel",
-        city: "aswan",
-        insideimg: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFAuMknJ1t4oHuv5BuYGR0aSe6ER58XY_F0w&s",
-        outsideimg: "https://foto.hrsstatic.com/fotos/0/2/1000/595/80/000000/http%3A%2F%2Ffoto-origin.hrsstatic.com%2Ffoto%2Fdms%2F612324%2FEAN%2F5cdc4696_z.jpg/61df88a188f8a4d4366c5b02ca28c042/500%2C297/6/Tolip_Aswan_Hotel-Aswan-Info-6-612324.jpg",
-        description: "Helnan Aswan Hotel is a stylish hotel located on the Corniche El Nile, offering beautiful views of the Nile River. The hotel features modern rooms with amenities such as free Wi-Fi and satellite TV. Guests can enjoy a variety of dining options, relax by the outdoor swimming pool, and take advantage of the fitness center and spa. The hotel also offers meeting and event facilities, making it a great choice for business travelers. With its prime location and excellent service, Helnan Aswan Hotel is an ideal choice for a memorable stay.",
-        prices: "$130 - $280 per night",
-        link: "https://www.helnan.com/en/"
-    },
 
     {
-        id: 47,
+        id: 46,
         name: "Keylany Hotel",
         city: "aswan",
         insideimg: "https://images.trvl-media.com/lodging/17000000/16330000/16320100/16320029/3459d278.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
@@ -331,7 +321,7 @@ Hotels = [
         link: "https://ar.trivago.com/en-145/oar/hotel-keylany-assuan-aswan?search=100-86760"
     },
     {
-        id: 48,
+        id: 47,
         name: "Nile Hotel Aswan",
         city: "aswan",
         insideimg: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/184006712.jpg?k=5da37e44fc67b97a99562f59fcff0f3c4af716a644812b362cb095d533ceb380&o=&hp=1",
@@ -341,7 +331,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/pyramisa-isis-corniche-aswan-resort.html"
     },
     {
-        id: 49,
+        id: 48,
         name: "Hapi Hotel",
         city: "aswan",
         insideimg: "https://www.etltravel.com/wp-content/uploads/2020/01/hapi-hotel-aswan-egypt-6-1.jpg",
@@ -352,7 +342,7 @@ Hotels = [
     },
 
     {
-        id: 50,
+        id: 49,
         name: "Ekadolli Nubian Guesthouse",
         city: "aswan",
         insideimg: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/13057954.jpg?k=b4c703d542b0f2ea425d48de47eb52a270a370fe53599be3b7cd36e8097abc26&o=&hp=1",
@@ -362,7 +352,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/ekadolli-nubian-guesthouse-aswan.html"
     },
     {
-        id: 51,
+        id: 50,
         name: "Anakato Nubian Houses",
         city: "aswan",
         insideimg: "https://res.cloudinary.com/enchanting/c_lfill,q_90,w_400,h_400/artemis-mdm/85f0f55b-d487-473b-bcbd-b1649526f6ae.jpg",
