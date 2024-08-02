@@ -149,6 +149,156 @@ Hotels = [
         prices: "$150 - $300 per night",
         link: "https://www.booking.com/hotel/eg/le-meridien-cairo-airport.html"
     },
+    {
+        id: 16,
+        name: "Four Seasons Hotel Alexandria at San Stefano",
+        city: "alexandria",
+        insideimg: "https://robbreport.com/wp-content/uploads/2023/07/FourSeasonsEgypt2.jpg?resize=300",
+        outsideimg: "https://mescegypt.com/wp-content/uploads/2021/05/four-seasons.png",
+        description: "Four Seasons Hotel Alexandria at San Stefano offers luxury accommodation with stunning Mediterranean Sea views. The hotel features elegantly designed rooms, multiple dining options, an outdoor pool, and a full-service spa. Guests can enjoy personalized service and a variety of recreational facilities. The hotel's prime location provides easy access to Alexandria's attractions. Business travelers can take advantage of extensive meeting facilities and business services. The hotel also offers family-friendly amenities and activities. It's ideal for both leisure and business travelers, offering exceptional service and comfort.",
+        prices: "$300 - $600 per night",
+        link: "https://www.booking.com/hotel/eg/four-seasons-alexandria.html"
+    },
+    {
+        id: 17,
+        name: "Hilton Alexandria Corniche",
+        city: "alexandria",
+        insideimg: "https://apiimg.iberostar.com/uploads/image/77350/crops/16:9/1920/image.jpeg",
+        outsideimg: "https://www.hilton.com/im/en/ALYACHI/6077824/alyac-hilton-alexandria-corniche-exterior-image.jpg?impolicy=crop&cw=5729&ch=2404&gravity=NorthWest&xposition=0&yposition=704&rw=1920&rh=806",
+        description: "Hilton Alexandria Corniche boasts a prime location on the corniche, offering panoramic sea views. The hotel features modern rooms, several dining options, an outdoor pool, and a private beach. Guests can relax at the spa or stay active in the fitness center. The hotel is ideal for both relaxation and business with its well-equipped meeting rooms. It also offers shuttle services to nearby attractions. The rooftop bar provides a stunning view of the Mediterranean. It's a perfect blend of comfort and luxury.",
+        prices: "$150 - $350 per night",
+        link: "https://www.booking.com/hotel/eg/hilton-alexandria-corniche.html"
+    },
+    {
+        id: 18,
+        name: "Steigenberger Cecil Hotel Alexandria",
+        city: "alexandria",
+        insideimg: "https://assets.hrewards.com/assets/jpg.xxlarge_570_SHR_Cecil_Alexandria_rooms_Classic_room_city_view_83bf474eaf.jpg?optimize",
+        outsideimg: "https://www.ootlah.com/wp-content/uploads/2021/11/121-125426-alexandria-hotel-cecil-mediterranean-sea_700x400.png",
+        description: "Steigenberger Cecil Hotel Alexandria combines historical charm with modern amenities. Located in the heart of the city, it offers comfortable rooms, excellent dining options, and a charming ambiance. Guests can enjoy the historical architecture and elegant decor. The hotel features a rooftop terrace with panoramic views. It's ideal for both leisure and business travelers, offering convenient access to major attractions. The hotel also provides event spaces for meetings and celebrations. Personalized service ensures a memorable stay.",
+        prices: "$100 - $250 per night",
+        link: "https://www.booking.com/hotel/eg/steigenberger-cecil.html"
+    },
+    {
+        id: 19,
+        name: "Radisson Blu Hotel Alexandria",
+        city: "alexandria",
+        insideimg: "https://media.radissonhotels.net/image/radisson-blu-hotel-alexandria/suite/16256-116695-f63816396_3xl.jpg?impolicy=Card",
+        outsideimg: "https://db.com.eg/wp-content/uploads/2021/09/Radisson-Blule-Alexandria-matv.jpg",
+        description: "Radisson Blu Hotel Alexandria provides contemporary accommodation with easy access to the city's attractions. The hotel features spacious rooms, multiple restaurants, an outdoor pool, and a fitness center. Guests can relax at the spa or enjoy a drink at the bar. The hotel's conference facilities are ideal for business events. It's suitable for both business and leisure stays, offering modern amenities and services. The hotel also offers shuttle services to popular destinations. A blend of comfort and convenience awaits guests.",
+        prices: "$120 - $300 per night",
+        link: "https://www.booking.com/hotel/eg/radisson-blu-alexandria.html"
+    },
+    {
+        id: 20,
+        name: "Sheraton Montazah Hotel",
+        city: "alexandria",
+        insideimg: "https://cache.marriott.com/marriottassets/marriott/ALYSI/alysi-queen-guestroom-8539-hor-wide.jpg?interpolation=progressive-bilinear&downsize=1440px:*",
+        outsideimg: "https://iccta.aast.edu/archive/2021/img/hotels/Sheraton-1.jpg",
+        description: "Sheraton Montazah Hotel is located near Montazah Palace, offering beautiful sea views. The hotel features comfortable rooms, various dining options, an outdoor pool, and a fitness center. Guests can enjoy the private beach and recreational facilities. It's a great choice for travelers seeking convenience and comfort. The hotel also offers event spaces for meetings and celebrations. Family-friendly amenities ensure a pleasant stay for all guests. Experience a blend of luxury and relaxation.",
+        prices: "$130 - $280 per night",
+        link: "https://www.booking.com/hotel/eg/sheraton-montazah.html"
+    },
+    {
+        id: 21,
+        name: "Helnan Palestine Hotel",
+        city: "alexandria",
+        insideimg: "https://www.etltravel.com/wp-content/uploads/2019/12/helnan-palestine-hotel-alexandria-8.jpg",
+        outsideimg: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/86/bb/8b/helnan-palestine-hotel.jpg?w=700&h=-1&s=1",
+        description: "Helnan Palestine Hotel is a luxurious beachfront property situated in Montazah Royal Gardens. The hotel offers elegant rooms, fine dining, an outdoor pool, and a private beach. Guests can enjoy the tranquil and upscale experience with beautiful garden views. The hotel features a fitness center and spa for relaxation. It's ideal for those looking for a peaceful getaway. Business travelers can utilize the hotel's meeting facilities. Personalized service and beautiful surroundings make for an unforgettable stay.",
+        prices: "$200 - $450 per night",
+        link: "https://www.booking.com/hotel/eg/helnan-palestine.html"
+    },
+    {
+        id: 22,
+        name: "Tolip Hotel Alexandria",
+        city: "alexandria",
+        insideimg: "https://static21.com-hotel.com/uploads/hotel/61057/photo/tolip-hotel-alexandria_153809706114.jpg",
+        outsideimg: "https://www.cairotoptours.com/storage/3248/conversions/09997c9f9b061055847c2b5bb0719f36-webp.webp",
+        description: "Tolip Hotel Alexandria offers modern accommodation with sea views and easy access to the city's attractions. The hotel features stylish rooms, a variety of dining options, an outdoor pool, and a fitness center. Guests can enjoy recreational activities and a relaxing spa. It's suitable for both business and leisure travelers. The hotel's event spaces are perfect for meetings and celebrations. Family-friendly amenities ensure a pleasant stay for all guests. Enjoy comfort and convenience at Tolip Hotel.",
+        prices: "$110 - $250 per night",
+        link: "https://www.booking.com/hotel/eg/tolip-alexandria.html"
+    },
+    {
+        id: 23,
+        name: "Paradise Inn Le Metropole Hotel",
+        city: "alexandria",
+        insideimg: "https://th.bing.com/th/id/OIP.iom8LGyC4L2r7MpwsIFT3wHaFA?w=2073&h=1401&rs=1&pid=ImgDetMain",
+        outsideimg: "https://i.pinimg.com/originals/95/4a/dc/954adc9677fa9cd363cc8d096a99499a.jpg",
+        description: "Paradise Inn Le Metropole Hotel is a historic hotel offering a blend of classical elegance and modern comfort. Located in the city center, it provides comfortable rooms, a restaurant, and excellent service. Guests can appreciate the historical charm and elegant decor. The hotel features a rooftop terrace with beautiful views. It's perfect for those who appreciate historical charm and modern amenities. The hotel also offers event spaces for meetings and celebrations. Experience a unique stay at Paradise Inn Le Metropole.",
+        prices: "$90 - $220 per night",
+        link: "https://www.booking.com/hotel/eg/le-metropole.html"
+    },
+    {
+        id: 24,
+        name: "Semiramis Hotel Alexandria",
+        city: "alexandria",
+        insideimg: "https://www.ahstatic.com/photos/7535_rosdaov_00_p_1024x768.jpg",
+        outsideimg: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268908144.jpg?k=389ab037f41731d3d4f55cd906755163396ec545e2b3eff827418e430952464d&o=&hp=1",
+        description: "Semiramis Hotel Alexandria offers budget-friendly accommodation in a central location. The hotel features comfortable rooms, a restaurant, and basic amenities. Guests can enjoy easy access to the city's attractions and public transport. It's a good choice for travelers seeking value for money. The hotel provides essential services for a comfortable stay. Friendly staff ensures a welcoming atmosphere. Enjoy a convenient stay at Semiramis Hotel.",
+        prices: "$40 - $100 per night",
+        link: "https://www.booking.com/hotel/eg/semiramis-alexandria.html"
+    },
+    {
+        id: 25,
+        name: "Cherry Maryski Hotel",
+        city: "alexandria",
+        insideimg: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e9/52/c3/grand-royal-alex-hotel.jpg?w=1200&h=-1&s=1",
+        outsideimg: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/1e/e6/6f/hotel-entrance.jpg?w=1000&h=-1&s=1",
+        description: "Cherry Maryski Hotel offers modern and comfortable accommodation in the heart of Alexandria. The hotel features well-appointed rooms, a variety of dining options, an outdoor pool, and a fitness center. Guests can enjoy recreational activities and a relaxing ambiance. It's ideal for both leisure and business travelers. The hotel's event spaces are perfect for meetings and celebrations. Family-friendly amenities ensure a pleasant stay for all guests. Experience a blend of comfort and convenience.",
+        prices: "$70 - $180 per night",
+        link: "https://www.booking.com/hotel/eg/cherry-maryski.html"
+    },
+    {
+        id: 26,
+        name: "Alexander The Great Hotel",
+        city: "alexandria",
+        insideimg: "https://www.etltravel.com/wp-content/uploads/2019/12/alexander-the-great-hotel-alexandria-15-1.jpg",
+        outsideimg: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/cf/b3/6e/caption.jpg?w=600&h=-1&s=1",
+        description: "Alexander The Great Hotel is a boutique hotel offering personalized service and comfortable accommodation. Located in a prime area, it provides cozy rooms, a restaurant, and a warm ambiance. Guests can enjoy the intimate atmosphere and attentive service. The hotel is ideal for a relaxing stay. It's perfect for travelers looking for a unique and charming experience. Enjoy easy access to the city's attractions. Alexander The Great Hotel offers a memorable stay.",
+        prices: "$50 - $120 per night",
+        link: "https://www.booking.com/hotel/eg/alexander-the-great.html"
+    },
+    {
+        id: 27,
+        name: "Plaza Hotel Alexandria",
+        city: "alexandria",
+        insideimg: "https://azha-travel.com/wp-content/uploads/2023/02/262025004_11zon-870x555.jpg",
+        outsideimg: "https://azha-travel.com/wp-content/uploads/2023/02/209406151_11zon-870x555.jpg",
+        description: "Plaza Hotel Alexandria offers beachfront accommodation with beautiful sea views. The hotel features comfortable rooms, dining options, and modern amenities. Guests can enjoy the relaxing ambiance and convenient location. It's a suitable choice for travelers seeking comfort and convenience. The hotel provides essential services for a pleasant stay. Friendly staff ensures a welcoming atmosphere. Enjoy a beachfront stay at Plaza Hotel.",
+        prices: "$80 - $200 per night",
+        link: "https://www.booking.com/hotel/eg/plaza-alexandria.html"
+    },
+    {
+        id: 28,
+        name: "Iberotel Borg El Arab",
+        city: "alexandria",
+        insideimg: "https://media-cdn.tripadvisor.com/media/photo-s/11/8d/51/9c/iberotel-borg-el-arab.jpg",
+        outsideimg: "https://media-cdn.tripadvisor.com/media/photo-s/09/26/69/a4/exterior-view.jpg",
+        description: "Iberotel Borg El Arab provides luxury accommodation near Alexandria. The hotel features elegant rooms, multiple dining options, an outdoor pool, and a private beach. Guests can enjoy recreational activities and a relaxing spa. It's ideal for both relaxation and business, offering extensive meeting facilities. The hotel provides shuttle services to popular destinations. Family-friendly amenities ensure a pleasant stay for all guests. Experience luxury and comfort at Iberotel Borg El Arab.",
+        prices: "$150 - $350 per night",
+        link: "https://www.booking.com/hotel/eg/iberotel-borg-el-arab.html"
+    },
+    {
+        id: 29,
+        name: "Paradise Inn Beach Resort",
+        city: "alexandria",
+        insideimg: "https://photos.hotelbeds.com/giata/xl/13/133339/133339a_hb_a_012.jpg",
+        outsideimg: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/42/db/76/paradise-inn-beach-resort.jpg?w=900&h=-1&s=1",
+        description: "Paradise Inn Beach Resort offers beachfront accommodation with modern amenities. The resort features comfortable rooms, dining options, an outdoor pool, and direct access to the beach. Guests can enjoy recreational activities and a relaxing ambiance. It's perfect for a seaside getaway. The resort provides essential services for a pleasant stay. Family-friendly amenities ensure a welcoming atmosphere. Experience a beachfront stay at Paradise Inn Beach Resort.",
+        prices: "$70 - $180 per night",
+        link: "https://www.booking.com/hotel/eg/paradise-inn-beach-resort.html"
+    },
+    {
+        id: 500,
+        name: "Aifu Resort El Montazah",
+        city: "alexandria",
+        insideimg: "https://www.etltravel.com/wp-content/uploads/2019/12/aifu-resort-el-montazah-alexandria-16-1.jpg",
+        outsideimg: "https://media-cdn.tripadvisor.com/media/photo-s/06/f9/70/0f/aifu-resort-el-montazah.jpg",
+        description: "Aifu Resort El Montazah offers comfortable accommodation with views of Montazah Royal Gardens and the Mediterranean Sea. The hotel features cozy rooms, a restaurant, an outdoor pool, and easy access to the beach. Guests can enjoy the relaxing ambiance and beautiful surroundings. It's a great choice for a peaceful getaway. The hotel provides essential services for a pleasant stay. Family-friendly amenities ensure a welcoming atmosphere. Experience comfort and convenience at Aifu Resort El Montazah.",
+        prices: "$60 - $150 per night",
+        link: "https://www.booking.com/hotel/eg/aifu-resort.html"
+    },
         {
         id: 30,
         name: "Sofitel Winter Palace Luxor",
@@ -239,6 +389,7 @@ Hotels = [
         prices: "$80 - $200 per night",
         link: "https://www.booking.com/hotel/eg/el-luxor.html"
     },
+   
     {
         id: 39,
         name: "Mercure Luxor Karnak",
