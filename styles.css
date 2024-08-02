@@ -367,7 +367,7 @@ img {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  box-shadow: 20px 20px 60px #bebebe6e, -20px -20px 60px #ffffff0c;
+  box-shadow: 5px 5px 60px #bebebe6e, -20px -20px 60px #ffffff0c;
   margin: auto;
   margin-bottom: 40px;
 }
@@ -526,15 +526,22 @@ img {
 
 #hotel-link,
 #hotel-prices {
-  font-size: 1.6em;
+  font-size: 1.5em;
   padding-top: 5px;
 }
-
+#hotel-link {
+  color: var(--lon-description);
+  margin: 0px;
+}
+#hotel-link:hover {
+  color: var(--nav-clr);
+}
 #hotel-description {
-  font-size: 1.35em;
+  font-size: 1.3em;
   font-weight: 500;
   padding: 0px 0px 0px 20px;
   margin-bottom: 30px;
+  max-width: 60%;
 }
 
 
