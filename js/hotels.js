@@ -604,16 +604,6 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/monte-carlo-sharm-resort-spa.html"
     },
     {
-        "id": 61,
-        "name": "Royal Savoy Hotel and Villas",
-        "city": "sharm",
-        "insideimg": "https://th.bing.com/th/id/OIP.E3lRm2axnGFugEOaDZoWVwHaE8?rs=1&pid=ImgDetMain",
-        "outsideimg": "https://a.loveholidays.com/images/holidays/059429019294ce469b8294c71ed9049b1461c727/holidays/egypt/red-sea/sharm-el-sheikh/the-savoy-0.jpg",
-        "description": "Royal Savoy Hotel and Villas is an exclusive boutique hotel located in the prestigious Savoy resort. The hotel offers luxurious rooms, suites, and villas with private balconies and sea views. Guests can enjoy exclusive access to private lounges and pools. Dining options include a variety of gourmet restaurants and bars. The hotel's facilities include a private beach, several swimming pools, and a comprehensive spa. Activities include water sports, diving, and access to the amenities of the larger Savoy resort. Royal Savoy's exceptional service and elegant ambiance make it a top choice for discerning travelers.",
-        "prices": "$200 - $500 per night",
-        "link": "https://www.booking.com/hotel/eg/royal-savoy-sharm-el-sheikh.html"
-    },
-    {
         "id": 62,
         "name": "Hilton Sharm Waterfalls Resort",
         "city": "sharm",
