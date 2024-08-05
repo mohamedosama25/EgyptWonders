@@ -502,17 +502,128 @@ Hotels = [
         prices: "$20 - $50 per night",
         link: "https://www.booking.com/hotel/eg/ekadolli-nubian-guesthouse-aswan.html"
     },
+   
     {
-        id: 50,
-        name: "Anakato Nubian Houses",
-        city: "aswan",
-        insideimg: "https://res.cloudinary.com/enchanting/c_lfill,q_90,w_400,h_400/artemis-mdm/85f0f55b-d487-473b-bcbd-b1649526f6ae.jpg",
-        outsideimg: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/335647203.jpg?k=84b5c0518d9210889dede722e0a62fe623475740763525a84af0fc48d3e6a818&o=&hp=1",
-        description: "Anakato Nubian Houses is a unique guesthouse located on the west bank of the Nile River, offering traditional Nubian accommodations with modern amenities. The guesthouse features colorful rooms with beautiful views of the river and the desert. Guests can enjoy authentic Nubian cuisine, relax on the terrace, and take part in various cultural activities and excursions. With its vibrant atmosphere and cultural authenticity, Anakato Nubian Houses is a perfect choice for travelers looking to experience Nubian culture in Aswan.",
-        prices: "$30 - $80 per night",
-        link: "https://www.booking.com/hotel/eg/anakato.html"
+        "id": 51,
+        "name": "Sunrise Arabian Beach Resort",
+        "city": "sharm",
+        "insideimg": "https://i.pinimg.com/originals/01/93/e1/0193e1101205aaa6c1f1ff1703495b6d.jpg",
+        "outsideimg": "https://th.bing.com/th/id/R.3b9628c774c0f9d751f9a0a6cfd078ed?rik=fbE6Bqd2YUlpQw&pid=ImgRaw&r=0",
+        "description": "Sunrise Arabian Beach Resort is a luxurious resort located in the heart of Sharm El Sheikh. The resort features elegant rooms and suites, each with stunning views of the Red Sea. Guests can enjoy a variety of international cuisines at the multiple on-site restaurants. The resort offers numerous activities, including snorkeling, diving, and water sports. Relax by the expansive pools or indulge in a treatment at the full-service spa. The resort's beautiful gardens and private beach make it a perfect destination for both relaxation and adventure. With its world-class amenities and exceptional service, Sunrise Arabian Beach Resort promises an unforgettable stay.",
+        "prices": "$100 - $250 per night",
+        "link": "https://www.booking.com/hotel/eg/sunrise-arabian-beach-resort.html"
     },
-
+    {
+        "id": 52,
+        "name": "Rixos Sharm El Sheikh",
+        "city": "sharm",
+        "insideimg": "https://th.bing.com/th/id/R.748589ae60b04e31b048712f435cd293?rik=BlAlu%2bAWqtQxpw&pid=ImgRaw&r=0",
+        "outsideimg": "https://il.bestattravel.co.uk/Images/Cropped/AFR-Egypt-SharmElSheikh-RixosSharmElSheikh-103588-RixosSharmAdultNight-2-RixosSharmAdultRSSAirPhotos15.jpg",
+        "description": "Rixos Sharm El Sheikh is an all-inclusive resort known for its opulence and extensive facilities. Located on the picturesque Nabq Bay, the resort offers luxurious rooms and suites with private balconies. The property features numerous restaurants, offering diverse culinary experiences from around the world. Guests can enjoy an array of leisure activities, including a water park, tennis courts, and a state-of-the-art fitness center. The resort's private beach and coral reef make it an ideal spot for diving and snorkeling. A dedicated kids' club ensures fun for the whole family. With its exceptional service and lavish amenities, Rixos Sharm El Sheikh provides a perfect getaway for travelers seeking luxury and adventure.",
+        "prices": "$150 - $350 per night",
+        "link": "https://www.booking.com/hotel/eg/rixos-sharm-el-sheikh.html"
+    },
+    {
+        "id": 53,
+        "name": "Four Seasons Resort Sharm El Sheikh",
+        "city": "sharm",
+        "insideimg": "https://th.bing.com/th/id/OIP.rrdW0adHzPkxeH0C36jL-gHaEx?rs=1&pid=ImgDetMain",
+        "outsideimg": "https://www.hksinc.com/wp-content/uploads/2018/10/FourSeasons_SharmElSheikh_01.jpg",
+        "description": "Four Seasons Resort Sharm El Sheikh offers an exquisite blend of luxury and comfort on the Red Sea coast. The resort features beautifully appointed rooms and suites with private terraces overlooking lush gardens and the sea. Guests can indulge in gourmet dining at the on-site restaurants or unwind at the beach bar. The resort boasts four swimming pools, including an adults-only pool, and a comprehensive spa offering a range of treatments. With its private beach and pristine coral reefs, it’s a paradise for snorkeling and diving enthusiasts. Personalized service and attention to detail make this resort a top choice for discerning travelers. The resort's elegant ambiance and superior amenities ensure a memorable stay.",
+        "prices": "$200 - $500 per night",
+        "link": "https://www.booking.com/hotel/eg/four-seasons-sharm-el-sheikh.html"
+    },
+    {
+        "id": 54,
+        "name": "Savoy Sharm El Sheikh",
+        "city": "sharm",
+        "insideimg": "https://th.bing.com/th/id/R.387b3702d41f47d0e3b591e05fe2f978?rik=6pKo6G1mi6Thhw&pid=ImgRaw&r=0",
+        "outsideimg": "https://th.bing.com/th/id/R.da3464ee7d6bb21555692482889b8e1c?rik=TI4BEAUoQA1ftg&pid=ImgRaw&r=0",
+        "description": "Savoy Sharm El Sheikh is an upscale resort located in the heart of Soho Square. The resort offers spacious rooms and suites, many with panoramic views of the Red Sea. Guests can enjoy dining at a variety of on-site restaurants, serving international and local cuisine. The resort features several swimming pools, a private beach, and a full-service spa. Activities include water sports, diving, and a vibrant nightlife at Soho Square. The family-friendly atmosphere and extensive amenities make Savoy Sharm El Sheikh a popular choice for both couples and families. The resort's exceptional service ensures a memorable stay.",
+        "prices": "$120 - $300 per night",
+        "link": "https://www.booking.com/hotel/eg/savoy-sharm-el-sheikh.html"
+    },
+    {
+        "id": 55,
+        "name": "Stella Di Mare Beach Hotel & Spa",
+        "city": "sharm",
+        "insideimg": "https://stelladimare.com/wp-content/uploads/2021/12/Stella_Di_Mare_Beach_Hotel_and_Spa_Sharm_El_Sheikh_Comfort_Room_King_Bed-800x400.jpg",
+        "outsideimg": "https://stelladimare.com/wp-content/uploads/2022/01/Stella_Di_Mare_Beach_Hotel_and_Spa_Sharm_El_Sheikh_Hotel_Exterior_1.jpg",
+        "description": "Stella Di Mare Beach Hotel & Spa is a five-star resort offering a blend of luxury and comfort. Located on the edge of Naama Bay, the resort features beautifully decorated rooms with views of the Red Sea. Guests can enjoy a variety of dining options, including Mediterranean and international cuisine. The resort boasts three swimming pools, a private beach, and a world-class spa. Activities include diving, snorkeling, and other water sports. The resort's lush gardens and elegant ambiance make it a perfect destination for relaxation and recreation. Stella Di Mare's excellent service and facilities ensure a wonderful stay.",
+        "prices": "$110 - $280 per night",
+        "link": "https://www.booking.com/hotel/eg/stella-di-mare-sharm-beach-resort-spa.html"
+    },
+    {
+        "id": 56,
+        "name": "Baron Resort Sharm El Sheikh",
+        "city": "sharm",
+        "insideimg": "https://luxurylifestyleawards.com/wp-content/uploads/2020/03/12_BARON-PALMS-Sharm-Al-Sheikh_Superior-Classic-Room.jpg",
+        "outsideimg": "https://i.pinimg.com/originals/57/b8/37/57b83756508afb12d838885eb569d699.jpg",
+        "description": "Baron Resort Sharm El Sheikh is a luxurious beachfront resort located in Ras Nasrani. The resort offers elegantly appointed rooms and suites with stunning sea views. Guests can dine at a variety of on-site restaurants, featuring Italian, Egyptian, and international cuisines. The resort's facilities include a private beach, two swimming pools, and a comprehensive spa. Water sports, diving, and snorkeling are popular activities at the resort. The resort's beautifully landscaped gardens and serene environment provide a perfect escape. Baron Resort's attentive service and top-notch amenities make it a preferred choice for travelers.",
+        "prices": "$130 - $320 per night",
+        "link": "https://www.booking.com/hotel/eg/baron-resort-sharm-el-sheikh.html"
+    },
+    {
+        "id": 57,
+        "name": "Sultan Gardens Resort",
+        "city": "sharm",
+        "insideimg": "https://th.bing.com/th/id/R.e8561b009b69f6736b504d8ed8bed322?rik=arGaaLuvGDHEJQ&pid=ImgRaw&r=0",
+        "outsideimg": "https://th.bing.com/th/id/R.12960c414497f1c36ca1256a29c20d54?rik=UepIlx8ob7xpMw&pid=ImgRaw&r=0",
+        "description": "Sultan Gardens Resort is a five-star resort located on Shark's Bay. The resort features spacious rooms and suites, many with private balconies and sea views. Guests can enjoy dining at multiple on-site restaurants, offering a range of cuisines. The resort boasts four swimming pools, a private beach, and extensive spa facilities. Activities include diving, snorkeling, and a variety of water sports. The resort's lush gardens and family-friendly atmosphere make it a popular destination. Sultan Gardens Resort's exceptional service and comprehensive amenities ensure a relaxing and enjoyable stay.",
+        "prices": "$100 - $260 per night",
+        "link": "https://www.booking.com/hotel/eg/sultan-gardens-resort.html"
+    },
+    {
+        "id": 58,
+        "name": "Reef Oasis Blue Bay Resort",
+        "city": "sharm",
+        "insideimg": "https://th.bing.com/th/id/OIP.LNzM_O6ytAiLFDay2RZAvgHaEj?rs=1&pid=ImgDetMain",
+        "outsideimg": "https://irp-cdn.multiscreensite.com/672c5cde/dms3rep/multi/Amr+Ibrahim+-+Blue+Bay-infinity+pool+(13).jpg",
+        "description": "Reef Oasis Blue Bay Resort is an all-inclusive resort situated on the shores of the Red Sea. The resort offers well-appointed rooms and suites with modern amenities and sea views. Guests can enjoy a variety of dining options, including buffet and à la carte restaurants. The resort features several swimming pools, a private beach, and a full-service spa. Activities include diving, snorkeling, and water sports. The resort's lively entertainment and family-friendly facilities make it a popular choice. Reef Oasis Blue Bay Resort's excellent service and vibrant atmosphere ensure a memorable vacation.",
+        "prices": "$140 - $300 per night",
+        "link": "https://www.booking.com/hotel/eg/reef-oasis-blue-bay-resort.html"
+    },
+    {
+        "id": 59,
+        "name": "Jaz Mirabel Resort",
+        "city": "sharm",
+        "insideimg": "https://th.bing.com/th/id/R.b145dd8d0fca946b03dda4caa799fc75?rik=xbTmNdNBxrlgTw&pid=ImgRaw&r=0",
+        "outsideimg": "https://th.bing.com/th/id/R.2b72500b03ef7db5397864630bebb38a?rik=EDtZsrSLAIQLKQ&pid=ImgRaw&r=0",
+        "description": "Jaz Mirabel Resort is a luxurious resort located in Nabq Bay. The resort features elegant rooms and suites with private balconies offering garden or sea views. Guests can dine at various on-site restaurants, serving international and local cuisine. The resort boasts multiple swimming pools, a private beach, and a full-service spa. Activities include diving, snorkeling, and a range of water sports. The resort's extensive facilities and family-friendly atmosphere make it an ideal destination for all ages. Jaz Mirabel Resort's attentive service and beautiful surroundings ensure a delightful stay.",
+        "prices": "$120 - $280 per night",
+        "link": "https://www.booking.com/hotel/eg/jaz-mirabel-resort.html"
+    },
+    {
+        "id": 60,
+        "name": "Monte Carlo Sharm Resort & Spa",
+        "city": "sharm",
+        "insideimg": "https://static.wixstatic.com/media/8be0b2_fa8a3d85af6c42f8b7ea84c7b66943f4~mv2.jpg/v1/fit/w_554,h_347,q_90,usm_4.90_0.36_0.00/8be0b2_fa8a3d85af6c42f8b7ea84c7b66943f4~mv2.jpg",
+        "outsideimg": "https://ak.jogurucdn.com/media/image/media_gallery-2018-07-27-8-Monte_Carlo_Sharm_Resort___Spa_787a20a6b2a48e8bbf075f78e4e158e5.jpg",
+        "description": "Monte Carlo Sharm Resort & Spa is a premium resort offering luxury and tranquility. The resort features spacious rooms and suites with elegant decor and modern amenities. Guests can enjoy dining at a variety of on-site restaurants, featuring international and Mediterranean cuisine. The resort boasts multiple swimming pools, a private beach, and a world-class spa. Activities include diving, snorkeling, and various water sports. The resort's lush gardens and serene environment provide a perfect escape for relaxation. Monte Carlo Sharm Resort & Spa's superior service and facilities ensure a memorable stay.",
+        "prices": "$130 - $320 per night",
+        "link": "https://www.booking.com/hotel/eg/monte-carlo-sharm-resort-spa.html"
+    },
+    {
+        "id": 61,
+        "name": "Royal Savoy Hotel and Villas",
+        "city": "sharm",
+        "insideimg": "https://th.bing.com/th/id/OIP.E3lRm2axnGFugEOaDZoWVwHaE8?rs=1&pid=ImgDetMain",
+        "outsideimg": "https://a.loveholidays.com/images/holidays/059429019294ce469b8294c71ed9049b1461c727/holidays/egypt/red-sea/sharm-el-sheikh/the-savoy-0.jpg",
+        "description": "Royal Savoy Hotel and Villas is an exclusive boutique hotel located in the prestigious Savoy resort. The hotel offers luxurious rooms, suites, and villas with private balconies and sea views. Guests can enjoy exclusive access to private lounges and pools. Dining options include a variety of gourmet restaurants and bars. The hotel's facilities include a private beach, several swimming pools, and a comprehensive spa. Activities include water sports, diving, and access to the amenities of the larger Savoy resort. Royal Savoy's exceptional service and elegant ambiance make it a top choice for discerning travelers.",
+        "prices": "$200 - $500 per night",
+        "link": "https://www.booking.com/hotel/eg/royal-savoy-sharm-el-sheikh.html"
+    },
+    {
+        "id": 62,
+        "name": "Hilton Sharm Waterfalls Resort",
+        "city": "sharm",
+        "insideimg": "https://images.classic-collection.co.uk/content/DataObjects/PropertyReference/Image/image_664_4_v1.jpg",
+        "outsideimg": "https://th.bing.com/th/id/OIP.ajbPU8Tznlt8d7VYuPQvPgHaFf?rs=1&pid=ImgDetMain",
+        "description": "Hilton Sharm Waterfalls Resort is a stunning resort situated on the beachfront of the Red Sea. The resort offers stylish rooms and suites with private balconies and sea views. Guests can enjoy dining at a variety of on-site restaurants and bars. The resort features multiple swimming pools, including a unique waterfall pool, and a private beach. Activities include diving, snorkeling, and various water sports. The resort's beautiful gardens and family-friendly atmosphere make it a popular choice. Hilton Sharm Waterfalls Resort's excellent service and amenities ensure a relaxing and enjoyable stay.",
+        "prices": "$110 - $280 per night",
+        "link": "https://www.booking.com/hotel/eg/hilton-sharm-waterfalls-resort.html"
+    },
+    
 ];
 
 
