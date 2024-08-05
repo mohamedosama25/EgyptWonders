@@ -623,6 +623,97 @@ Hotels = [
         "prices": "$110 - $280 per night",
         "link": "https://www.booking.com/hotel/eg/hilton-sharm-waterfalls-resort.html"
     },
+    {
+        "id": 63,
+        "name": "Tunis Village Ecolodge",
+        "city": "fayoum",
+        "insideimg": "https://cf.bstatic.com/xdata/images/hotel/max500/433296536.jpg?k=1f6d42befd60290d10532593ec8a5fce95ede80baf3a4ebc588aeae444bd0b9b&o=&hp=1",
+        "outsideimg": "https://th.bing.com/th/id/R.70e5b5e01c47cadb9a1331fedf335eba?rik=MeyTB33aFZtUzg&pid=ImgRaw&r=0",
+        "description": "Tunis Village Ecolodge offers a serene retreat in the heart of Fayoum's picturesque Tunis Village. The ecolodge features charming rooms with traditional decor and modern amenities. Guests can enjoy delicious meals made from locally sourced ingredients at the on-site restaurant. The lodge offers various activities, including pottery classes, bird watching, and desert excursions. The tranquil surroundings and beautiful views of Qarun Lake make it an ideal spot for relaxation. With its focus on sustainability and cultural immersion, Tunis Village Ecolodge provides a unique and authentic experience.",
+        "prices": "$50 - $120 per night",
+        "link": "https://www.booking.com/hotel/eg/tunis-village-ecolodge.html"
+    },
+    {
+        "id": 64,
+        "name": "Kom El Dikka Agri Lodge",
+        "city": "fayoum",
+        "insideimg": "https://fayoumegypt.com/wp-content/uploads/2015/02/Kom-el-Dikka-Agri-Lodge-4.jpg",
+        "outsideimg": "https://fayoumegypt.com/wp-content/uploads/2015/02/Kom-el-Dikka-Agri-Lodge-1.jpg",
+        "description": "Kom El Dikka Agri Lodge offers a unique agritourism experience in the lush countryside of Fayoum. The lodge features rustic rooms with comfortable furnishings and modern amenities. Guests can enjoy farm-to-table dining with fresh produce from the lodge's organic farm. Activities include farming workshops, horseback riding, and guided tours of nearby attractions. The peaceful environment and beautiful gardens provide a perfect escape from city life. With its emphasis on sustainable living and community involvement, Kom El Dikka Agri Lodge offers a memorable stay.",
+        "prices": "$60 - $150 per night",
+        "link": "https://www.booking.com/hotel/eg/kom-el-dikka-agri-lodge.html"
+    },
+    {
+        "id": 65,
+        "name": "Zad El Mosafer Guest House",
+        "city": "fayoum",
+        "insideimg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/ad/26/fb/muy-comodo-y-limpio.jpg?w=1400&h=-1&s=1",
+        "outsideimg": "https://fayoumegypt.com/wp-content/uploads/2015/02/Zad-ElMosafer-Guest-house-3.jpg",
+        "description": "Zad El Mosafer Guest House is a charming retreat located in the scenic village of Tunis in Fayoum. The guest house offers cozy rooms with traditional Nubian architecture and modern comforts. Guests can enjoy delicious home-cooked meals in the on-site restaurant. The guest house organizes various activities, such as pottery classes, boat trips on Qarun Lake, and desert safaris. The warm hospitality and tranquil surroundings make it an ideal spot for relaxation. Zad El Mosafer's unique charm and cultural experiences ensure a delightful stay.",
+        "prices": "$40 - $100 per night",
+        "link": "https://www.booking.com/hotel/eg/zad-el-mosafer-guest-house.html"
+    },
+    {
+        "id": 66,
+        "name": "Lazib Inn Resort & Spa",
+        "city": "fayoum",
+        "insideimg": "https://th.bing.com/th/id/R.86d21d36f959e8bad50fb8cc087b25d1?rik=nA%2blRqgzu5cZGQ&pid=ImgRaw&r=0",
+        "outsideimg": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/d59df338030987.575400e98634c.jpg",
+        "description": "Lazib Inn Resort & Spa is a luxurious boutique hotel located in Fayoum's Tunis Village. The resort features elegant suites with private terraces and stunning views of the surrounding landscape. Guests can indulge in gourmet dining at the on-site restaurant, offering a fusion of Egyptian and Mediterranean cuisines. The resort boasts a spa, swimming pool, and beautifully landscaped gardens. Activities include yoga classes, bird watching, and excursions to nearby historical sites. Lazib Inn's sophisticated ambiance and personalized service provide an unforgettable experience.",
+        "prices": "$150 - $400 per night",
+        "link": "https://www.booking.com/hotel/eg/lazib-inn-resort-spa.html"
+    },
+    {
+        "id": 67,
+        "name": "Byoum Lakeside Hotel",
+        "city": "fayoum",
+        "insideimg": "https://th.bing.com/th/id/R.da522156da96b5eac78dcedd37d3b638?rik=rigOPJ%2bDB043Hg&pid=ImgRaw&r=0",
+        "outsideimg": "https://fayoumegypt.com/wp-content/uploads/2015/03/Byoum_Lakeside_Hotel_Pool_Night_fayoum.jpg",
+        "description": "Byoum Lakeside Hotel offers a tranquil escape on the shores of Lake Qarun in Fayoum. The hotel features modern rooms and suites with private balconies and stunning lake views. Guests can enjoy a variety of dining options, including an on-site restaurant serving local and international cuisine. The hotel offers several recreational activities, such as fishing, boat trips, and bird watching. The serene environment and beautiful surroundings make it an ideal spot for relaxation. Byoum Lakeside Hotel's excellent service and amenities ensure a comfortable stay.",
+        "prices": "$80 - $200 per night",
+        "link": "https://www.booking.com/hotel/eg/byoum-lakeside.html"
+    },
+    {
+        "id": 68,
+        "name": "New Panorama Resort",
+        "city": "fayoum",
+        "insideimg": "https://www.skionpalace.gr/wp-content/uploads/2016/02/skion-garden-540x304.jpg",
+        "outsideimg": "https://api.files.attenvo.com/uploads/images/a6dab891-24b7-4114-886e-9c4721e47933-1676223127-compressed.jpg",
+        "description": "New Panorama Resort is a family-friendly resort located near the tranquil Lake Qarun in Fayoum. The resort offers spacious rooms and suites with modern amenities and beautiful lake views. Guests can enjoy a variety of dining options at the on-site restaurant. The resort features an outdoor swimming pool, a playground for children, and a range of recreational activities. Activities include fishing, hiking, and boat trips on the lake. The resort's peaceful surroundings and friendly atmosphere make it a perfect destination for families. New Panorama Resort's attentive service ensures a pleasant stay.",
+        "prices": "$70 - $180 per night",
+        "link": "https://www.booking.com/hotel/eg/new-panorama-resort.html"
+    },
+   
+    {
+        "id": 70,
+        "name": "Helnan Auberge Fayoum",
+        "city": "fayoum",
+        "insideimg": "https://i.pinimg.com/originals/62/98/a2/6298a2186d4199e1bb5fbe414c0acd4d.jpg",
+        "outsideimg": "https://th.bing.com/th/id/R.24b613cbe16fa74cc886904f14555e10?rik=9NQDZ2xCM5JmaQ&pid=ImgRaw&r=0",
+        "description": "Helnan Auberge Fayoum is a historic hotel located on the shores of Lake Qarun. The hotel offers elegantly furnished rooms and suites with beautiful lake views. Guests can enjoy fine dining at the on-site restaurant, which serves a variety of international and local dishes. The hotel features an outdoor swimming pool, a spa, and beautifully landscaped gardens. Activities include boat trips, fishing, and visits to nearby attractions. The hotel's rich history and charming ambiance provide a unique and memorable experience. Helnan Auberge Fayoum's excellent service and luxurious amenities ensure a comfortable stay.",
+        "prices": "$90 - $220 per night",
+        "link": "https://www.booking.com/hotel/eg/helnan-auberge-fayoum.html"
+    },
+    {
+        "id": 71,
+        "name": "Tunis Pyramids Hotel",
+        "city": "fayoum",
+        "insideimg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5e/62/a1/caption.jpg?w=1200&h=-1&s=1",
+        "outsideimg": "https://media-cdn.tripadvisor.com/media/photo-m/1280/28/5e/62/a3/caption.jpg",
+        "description": "Tunis Pyramids Hotel is a cozy retreat located in the heart of Tunis Village, Fayoum. The hotel offers comfortable rooms with traditional decor and modern facilities. Guests can enjoy delicious meals at the on-site restaurant, featuring local and international cuisine. The hotel offers various activities, including pottery classes, guided tours, and nature walks. The beautiful garden and peaceful environment provide a perfect escape from the hustle and bustle of city life. Tunis Pyramids Hotel's warm hospitality and cultural experiences ensure a delightful stay.",
+        "prices": "$60 - $140 per night",
+        "link": "https://www.booking.com/hotel/eg/tunis-pyramids.html"
+    },
+    {
+        "id": 74,
+        "name": "Bawiti Oasis Resort",
+        "city": "fayoum",
+        "insideimg": "https://bawiti-oasis-resort-egypt.booked.net/data/Photos/OriginalPhoto/9724/972417/972417907/Bawiti-Oasis-Resort-Egypt-Exterior.JPEG",
+        "outsideimg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/96/9e/e9/outside-view.jpg?w=700&h=-1&s=1",
+        "description": "Bawiti Oasis Resort is a charming resort located in the tranquil region of Fayoum. The resort features comfortable rooms and suites with traditional decor and modern amenities. Guests can enjoy delicious meals at the on-site restaurant, offering a variety of local and international cuisines. The resort offers several recreational activities, including desert excursions, bird watching, and nature walks. The serene environment and beautiful gardens provide a perfect escape for relaxation. Bawiti Oasis Resort's warm hospitality and excellent service ensure a memorable stay.",
+        "prices": "$70 - $160 per night",
+        "link": "https://www.booking.com/hotel/eg/bawiti-oasis-resort.html"
+    }
     
 ];
 
