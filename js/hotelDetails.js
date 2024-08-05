@@ -724,9 +724,108 @@ Hotels = [
         "description": "Bawiti Oasis Resort is a charming resort located in the tranquil region of Fayoum. The resort features comfortable rooms and suites with traditional decor and modern amenities. Guests can enjoy delicious meals at the on-site restaurant, offering a variety of local and international cuisines. The resort offers several recreational activities, including desert excursions, bird watching, and nature walks. The serene environment and beautiful gardens provide a perfect escape for relaxation. Bawiti Oasis Resort's warm hospitality and excellent service ensure a memorable stay.",
         "prices": "$70 - $160 per night",
         "link": "https://www.booking.com/hotel/eg/bawiti-oasis-resort.html"
-    }
-    
-
+    },
+    {
+        "id": 75,
+        "name": "Adrere Amellal",
+        "city": "siwa",
+        "insideimg": "https://www.adrereamellal.com/adrere/wp-content/uploads/2019/09/Royal-Suite-Modifica-768x576.jpg",
+        "outsideimg": "https://www.adrereamellal.com/adrere/wp-content/uploads/2019/12/Adrere-amellal-siwa-lake-spa.jpg",
+        "description": "Adrere Amellal is a luxury eco-lodge nestled in the heart of the Siwa Oasis. The lodge features traditional mud-brick architecture and offers uniquely designed rooms without electricity, creating a serene and authentic atmosphere. Guests can enjoy organic meals made from locally sourced ingredients. The lodge offers various activities, including guided tours of Siwa, desert excursions, and relaxing by the natural spring-fed pool. The tranquil setting and stunning views of the surrounding landscape make it a perfect retreat. Adrere Amellal's commitment to sustainability and cultural preservation ensures an unforgettable experience.",
+        "prices": "$300 - $600 per night",
+        "link": "https://www.booking.com/hotel/eg/adrere-amellal.html"
+    },
+    {
+        "id": 76,
+        "name": "Siwa Shali Resort",
+        "city": "siwa",
+        "insideimg": "https://th.bing.com/th/id/OIP.UPY9uQZrUN2jtut1rgbB5QHaE8?rs=1&pid=ImgDetMain",
+        "outsideimg": "https://th.bing.com/th/id/R.444707cff55fda28235f44b87346cf49?rik=Diy4m5H6mQlKeg&pid=ImgRaw&r=0",
+        "description": "Siwa Shali Resort is a charming resort located in the beautiful Siwa Oasis. The resort offers comfortable rooms with traditional Siwan decor and modern amenities. Guests can enjoy a variety of local and international dishes at the on-site restaurant. The resort features a swimming pool, a spa, and beautiful gardens. Activities include guided tours of the oasis, desert safaris, and visits to historical sites. The peaceful environment and warm hospitality make it an ideal destination for relaxation. Siwa Shali Resort's excellent service ensures a memorable stay.",
+        "prices": "$100 - $250 per night",
+        "link": "https://www.booking.com/hotel/eg/siwa-shali-resort.html"
+    },
+    {
+        "id": 77,
+        "name": "Taziry Ecolodge & Sustainable Village",
+        "city": "siwa",
+        "insideimg": "https://taziry.com/wp-content/uploads/2017/11/4-Taziry-Chalet-for-5.jpg",
+        "outsideimg": "https://www.greenprophet.com/wp-content/uploads/2012/07/taziry-ecolodge-siwa-oasis-5.jpg",
+        "description": "Taziry Ecolodge & Sustainable Village offers a unique eco-friendly experience in the Siwa Oasis. The ecolodge features traditional Siwan mud-brick architecture and provides comfortable rooms with modern amenities. Guests can enjoy organic meals made from locally grown produce. The lodge offers various activities, including guided tours, horseback riding, and stargazing in the desert. The serene surroundings and focus on sustainability create a peaceful retreat. Taziry's commitment to environmental preservation and cultural heritage ensures an authentic and unforgettable stay.",
+        "prices": "$120 - $300 per night",
+        "link": "https://www.booking.com/hotel/eg/taziry-ecolodge.html"
+    },
+    {
+        "id": 78,
+        "name": "Siwa Paradise Hotel",
+        "city": "siwa",
+        "insideimg": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263179108.jpg?k=4fb742482b46368f4f7584782335358d795dfb7f51d00d2736c7c85a573a7d93&o=&hp=1",
+        "outsideimg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/13/cd/27/siwa-paradise.jpg?w=1200&h=-1&s=1",
+        "description": "Siwa Paradise Hotel is a cozy hotel located in the heart of the Siwa Oasis. The hotel offers comfortable rooms with traditional decor and modern amenities. Guests can enjoy delicious meals at the on-site restaurant, which serves a variety of local and international cuisines. The hotel features a swimming pool, a garden, and offers various activities such as guided tours and desert excursions. The tranquil setting and friendly atmosphere make it a perfect destination for relaxation. Siwa Paradise Hotel's excellent service ensures a pleasant stay.",
+        "prices": "$80 - $180 per night",
+        "link": "https://www.booking.com/hotel/eg/siwa-paradise.html"
+    },
+    {
+        "id": 79,
+        "name": "Ghaliet Ecolodge & Spa",
+        "city": "siwa",
+        "insideimg": "https://ataeg.com/wp-content/uploads/2020/12/ghaliet-ecolodge-spa-6.jpg",
+        "outsideimg": "https://images.memphistours.com/large/302511136_ghaliet%20Ecolodge%20&%20Spa.jpg",
+        "description": "Ghaliet Ecolodge & Spa is a luxurious retreat located in the serene Siwa Oasis. The ecolodge offers beautifully designed rooms with traditional Siwan architecture and modern comforts. Guests can indulge in organic meals at the on-site restaurant and rejuvenate at the spa, which offers a range of treatments. The lodge features a swimming pool and organizes various activities, including guided tours and desert safaris. The peaceful environment and stunning views make it an ideal spot for relaxation. Ghaliet Ecolodge's commitment to sustainability and wellness ensures a unique and memorable experience.",
+        "prices": "$150 - $350 per night",
+        "link": "https://www.booking.com/hotel/eg/ghaliet-ecolodge-spa.html"
+    },
+    {
+        "id": 80,
+        "name": "Siwa Relax Retreat",
+        "city": "siwa",
+        "insideimg": "https://planetescape.pl/app/uploads/2021/01/Siwa-Relax-Retreat9.jpg",
+        "outsideimg": "https://th.bing.com/th/id/OIP.11YElrhaCEOPCIjklprlNwHaD3?rs=1&pid=ImgDetMain",
+        "description": "Siwa Relax Retreat offers a peaceful escape in the heart of the Siwa Oasis. The retreat features comfortable rooms with traditional decor and modern amenities. Guests can enjoy healthy, organic meals at the on-site restaurant. The retreat offers a variety of activities, including yoga classes, meditation sessions, and guided tours of the oasis. The serene surroundings and focus on wellness make it an ideal destination for relaxation and rejuvenation. Siwa Relax Retreat's warm hospitality and excellent service ensure a pleasant stay.",
+        "prices": "$100 - $220 per night",
+        "link": "https://www.booking.com/hotel/eg/siwa-relax-retreat.html"
+    },
+   
+    {
+        "id": 82,
+        "name": "Shali Lodge",
+        "city": "siwa",
+        "insideimg": "https://i.pinimg.com/736x/aa/6b/51/aa6b51ddbdff88ccfb52181ad9c309c7--egypt-lodges.jpg",
+        "outsideimg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/a1/e5/5f/rooftop-view-of-shali.jpg?w=700&h=-1&s=1",
+        "description": "Shali Lodge is a traditional Siwan-style lodge located in the heart of the Siwa Oasis. The lodge offers cozy rooms with unique Siwan architecture and modern amenities. Guests can enjoy authentic Siwan cuisine at the on-site restaurant. The lodge features a beautiful garden and organizes various activities, including guided tours of Siwa, desert safaris, and cultural experiences. The tranquil setting and warm hospitality make it an ideal destination for a relaxing getaway. Shali Lodge's commitment to cultural preservation and excellent service ensures an unforgettable stay.",
+        "prices": "$80 - $180 per night",
+        "link": "https://www.booking.com/hotel/eg/shali-lodge.html"
+    },
+    {
+        "id": 83,
+        "name": "Albabenshal Boutique Hotel",
+        "city": "siwa",
+        "insideimg": "https://th.bing.com/th/id/R.5b1309d64dc5da85f08f3f966949606c?rik=e3QVheDFL%2fL36w&pid=ImgRaw&r=0",
+        "outsideimg": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/13379958.jpg?k=2c85631441440507fed296ae225e10581e44c64ff12882ac2f2d24963d830858&o=&hp=1",
+        "description": "Albabenshal Boutique Hotel offers an authentic Siwan experience in the heart of Siwa Oasis. The hotel features rooms with traditional Siwan architecture and modern comforts. Guests can enjoy local dishes at the on-site restaurant. The hotel organizes various activities, including guided tours, desert excursions, and visits to historical sites. The serene surroundings and beautiful views make it a perfect retreat. Albabenshal Boutique Hotel's focus on cultural authenticity and warm hospitality ensures a memorable stay.",
+        "prices": "$100 - $220 per night",
+        "link": "https://www.booking.com/hotel/eg/albabenshal-boutique.html"
+    },
+    {
+        "id": 84,
+        "name": "Siwa Oasis Hotel",
+        "city": "siwa",
+        "insideimg": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/92da0454694259.5965de204e0af.jpg",
+        "outsideimg": "https://th.bing.com/th/id/R.ac0deb6ae092c0f4369593c787d2ffcd?rik=L6erXvPDRrHgkg&pid=ImgRaw&r=0",
+        "description": "Siwa Oasis Hotel is a comfortable hotel located in the heart of the Siwa Oasis. The hotel offers well-appointed rooms with modern amenities and traditional decor. Guests can enjoy a variety of local and international dishes at the on-site restaurant. The hotel features a swimming pool, a garden, and organizes various activities such as guided tours and desert safaris. The peaceful environment and friendly staff make it an ideal destination for relaxation. Siwa Oasis Hotel's excellent service ensures a pleasant stay.",
+        "prices": "$70 - $180 per night",
+        "link": "https://www.booking.com/hotel/eg/siwa-oasis.html"
+    },
+    {
+        "id": 85,
+        "name": "Siwa Dreams Hotel",
+        "city": "siwa",
+        "insideimg": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263179108.jpg?k=4fb742482b46368f4f7584782335358d795dfb7f51d00d2736c7c85a573a7d93&o=&hp=1",
+        "outsideimg": "https://media-cdn.tripadvisor.com/media/photo-p/11/cc/42/a1/photo8jpg.jpg",
+        "description": "Siwa Dreams Hotel is a cozy retreat located in the serene Siwa Oasis. The hotel offers comfortable rooms with traditional decor and modern amenities. Guests can enjoy delicious meals at the on-site restaurant, which serves a variety of local and international cuisines. The hotel features a swimming pool, a garden, and offers various activities such as guided tours and desert excursions. The tranquil setting and warm hospitality make it a perfect destination for relaxation. Siwa Dreams Hotel's excellent service ensures a memorable stay.",
+        "prices": "$80 - $190 per night",
+        "link": "https://www.booking.com/hotel/eg/siwa-dreams.html"
+    },
     
 
 ];
