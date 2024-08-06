@@ -354,7 +354,7 @@ a :visited {
   align-items: center;
   text-align: center;
   width: 100%;
-  height: 20vh; /* Adjust height as needed */
+  height: 13vh; /* Adjust height as needed */
   font-size: 2.5em; /* Larger font size for emphasis */
   padding: 20px;
   font-family: "Roboto Slab", serif; /* Attractive serif font */
@@ -365,10 +365,16 @@ a :visited {
 }
 
 /*------------CARD-----------------*/
+#cards-wrapper {
+  overflow: hidden;
+   /* Adjust based on your requirement */
+  position: relative;
+}
+
 .card {
   position: relative;
-  width: 370px;
-  height: 340px;
+  width: 410px;
+  height: 360px;
   background-color: #f2f2f2;
   border-radius: 10px;
   display: flex;
@@ -377,7 +383,7 @@ a :visited {
   overflow: hidden;
   perspective: 1000px;
   box-shadow: 0 0 0 3.5px rgba(100, 100, 100, 0.445);
-  transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transition: transform 0.4s ease-in-out, opacity 0.4s ease-in-out;
   cursor: pointer;
 }
 
@@ -433,18 +439,53 @@ a :visited {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
-  gap: 50px;
-  padding: 20px;
-  padding-top: 50px;
+  flex-wrap: nowrap;
+  gap:70px;
+
+  padding-top: 20px;
 }
+
 img {
   width: 100%;
   height: 100%;
-
   border-radius: 8px;
   object-fit: cover;
 }
+
+.scroll-animation-left {
+  transform: translateX(-100%);
+  opacity: 0;
+}
+
+.scroll-animation-right {
+  transform: translateX(100%);
+  opacity: 0;
+}
+
+.scroll-animation-up {
+  transform: translateY(-100%);
+  opacity: 0;
+}
+
+.card.enter-left {
+  transform: translateX(-100%);
+  opacity: 0;
+  transition: transform 0.4s ease-in-out, opacity 0.4s ease-in-out;
+}
+
+.card.enter-right {
+  transform: translateX(100%);
+  opacity: 0;
+  transition: transform 0.4s ease-in-out, opacity 0.4s ease-in-out;
+}
+
+.card.enter-up {
+  transform: translateY(-100%);
+  opacity: 0;
+  transition: transform 0.4s ease-in-out, opacity 0.4s ease-in-out;
+}
+
+
 
 /*-----------------CARD TANY-----------------*/
 .cardtany {
@@ -686,4 +727,69 @@ button:hover {
   justify-content: center;
   align-items: center;
   margin-top: 8%;
+}
+
+/*------------------SLIDER-----------------*/
+.slider {
+  position: relative;
+  width: 100%;
+  height: 370px;
+  overflow: hidden;
+  margin-top: 50px;
+}
+
+.item {
+  position: absolute;
+  text-align: justify;
+  border-radius: 10px;
+  width: 550px;
+  height: 370px;
+  transition: 0.5s;
+  left: calc(50% - 275px); /* Center the card */
+  top: 0;
+}
+
+#next, #prev {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #ffffffc7;
+  background-color: #33333300;
+  border: none;
+  font-size: 2.5rem;
+  font-family: monospace;
+  font-weight: bold;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#prev {
+  left: 150px;
+  
+}
+
+#next {
+  right: 150px;
+}
+
+
+#register{
+ text-align: center;
+  padding: 50px 20px 0px 20px;
+  font-size: 2em;
+
+}
+#register a{
+  color: var(--lon-headings);
+  text-decoration: underline ;
+}
+
+h3{
+  text-align: center;
+  padding-top: 50px;
+  color: var(--lon-headings);
 }

@@ -377,7 +377,7 @@ places = [
 {
     "id": 34,
     "name": "The Walk Sidi Gaber",
-    "imagesrc": "https://scontent.fcai2-2.fna.fbcdn.net/v/t39.30808-6/317074681_114558018145657_1703056046938658936_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=Z-j4lR5WSHwQ7kNvgE7AOm9&_nc_ht=scontent.fcai2-2.fna&oh=00_AYByCh3FJ8z8lV4lqiZUn1gqlgY5KKfBqsuRmlsvO7jovA&oe=66A82CAA",
+    "imagesrc": "https://scontent.fcai19-7.fna.fbcdn.net/v/t39.30808-6/381063527_314648071218210_4086580402837759484_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=FI4y2gBpi_4Q7kNvgFlg9lz&_nc_ht=scontent.fcai19-7.fna&oh=00_AYBss4ycStEv86Xvr0z2g72Xki_lrl2T1_N33VvWa27nCA&oe=66B87892",
     "description": "The Walk Sidi Gaber is a popular waterfront promenade in Alexandria, offering stunning views of the Mediterranean Sea. This scenic walkway is perfect for a leisurely stroll, jogging, or cycling, with its well-maintained paths and picturesque surroundings. The area is dotted with cafes, restaurants, and shops, making it a great spot to relax and enjoy the coastal ambiance. The Walk Sidi Gaber is particularly beautiful during sunset, providing a serene and romantic setting along the Alexandrian coast.",
     "price": {
         "Entry": "Free",
@@ -450,10 +450,16 @@ places = [
 
 
 ]
+let currentStartIndex = 0;
+const itemsPerPage = 3;
+let isScrolling = false;
 
-function createCards(places) {
+function createCards(startIndex) {
     const container = document.getElementById('cards-container');
-    places.forEach(place => {
+    container.innerHTML = '';
+
+    for (let i = startIndex; i < startIndex + itemsPerPage; i++) {
+        const place = places[i % places.length]; // Loop through places if at the end
         const card = document.createElement('div');
         card.className = 'card';
 
@@ -483,9 +489,88 @@ function createCards(places) {
         });
 
         container.appendChild(card);
+    }
+}
+
+function scrollCards(direction) {
+    if (isScrolling) return;
+
+    isScrolling = true;
+    const cards = document.querySelectorAll('.card');
+
+    cards.forEach((card, index) => {
+        if (direction === 'down') {
+            if (index === 0) {
+                card.classList.add('scroll-animation-left');
+            } else if (index === 1) {
+                card.classList.add('scroll-animation-up');
+            } else if (index === 2) {
+                card.classList.add('scroll-animation-right');
+            }
+        } else if (direction === 'up') {
+            if (index === 0) {
+                card.classList.add('scroll-animation-right');
+            } else if (index === 1) {
+                card.classList.add('scroll-animation-up');
+            } else if (index === 2) {
+                card.classList.add('scroll-animation-left');
+            }
+        }
     });
-};
 
-createCards(places);
+    setTimeout(() => {
+        currentStartIndex = direction === 'down' ? currentStartIndex + itemsPerPage : currentStartIndex - itemsPerPage;
+        if (currentStartIndex < 0) currentStartIndex = places.length - itemsPerPage;
 
+        createCards(currentStartIndex);
 
+        const newCards = document.querySelectorAll('.card');
+
+        newCards.forEach((card, index) => {
+            if (direction === 'down') {
+                if (index === 0) {
+                    card.classList.add('enter-left');
+                } else if (index === 1) {
+                    card.classList.add('enter-up');
+                } else if (index === 2) {
+                    card.classList.add('enter-right');
+                }
+            } else if (direction === 'up') {
+                if (index === 0) {
+                    card.classList.add('enter-right');
+                } else if (index === 1) {
+                    card.classList.add('enter-up');
+                } else if (index === 2) {
+                    card.classList.add('enter-left');
+                }
+            }
+
+            setTimeout(() => {
+                card.classList.remove('enter-left', 'enter-right', 'enter-up');
+            }, 400); // Adjusted to match the slower exit transition
+        });
+
+        cards.forEach(card => {
+            card.classList.remove('scroll-animation-left', 'scroll-animation-right', 'scroll-animation-up');
+        });
+
+        isScrolling = false;
+    }, 400); // Adjusted to reduce the delay
+}
+
+let lastScrollTime = 0;
+const debounceDelay = 1800; // Adjust this value as needed
+
+window.addEventListener('wheel', (event) => {
+    const currentTime = new Date().getTime();
+    if (currentTime - lastScrollTime < debounceDelay) return;
+    lastScrollTime = currentTime;
+
+    if (event.deltaY > 0) {
+        scrollCards('down');
+    } else {
+        scrollCards('up');
+    }
+});
+
+createCards(currentStartIndex);

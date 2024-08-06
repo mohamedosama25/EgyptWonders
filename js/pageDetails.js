@@ -689,7 +689,7 @@ places = [
     {
         "id": 34,
         "name": "The Walk Sidi Gaber",
-        "imagesrc": "https://scontent.fcai2-2.fna.fbcdn.net/v/t39.30808-6/317074681_114558018145657_1703056046938658936_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=Z-j4lR5WSHwQ7kNvgE7AOm9&_nc_ht=scontent.fcai2-2.fna&oh=00_AYByCh3FJ8z8lV4lqiZUn1gqlgY5KKfBqsuRmlsvO7jovA&oe=66A82CAA",
+        "imagesrc": "https://scontent.fcai19-7.fna.fbcdn.net/v/t39.30808-6/381063527_314648071218210_4086580402837759484_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=FI4y2gBpi_4Q7kNvgFlg9lz&_nc_ht=scontent.fcai19-7.fna&oh=00_AYBss4ycStEv86Xvr0z2g72Xki_lrl2T1_N33VvWa27nCA&oe=66B87892",
         "description": "The Walk Sidi Gaber is a popular waterfront promenade in Alexandria, offering stunning views of the Mediterranean Sea. This scenic walkway is perfect for a leisurely stroll, jogging, or cycling, with its well-maintained paths and picturesque surroundings. The area is dotted with cafes, restaurants, and shops, making it a great spot to relax and enjoy the coastal ambiance. The Walk Sidi Gaber is particularly beautiful during sunset, providing a serene and romantic setting along the Alexandrian coast.",
         "price": {
             "Entry": "Free",

@@ -278,41 +278,127 @@ places= [
     }
         ]
     
-    
-
-function createCards(places) {
-    const container = document.getElementById('cards-container');
-    places.forEach(place => {
-        const card = document.createElement('div');
-        card.className = 'card';
-
-        const img = document.createElement('img');
-        img.setAttribute('src', place.imagesrc);
-        img.setAttribute('alt', place.name);
-
-        const contentDiv = document.createElement('div');
-        contentDiv.className = 'card__content';
-
-        const title = document.createElement('p');
-        title.className = 'card__title';
-        title.textContent = place.name;
-
-        const description = document.createElement('p');
-        description.className = 'card__description';
-        description.textContent = place.description;
-
-        contentDiv.appendChild(title);
-        contentDiv.appendChild(description);
-
-        card.appendChild(img);
-        card.appendChild(contentDiv);
-
-        card.addEventListener('click', () => {
-            window.location.href = `pageDetails.html?id=${place.id}`;
+        let currentStartIndex = 0;
+        const itemsPerPage = 3;
+        let isScrolling = false;
+        
+        function createCards(startIndex) {
+            const container = document.getElementById('cards-container');
+            container.innerHTML = '';
+        
+            for (let i = startIndex; i < startIndex + itemsPerPage; i++) {
+                const place = places[i % places.length]; // Loop through places if at the end
+                const card = document.createElement('div');
+                card.className = 'card';
+        
+                const img = document.createElement('img');
+                img.setAttribute('src', place.imagesrc);
+                img.setAttribute('alt', place.name);
+        
+                const contentDiv = document.createElement('div');
+                contentDiv.className = 'card__content';
+        
+                const title = document.createElement('p');
+                title.className = 'card__title';
+                title.textContent = place.name;
+        
+                const description = document.createElement('p');
+                description.className = 'card__description';
+                description.textContent = place.description;
+        
+                contentDiv.appendChild(title);
+                contentDiv.appendChild(description);
+        
+                card.appendChild(img);
+                card.appendChild(contentDiv);
+        
+                card.addEventListener('click', () => {
+                    window.location.href = `pageDetails.html?id=${place.id}`;
+                });
+        
+                container.appendChild(card);
+            }
+        }
+        
+        function scrollCards(direction) {
+            if (isScrolling) return;
+        
+            isScrolling = true;
+            const cards = document.querySelectorAll('.card');
+        
+            cards.forEach((card, index) => {
+                if (direction === 'down') {
+                    if (index === 0) {
+                        card.classList.add('scroll-animation-left');
+                    } else if (index === 1) {
+                        card.classList.add('scroll-animation-up');
+                    } else if (index === 2) {
+                        card.classList.add('scroll-animation-right');
+                    }
+                } else if (direction === 'up') {
+                    if (index === 0) {
+                        card.classList.add('scroll-animation-right');
+                    } else if (index === 1) {
+                        card.classList.add('scroll-animation-up');
+                    } else if (index === 2) {
+                        card.classList.add('scroll-animation-left');
+                    }
+                }
+            });
+        
+            setTimeout(() => {
+                currentStartIndex = direction === 'down' ? currentStartIndex + itemsPerPage : currentStartIndex - itemsPerPage;
+                if (currentStartIndex < 0) currentStartIndex = places.length - itemsPerPage;
+        
+                createCards(currentStartIndex);
+        
+                const newCards = document.querySelectorAll('.card');
+        
+                newCards.forEach((card, index) => {
+                    if (direction === 'down') {
+                        if (index === 0) {
+                            card.classList.add('enter-left');
+                        } else if (index === 1) {
+                            card.classList.add('enter-up');
+                        } else if (index === 2) {
+                            card.classList.add('enter-right');
+                        }
+                    } else if (direction === 'up') {
+                        if (index === 0) {
+                            card.classList.add('enter-right');
+                        } else if (index === 1) {
+                            card.classList.add('enter-up');
+                        } else if (index === 2) {
+                            card.classList.add('enter-left');
+                        }
+                    }
+        
+                    setTimeout(() => {
+                        card.classList.remove('enter-left', 'enter-right', 'enter-up');
+                    }, 400); // Adjusted to match the slower exit transition
+                });
+        
+                cards.forEach(card => {
+                    card.classList.remove('scroll-animation-left', 'scroll-animation-right', 'scroll-animation-up');
+                });
+        
+                isScrolling = false;
+            }, 400); // Adjusted to reduce the delay
+        }
+        
+        let lastScrollTime = 0;
+        const debounceDelay = 1800; // Adjust this value as needed
+        
+        window.addEventListener('wheel', (event) => {
+            const currentTime = new Date().getTime();
+            if (currentTime - lastScrollTime < debounceDelay) return;
+            lastScrollTime = currentTime;
+        
+            if (event.deltaY > 0) {
+                scrollCards('down');
+            } else {
+                scrollCards('up');
+            }
         });
-
-        container.appendChild(card);
-    });
-};
-
-createCards(places);
+        
+        createCards(currentStartIndex);
