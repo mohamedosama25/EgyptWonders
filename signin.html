@@ -6,20 +6,23 @@
     <title>Sign In</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body style="background-color: rgb(56, 53, 53)">
+    <nav id="navbar"></nav>
+    <div id="loading-screen"></div>
+    <div id="login">
     <div class="auth-container">
-        <h1>Sign In</h1>
+        <h1 id="sign">Sign In</h1>
         <form>
             <label for="username">Username</label>
-            <input type="text" id="username" name="username" required>
+            <input  class="input-signup" type="text" id="username" name="username" required placeholder="Enter Your Username">
             
             <label for="password">Password</label>
-            <input type="password" id="password" name="password" required>
+            <input  class="input-signup" type="password" id="password" name="password" required placeholder="Enter Your Password">
             
             <button type="submit">Sign In</button>
         </form>
-        <p>New user? <a href="signup.html">Sign Up</a></p>
-    </div>
+        <p id="user">New user? <a href="signup.html">Sign Up</a></p>
+    </div></div>
     <script src="js/navbar.js"></script>
 </body>
 </html>

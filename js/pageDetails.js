@@ -2,7 +2,7 @@ places = [
     {
         "id": 1,
         "name": "The Pyramids of Giza",
-        "imagesrc": "https://interestingengineering.com/_next/image?url=https%3A%2F%2Fimages.interestingengineering.com%2Fimg%2Fiea%2FJYG0bEmaw1%2Fgiza-pyramids-engineering-behind.jpg&w=1200&q=75",
+        "imagesrc": "https://www.ancientworldwonders.com/uploads/Pyramids_of_Giza.jpg",
         "description": "The Pyramids of Giza are the most iconic symbols of ancient Egypt and are located on the Giza Plateau, just outside Cairo. Comprising three main pyramids—the Great Pyramid of Khufu (Cheops), the Pyramid of Khafre (Chephren), and the Pyramid of Menkaure (Mykerinos)—this site is one of the Seven Wonders of the Ancient World. The Great Pyramid, originally standing at 146.6 meters, was the tallest man-made structure in the world for over 3,800 years. Nearby, the Sphinx, a colossal limestone statue with the body of a lion and the head of a pharaoh, guards the pyramids. These structures, built over 4,500 years ago, were constructed as elaborate tombs for pharaohs and are a testament to the architectural and engineering prowess of ancient Egyptian civilization.",
         "price": {
             "Prices": {
