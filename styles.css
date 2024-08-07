@@ -2,14 +2,14 @@
 
 /* ---------------------GENERAL------------------------- */
 :root {
-  --bg-clr: rgb(185, 177, 115);
-  --nav-clr: #004c6d;
+  --bg-clr: rgba(43, 45, 51, 0.982);
+  --nav-clr: #013a53;
   --txt-clr: #c95f13;
   --btn-clr: #86290f;
   --btn-hover: #ffd700;
   --border-clr: #bebebe;
-  --lon-headings: #2b3b4b;
-  --lon-description: #17212c;
+  --lon-headings: #bebebe;
+  --lon-description: #bebebe;
 }
 .libre-baskerville-regular {
   font-family: "Libre Baskerville", serif;
@@ -142,7 +142,7 @@ nav li {
 a {
   text-decoration: none;
   margin: 0 10px;
-  color: var(--bg-clr);
+  color: var(--lon-headings);
 }
 
 a:hover {
@@ -499,7 +499,7 @@ img {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  box-shadow: 5px 5px 60px #bebebe6e, -20px -20px 60px #ffffff0c;
+  box-shadow: 3px 3px 25px #bebebe46, -20px -20px 60px #ffffff0c;
   margin: auto;
   margin-bottom: 40px;
 }
@@ -509,10 +509,10 @@ img {
   z-index: 1;
   top: 50%;
   left: 50%;
-  width: 320px;
-  height: 220px;
+  width: 450px;
+  height: 350px;
   border-radius: 50%;
-  background-color: var(--nav-clr);
+  background-color: #2d9ece;
   opacity: 1;
   filter: blur(12px);
   animation: blob-bounce 5s infinite ease;
@@ -557,6 +557,8 @@ img {
   font-size: 2.5em;
   font-weight: 700;
   padding: 0px 20px;
+  color: rgb(200, 198, 198);
+  
 }
 
 #namediv {
@@ -570,6 +572,7 @@ img {
   font-size: 1.3em;
   font-weight: 500;
   padding: 20px 20px 0px 20px;
+  
 }
 
 #duo {
@@ -582,12 +585,15 @@ img {
   font-size: 1.6em;
 
   padding: 15px 20px 0px 20px;
+  color: rgb(200, 198, 198);
 }
 
 #hotelsAndPrices {
   display: flex;
   justify-content: space-between;
   padding: 30px;
+
+  
 }
 
 #place-hotels {
@@ -616,6 +622,7 @@ img {
 #hotel-prices {
   font-size: 1.5em;
   padding-top: 5px;
+  color: var(--lon-description);
 }
 #hotel-link {
   color: var(--lon-description);
