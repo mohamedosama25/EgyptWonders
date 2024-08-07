@@ -52,6 +52,24 @@ places = [
         ]
     },
     {
+        "id": 25,
+        "name": "Stanley Bridge",
+        "imagesrc": "https://i.pinimg.com/originals/35/47/43/35474395f68c4d2838d8ec96962d02e2.jpg",
+        "description": "Stanley Bridge is a modern landmark in Alexandria, known for its stunning design and scenic views. The bridge spans the eastern harbor, connecting the Corniche to the Montaza district. It features four towers inspired by Islamic architecture, adding to its distinctive look. At night, the bridge is illuminated, creating a picturesque scene that attracts many visitors. Stanley Bridge is not only an important transportation route but also a popular spot for taking photographs and enjoying the sea views. It symbolizes the blend of modernity and tradition in Alexandria.",
+        "price": {},
+        "hours": "Open 24 hours",
+        "hotels": [
+            {
+                "name": "Hilton Alexandria Corniche",
+                "price": "$150 - $300 per night"
+            },
+            {
+                "name": "Four Seasons Hotel Alexandria",
+                "price": "$250 - $450 per night"
+            }
+        ]
+    },
+    {
         "id": 18,
         "name": "Montaza Palace and Gardens",
         "imagesrc": "https://www.islamicarchitecturalheritage.com/wp-content/uploads/2020/06/montaza-palace.jpg",
