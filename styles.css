@@ -512,7 +512,7 @@ img {
   width: 450px;
   height: 350px;
   border-radius: 50%;
-  background-color: #2d9ece;
+  background-color: #a29eb3;
   opacity: 1;
   filter: blur(12px);
   animation: blob-bounce 5s infinite ease;
