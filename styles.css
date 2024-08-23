@@ -800,3 +800,31 @@ h3{
   padding-top: 50px;
   color: var(--lon-headings);
 }
+
+/*------------------ACCOUNT-----------------*/
+
+
+
+.account-container {
+  background-color: var(--nav-clr);
+  border-radius: 10px;
+  padding:   40px;
+  padding-top: 5px;
+  width: 400px;
+  box-shadow: 20px 5px 20px rgba(0, 0, 0, 0.31);
+  margin:  auto;
+  margin-top: 30px;
+  border: 4px solid #bebebe4a;
+  text-align: center;
+
+}
+
+.account-container p{
+  margin-top: 30px;
+  font-size: 1.2em;
+}
+
+.account-container h1{
+  font-size: 3em;
+  padding:  0  0 30px 0;
+}

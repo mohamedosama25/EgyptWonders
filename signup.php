@@ -60,7 +60,7 @@
 
       <button type="submit">Sign Up</button>
     </form>
-    <p id="user">Already a user? <a href="signin.html">Login</a></p>
+    <p id="user">Already a user? <a href="signin.php">Login</a></p>
   </div>
   <script src="js/navbar.js"></script>
 </body>
@@ -87,12 +87,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     echo "<script> alert('Passwords do npt match') </script>";
   }
   else{
-    $hashedpassword = password_hash($password, PASSWORD_BCRYPT);
+    $hashedpassword = md5($password);
     $sql = "INSERT INTO users (username, email, phone, password) 
               VALUES ('$username', '$email', '$phone', '$hashedpassword')";
 
   if (mysqli_query($conn, $sql)) {
-    echo "<script>alert('Registration successful!'); window.location.href='signin.html';</script>";
+    echo "<script>alert('Registration successful!'); window.location.href='signin.php';</script>";
   } else {
     echo "Error: " . $sql . "<br>" . mysqli_error($conn);
   }           
