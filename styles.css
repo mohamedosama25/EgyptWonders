@@ -855,3 +855,13 @@ h3 {
   z-index: -1;
 }
 /* ------------------------------------------------------------------------------------- */
+.form-error {
+  color: red;
+  font-size: 0.8em;
+  margin-top: 5px;
+}
+.error{
+  color: red;
+  font-size: 0.8em;
+  margin-top: 5px;
+}
