@@ -363,7 +363,7 @@ function createCards(startIndex) {
         card.appendChild(contentDiv);
 
         card.addEventListener('click', () => {
-            window.location.href = `pageDetails.html?id=${place.id}`;
+            window.location.href = `pageDetails.php?id=${place.id}`;
         });
 
         container.appendChild(card);

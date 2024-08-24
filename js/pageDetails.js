@@ -2461,3 +2461,58 @@ if (place) {
 } else {
     document.getElementById('detail-container').textContent = 'Place not found.';
 }
+document.addEventListener('DOMContentLoaded', function () {
+    console.log('Page loaded');
+    const bookmarkCheckbox = document.getElementById('bookmark-checkbox');
+    const placeId = urlParams.get('id');
+
+    // Fetch the saved places from the server
+    const xhrGet = new XMLHttpRequest();
+    xhrGet.open('GET', 'getSavedPlaces.php', true);
+    xhrGet.setRequestHeader('Content-Type', 'application/json;charset=UTF-8');
+    xhrGet.onreadystatechange = function () {
+        if (xhrGet.readyState === 4 && xhrGet.status === 200) {
+            const response = JSON.parse(xhrGet.responseText);
+            if (response.status === 'success') {
+                const savedPlaces = response.saved_places;
+
+                // Check if the current place is in the saved places
+                if (savedPlaces.includes(placeId)) {
+                    bookmarkCheckbox.checked = true;
+                }
+            } else {
+                console.error('Error fetching saved places:', response.message);
+            }
+        }
+    };
+    xhrGet.send();
+
+    if (bookmarkCheckbox) {
+        console.log('Bookmark checkbox found');
+        bookmarkCheckbox.addEventListener('change', function () {
+            console.log('Checkbox changed:', this.checked);
+            const isChecked = this.checked;
+
+            // Send AJAX request to update the saved places
+            const xhrPost = new XMLHttpRequest();
+            xhrPost.open('POST', 'updateSavedPlaces.php', true);
+            xhrPost.setRequestHeader('Content-Type', 'application/json;charset=UTF-8');
+            xhrPost.onreadystatechange = function () {
+                if (xhrPost.readyState === 4) {
+                    if (xhrPost.status === 200) {
+                        console.log('Server response:', xhrPost.responseText);
+                    } else {
+                        console.error('Error:', xhrPost.statusText);
+                    }
+                }
+            };
+            xhrPost.send(JSON.stringify({
+                placeId: placeId,
+                action: isChecked ? 'add' : 'remove'
+            }));
+        });
+    } else {
+        console.error('Bookmark checkbox not found in the DOM.');
+    }
+});
+
