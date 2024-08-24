@@ -19,9 +19,12 @@
         <div class="slider-content" id="slider-content"></div>
         <button id="next">&gt;</button>
     </div>
-
-    <h2 id="register">New here? <a href="signup.html">Register</a>to save your favourite places!  </h2>
-
+<?php
+  session_start();
+if (!isset($_SESSION['username'])){
+    echo"<h2 id='register'>New here? <a href='signup.php'>Register</a>to save your favourite places!  </h2>";
+}
+?>
     <script src="js/navbar.js"></script>
     <script src="js/index.js"></script>
 </body>
