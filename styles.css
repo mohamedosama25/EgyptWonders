@@ -656,6 +656,7 @@ img {
   margin:  auto;
   margin-top: 30px;
   border: 4px solid #bebebe4a;
+  
 
 }
 
@@ -734,6 +735,36 @@ button:hover {
   justify-content: center;
   align-items: center;
   margin-top: 8%;
+}
+/* background image ll signup w signin  */
+.auth-page {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.auth-page::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 200%;
+  height: 200%;
+  background-image: url('images/signUpBg.png'); 
+  background-size: 25%; 
+  background-repeat: repeat;   background-position: center; 
+  filter: blur(3px); 
+  transform: translate(-50%, -50%) rotate(6deg); 
+  z-index: -1;
+}
+.error-messages p{
+  color: red;
+  font-size: 1.2em;
+  text-align: center;
+  margin-top: 10px;
 }
 
 /*------------------SLIDER-----------------*/
@@ -828,3 +859,34 @@ h3{
   font-size: 3em;
   padding:  0  0 30px 0;
 }
+
+    /* Toast container */
+    .toast-container {
+      margin-top:20px ;
+      z-index: 1000;
+
+      
+    }
+
+    /* Toast message styling */
+    .toast {
+      background-color: #d8d8d8;
+      color: rgb(193, 0, 0);
+      padding: 25px;
+      border-radius: 8px;
+      margin-bottom: 10px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      opacity: 0;
+      font-weight: 700;
+      text-align: center;
+      transform: translateY(-20px);
+      transition: opacity 0.3s ease, transform 0.3s ease;
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    
