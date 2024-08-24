@@ -2,6 +2,7 @@
 declare(strict_types=1);
 
 function signup_inputs(){
+    ?>
     <label for="username">Username</label>
     <input
       class="input-signup"
@@ -51,6 +52,7 @@ function signup_inputs(){
       placeholder="Confirm Your Password"
     />
 
+    <?php
     if(isset($_SESSION["signupData"]["username"]) && !isset($_SESSION["errors_signup"]["username_taken"])){
         
         echo '<input
@@ -58,22 +60,12 @@ function signup_inputs(){
       type="text"
       id="username"
       name="username"
-      placeholder="Enter a username" value=" ' . $_SESSION["signupData"]["username"] . '"
+      placeholder="Enter a username" value="' . $_SESSION["signupData"]["username"] . '"
       required
-    />
-
-    }else {
-        echo '<input
-      class="input-signup"
-      type="text"
-      id="username"
-      name="username"
-      placeholder="Enter a username"
-      required
-    />">';
+    />';
 
     }
-    echo '<input type="password" name="password" placeholder="Enter a password">';
+
 
     if(isset($_SESSION["signupData"]["email"]) && !isset($_SESSION["errors_signup"]["email_registered"])  && !isset($_SESSION["errors_signup"]["email_invalid"])){
         echo ' <input
@@ -84,15 +76,6 @@ function signup_inputs(){
       placeholder="Enter Your Email" value=" ' . $_SESSION["signupData"]["email"] . '"
     />';
         
-    }else {
-        echo ' <input
-      class="input-signup"
-      type="email"
-      id="email"
-      name="email"
-      placeholder="Enter Your Email"
-    />';
-
     }
 
 
@@ -102,12 +85,12 @@ function signup_inputs(){
 
 
 
-function check_signip_errors(){
+function check_signup_errors(){
     if(isset($_SESSION["signup_error"])){
         $error = $_SESSION["signup_error"];
         echo "<br>";
         foreach($error as $error){
-            echo '<p class="form-error">'.$error.'</p>';
+            echo "<script>alert('$error')</script>";
         }
         unset($_SESSION["signup_error"]);
     
@@ -117,3 +100,4 @@ function check_signip_errors(){
 
     }
 }
+?>

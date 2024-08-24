@@ -22,18 +22,22 @@ require_once 'Backend/config_session.inc.php';
         <h1 id="sign">Sign Up</h1>
 
         <form action="Backend/signup.inc.php" method="post">
-         
+             <?php
+    signup_inputs();
+
+    ?>
+
 
           <button type="submit">Sign Up</button>
         </form>
+        <?php
+            check_signup_errors();
+            ?>
         <p id="user">Already a user? <a href="signin.html">Login</a></p>
       </div>
     </div>
     <script src="js/navbar.js"></script>
 
-    <?php
-    check_signip_errors();
-    ?>
 
   </body>
 </html>

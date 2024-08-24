@@ -5,7 +5,7 @@ function is_input_empty(string $username, string $password, string $email, strin
     if(empty($username) || empty($password) || empty($email) || empty($phone)){
         return true;
     } else{
-        $return false;
+        return false;
     }
 
 }
@@ -18,7 +18,7 @@ function is_email_invalid(string $email){
 }
 function is_username_taken(object $pdo, string $username) {
 
-    if (get_username( $pdo $username)){
+    if (get_username( $pdo , $username)){
         return true;
     } else{
         return false;
