@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav id="navbar"></nav>
+    
+    <div id="loading-screen"></div>
+
+    <h1 class="quote">Search Results</h1>
+    
+    <div id="cards-container" style="flex-wrap: wrap;"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const params = new URLSearchParams(window.location.search);
+            const query = params.get('query');
+            
+            if (query) {
+                fetch(`searchResults.php?query=${encodeURIComponent(query)}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        const container = document.getElementById('cards-container');
+                        container.innerHTML = '';
+
+                        if (data.length > 0) {
+                            data.forEach((item) => {
+                                const card = document.createElement('div');
+                                card.className = 'card';
+
+                                const img = document.createElement('img');
+                                img.setAttribute('src', item.image);
+                                img.setAttribute('alt', item.name);
+
+                                const contentDiv = document.createElement('div');
+                                contentDiv.className = 'card__content';
+
+                                const title = document.createElement('p');
+                                title.className = 'card__title';
+                                title.textContent = item.name;
+
+                                const description = document.createElement('p');
+                                description.className = 'card__description';
+                                description.textContent = item.description;
+
+
+                                contentDiv.appendChild(title);
+                                contentDiv.appendChild(description);
+                            
+                                card.appendChild(img);
+                                card.appendChild(contentDiv);
+
+                                // Ensure the id is properly passed
+                                const id = item.id; // Correctly assign id from item object
+                                card.addEventListener('click', () => {
+                                    window.location.href = item.type === 'place' 
+                                        ? `pagedetails.php?id=${id}` 
+                                        : `hotelDetails.html?id=${id}`;
+                                });
+
+                                container.appendChild(card);
+                            });
+                        } else {
+                            container.innerHTML = '<p>No results found.</p>';
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error fetching search results:', error);
+                    });
+            } else {
+                document.getElementById('cards-container').innerHTML = '<p>No search query provided.</p>';
+            }
+        });
+    </script>
+
+    <script src="js/navbar.js"></script>
+</body>
+</html>
