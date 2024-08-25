@@ -351,7 +351,7 @@ places = [
     },
 
     {
-        "id": 18,
+        "id": 17,
         "name": "Montaza Palace and Gardens",
         "imagesrc": "https://www.islamicarchitecturalheritage.com/wp-content/uploads/2020/06/montaza-palace.jpg",
         "description": "Montaza Palace and Gardens are located along the Mediterranean coast. The palace was built in the early 20th century by Khedive Abbas II as a summer residence. The architectural style of the palace combines Ottoman and Florentine influences, making it a unique landmark. The surrounding gardens, covering about 370 acres, are beautifully landscaped with a variety of trees, flowers, and walking paths. The gardens also feature several picturesque beaches and a small marina. Montaza Palace and Gardens are a popular spot for both locals and tourists, offering a serene escape from the bustling city.",
@@ -376,7 +376,7 @@ places = [
         ]
     },
     {
-        "id": 19,
+        "id": 18,
         "name": "Alexandria National Museum",
         "imagesrc": "https://beautifulglobal.com/wp-content/uploads/2015/06/Alexandria-National-Museum-In-Egypt-COVER.jpg",
         "description": "The Alexandria National Museum showcases the rich history of Alexandria. It is housed in a restored Italian-style mansion and contains over 1,800 artifacts that span from the Pharaonic to the Roman and Byzantine periods. The museum's exhibits are arranged chronologically, providing a comprehensive overview of Alexandria's past. Highlights include statues, jewelry, coins, and pottery, as well as items recovered from underwater archaeological sites. Interactive displays and multimedia presentations enhance the visitor experience. The museum is an essential destination for anyone interested in the historical and cultural heritage of Alexandria.",
@@ -401,7 +401,7 @@ places = [
         ]
     },
     {
-        "id": 20,
+        "id": 19,
         "name": "Abu al-Abbas al-Mursi Mosque",
         "imagesrc": "https://viajareaegipto.com/wp-content/uploads/2020/02/Mezquita-de-Abu-al-Abbas-Al-Mursi.png",
         "description": "The Abu al-Abbas al-Mursi Mosque is one of the largest mosques in Alexandria. It was built in 1775 over the tomb of the 13th-century Andalusian Sufi saint, Abu al-Abbas al-Mursi. The mosque features an impressive white and blue facade, with intricate Islamic architectural details and a large central dome. The interior is equally stunning, adorned with beautiful mosaics, marble columns, and a large chandelier. The mosque is not only a place of worship but also a significant cultural and historical site, attracting visitors from all over the world.",
@@ -426,7 +426,7 @@ places = [
         ]
     },
     {
-        "id": 21,
+        "id": 20,
         "name": "Saint Mark's Coptic Orthodox Cathedral",
         "imagesrc": "https://www.worldatlas.com/upload/6e/32/a0/shutterstock-228017899.jpg",
         "description": "Saint Mark's Coptic Orthodox Cathedral is one of the oldest churches in Africa, originally founded by St. Mark the Evangelist in the 1st century AD. The current structure, rebuilt in the 19th century, serves as the seat of the Coptic Orthodox Pope. The cathedral's design combines elements of Coptic, Byzantine, and Islamic architecture. Inside, the cathedral houses beautiful icons, intricate woodwork, and a tranquil atmosphere for worship. It stands as a symbol of Alexandria's long Christian heritage and is an important site for the Coptic community.",
@@ -451,7 +451,7 @@ places = [
         ]
     },
     {
-        "id": 22,
+        "id": 21,
         "name": "Corniche",
         "imagesrc": "https://cdn.audleytravel.com/-/-/79/4269-alexandria-corniche.jpg",
         "description": "The Corniche is a scenic waterfront promenade that stretches along the coast of Alexandria. It offers stunning views of the Mediterranean Sea and is lined with cafes, restaurants, and shops. The Corniche is a popular spot for both locals and tourists to take leisurely walks, enjoy the sea breeze, and watch the sunset. Along the way, you'll find several landmarks, including the Bibliotheca Alexandrina and the Citadel of Qaitbay. The vibrant atmosphere and picturesque setting make the Corniche a must-visit destination in Alexandria.",
@@ -472,7 +472,7 @@ places = [
         ]
     },
     {
-        "id": 23,
+        "id": 22,
         "name": "Alexandria Opera House (Sayed Darwish Theatre)",
         "imagesrc": "https://i.pinimg.com/originals/d2/b4/c6/d2b4c620bfa469e8d795a3bcfc275dd6.jpg",
         "description": "The Alexandria Opera House, also known as the Sayed Darwish Theatre, is a historic cultural venue named after the famous Egyptian composer. It was built in the early 20th century and features a blend of classical and Islamic architectural styles. The opera house hosts a variety of performances, including opera, ballet, concerts, and theatrical productions. Its grand interior, with ornate decorations and excellent acoustics, provides a perfect setting for the performing arts. The Alexandria Opera House is a key institution in the city's cultural life, attracting both local and international artists.",
@@ -495,7 +495,7 @@ places = [
         ]
     },
     {
-        "id": 24,
+        "id": 23,
         "name": "Anfushi Tombs",
         "imagesrc": "https://th.bing.com/th/id/OIP.WHf1YYsJltDO5lCGBE9mgQHaE7?w=2000&h=1333&rs=1&pid=ImgDetMain",
         "description": "The Anfushi Tombs are a set of Ptolemaic tombs dating back to the 3rd century BC, located in the Anfushi neighborhood of Alexandria. These tombs are notable for their distinctive architectural style, combining Egyptian and Greek influences. The walls of the tombs are adorned with colorful frescoes depicting various mythological scenes and everyday life. The Anfushi Tombs provide valuable insights into the burial practices and artistic traditions of the period. They are an important archaeological site, shedding light on Alexandria's multicultural heritage.",
@@ -520,7 +520,7 @@ places = [
         ]
     },
     {
-        "id": 25,
+        "id": 24,
         "name": "Stanley Bridge",
         "imagesrc": "https://i.pinimg.com/originals/35/47/43/35474395f68c4d2838d8ec96962d02e2.jpg",
         "description": "Stanley Bridge is a modern landmark in Alexandria, known for its stunning design and scenic views. The bridge spans the eastern harbor, connecting the Corniche to the Montaza district. It features four towers inspired by Islamic architecture, adding to its distinctive look. At night, the bridge is illuminated, creating a picturesque scene that attracts many visitors. Stanley Bridge is not only an important transportation route but also a popular spot for taking photographs and enjoying the sea views. It symbolizes the blend of modernity and tradition in Alexandria.",
@@ -541,7 +541,7 @@ places = [
         ]
     },
     {
-        "id": 26,
+        "id": 25,
         "name": "Ras el-Tin Palace",
         "imagesrc": "https://www.re-thinkingthefuture.com/wp-content/uploads/2020/01/A523-15-PLACES-IN-ALEXANDRIA-Ras-el-Tin-Palace-IMAGE-1.jpg",
         "description": "Ras el-Tin Palace is one of the oldest royal palaces in Egypt, located along the Mediterranean coast in Alexandria. Built in the 19th century, it served as a summer residence for Egyptian kings and later as a presidential residence. The palace features a blend of European and Islamic architectural styles and is surrounded by lush gardens. Although it is not open to the public, its exterior can be admired from the outside. Ras el-Tin Palace is a symbol of Alexandria's historical grandeur and continues to play a role in the country's political life.",
@@ -559,7 +559,7 @@ places = [
         ]
     },
     {
-        "id": 27,
+        "id": 26,
         "name": "Graeco-Roman Museum",
         "imagesrc": "https://www.cleopatraegypttours.com/wp-content/uploads/2018/08/graeco-roman-museum-768x499.jpg",
         "description": "The Graeco-Roman Museum is one of the most important museums in Alexandria, showcasing artifacts from the city's rich Greco-Roman past. Founded in 1892, the museum houses a vast collection of statues, pottery, jewelry, and coins from the Hellenistic and Roman periods. The exhibits provide insights into the daily life, religion, and art of ancient Alexandria. The museum's building itself is a piece of history, featuring neoclassical architecture. It is a must-visit destination for anyone interested in the ancient history and cultural heritage of Alexandria.",
@@ -584,7 +584,7 @@ places = [
         ]
     },
     {
-        "id": 28,
+        "id": 27,
         "name": "Saint Catherine Church",
         "imagesrc": "https://cdn.mappr.co/wp-content/uploads/2021/04/image-251.jpeg",
         "description": "Saint Catherine Church is a historic Roman Catholic church located in the heart of Alexandria. It was built in the 19th century and is known for its beautiful Gothic Revival architecture. The church's interior is adorned with stained glass windows, ornate altars, and religious paintings. Saint Catherine Church is not only a place of worship but also a cultural landmark, hosting various religious and community events. It stands as a testament to Alexandria's diverse religious heritage and is a peaceful retreat amidst the bustling city.",
@@ -610,7 +610,7 @@ places = [
     },
 
     {
-        "id": 30,
+        "id": 28,
         "name": "Kafr Abdo",
         "imagesrc": "https://www.elbalad.news/Upload/libfiles/338/6/836.jpg",
         "description": "Kafr Abdo is a vibrant district in Alexandria known for its bustling atmosphere and diverse community. It features a mix of residential, commercial, and recreational areas, making it a lively part of the city. The area is characterized by its busy streets, local shops, and eateries, reflecting the everyday life of Alexandrians. Kafr Abdo is also known for its cultural diversity, with a variety of cafes and restaurants offering a range of cuisines. It provides an authentic glimpse into the local lifestyle and is a popular spot for both residents and visitors looking to experience the dynamic energy of Alexandria.",
@@ -631,7 +631,7 @@ places = [
         ]
     }
     , {
-        "id": 31,
+        "id": 29,
         "name": "El Max",
         "imagesrc": "https://lh6.ggpht.com/-_E9_uQBFxLU/VI7LdeEqsbI/AAAAAAAA9vI/PptpubDCJKQ/al-max-Alexandria-1%25255B6%25255D.jpg?imgmax=800",
         "description": "El Max is a vibrant and historic district in Alexandria, known for its bustling local market and traditional atmosphere. It is one of the older areas of the city and features a mix of residential and commercial properties. The district is famous for its lively street markets, local eateries, and traditional shops selling everything from fresh produce to crafts. El Max offers a unique glimpse into everyday life in Alexandria and is a great place to experience the local culture and cuisine.",
@@ -653,7 +653,7 @@ places = [
 
 
     , {
-        "id": 32,
+        "id": 30,
         "name": "Bianki",
         "imagesrc": "https://i.pinimg.com/474x/52/5c/52/525c524d4d867d494afcd348211eeb6c--cairo-egypte-hurghada-egypt.jpg",
         "description": "Bianki is a charming coastal area located in Alexandria, known for its serene beaches and vibrant atmosphere. It is a popular spot for locals and tourists looking to relax by the sea, enjoy water sports, and savor fresh seafood at the numerous beachfront restaurants. The area is characterized by its clean sandy beaches and clear waters, making it ideal for swimming and sunbathing. Bianki offers a perfect blend of relaxation and recreation, with a variety of activities to enjoy along the picturesque Mediterranean coast.",
@@ -670,7 +670,7 @@ places = [
         ]
     },
     {
-        "id": 33,
+        "id": 31,
         "name": "El Raml Station",
         "imagesrc": "https://th.bing.com/th/id/R.b73e3f14bb35987fa801094640eb7164?rik=oCqbRNbsaJUYZA&pid=ImgRaw&r=0",
         "description": "El Raml Station is a historic tram station in Alexandria, operating since the 19th century. This bustling district is a central hub of activity, featuring a mix of traditional markets, modern shops, and vibrant street life. Visitors can explore local markets, enjoy coffee at the many cafes, and soak in the lively atmosphere of this quintessentially Alexandrian neighborhood. The station itself adds to the nostalgic charm of the area.",
@@ -687,7 +687,7 @@ places = [
         ]
     },
     {
-        "id": 34,
+        "id": 32,
         "name": "The Walk Sidi Gaber",
         "imagesrc": "https://scontent.fcai19-7.fna.fbcdn.net/v/t39.30808-6/381063527_314648071218210_4086580402837759484_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=FI4y2gBpi_4Q7kNvgFlg9lz&_nc_ht=scontent.fcai19-7.fna&oh=00_AYBss4ycStEv86Xvr0z2g72Xki_lrl2T1_N33VvWa27nCA&oe=66B87892",
         "description": "The Walk Sidi Gaber is a popular waterfront promenade in Alexandria, offering stunning views of the Mediterranean Sea. This scenic walkway is perfect for a leisurely stroll, jogging, or cycling, with its well-maintained paths and picturesque surroundings. The area is dotted with cafes, restaurants, and shops, making it a great spot to relax and enjoy the coastal ambiance. The Walk Sidi Gaber is particularly beautiful during sunset, providing a serene and romantic setting along the Alexandrian coast.",
@@ -704,7 +704,7 @@ places = [
         ]
     },
     {
-        "id": 35,
+        "id": 33,
         "name": "Blue Harbor Rooftop",
         "imagesrc": "https://i.pinimg.com/originals/5a/a4/4a/5aa44ae54fd505482db048fefe9ec088.jpg",
         "description": "Blue Harbor Rooftop is a chic rooftop lounge located in Alexandria, offering panoramic views of the Mediterranean Sea and the city skyline. This stylish venue is perfect for enjoying a relaxing evening with friends or a romantic night out. Guests can indulge in a variety of delicious food and drinks while taking in the breathtaking scenery. The rooftop features comfortable seating, elegant decor, and a vibrant atmosphere, making it a popular spot for both locals and visitors looking to unwind and enjoy the beauty of Alexandria from above.",
@@ -721,7 +721,7 @@ places = [
         ]
     },
     {
-        "id": 36,
+        "id": 34,
         "name": "Gleem Bay",
         "imagesrc": "https://i.ytimg.com/vi/qVNWd_fr1cA/maxresdefault_live.jpg",
         "description": "Gleem Bay is a picturesque coastal area in Alexandria known for its clear waters and vibrant atmosphere. It's a favorite spot for sitting in cafes and restaurants, enjoying delicious food while taking in the refreshing sea breeze. The area offers a perfect setting for relaxation and recreation along the beautiful coastline.",
@@ -738,7 +738,7 @@ places = [
         ]
     },
     {
-        "id": 38,
+        "id": 35,
         "name": "Casino Al Shatby",
         "imagesrc": "https://i.pinimg.com/736x/db/36/f9/db36f945c1fab49aa64ce6dc19ad040d.jpg",
         "description": "Casino Al Shatby is a historic entertainment venue located in the Shatby district of Alexandria. Known for its elegant architecture and scenic views of the Mediterranean Sea, it offers a variety of dining and leisure options. Visitors can enjoy live music, cultural performances, and a relaxing atmosphere in a setting that blends the charm of old Alexandria with modern amenities.",
@@ -759,7 +759,7 @@ places = [
         ]
     },
     {
-        "id": 39,
+        "id": 36,
         "name": "Karnak Temple",
         "imagesrc": "https://cdn.getyourguide.com/img/location/5963844562868.jpeg/88.jpg",
         "description": "Karnak Temple is a vast temple complex dedicated to the god Amun, located near Luxor, Egypt. This impressive site features massive pylons, towering obelisks, and intricately designed sanctuaries. The temple complex was built over centuries by numerous pharaohs, making it a historical treasure trove. Visitors can explore the Great Hypostyle Hall, famous for its forest of giant columns. Karnak Temple is also home to the Sacred Lake and several smaller temples and chapels. The complex is a testament to ancient Egyptian architecture and religious practices. Sound and light shows held in the evenings provide a magical experience, bringing the history of the temple to life.",
@@ -784,7 +784,7 @@ places = [
         ]
     },
     {
-        "id": 40,
+        "id": 37,
         "name": "Luxor Temple",
         "imagesrc": "https://e0.pxfuel.com/wallpapers/750/767/desktop-wallpaper-luxor-luxor-las-vegas.jpg",
         "description": "Luxor Temple is a large ancient Egyptian temple complex situated on the east bank of the Nile River in Luxor. It is renowned for its grand statues, sphinxes, and beautiful reliefs. The temple was primarily built by Amenhotep III and later completed by Tutankhamun and Ramses II. Luxor Temple was dedicated to the Theban Triad of Amun, Mut, and Khonsu. The site is especially picturesque at night when it is illuminated, creating a stunning visual effect. The Avenue of Sphinxes, which once connected Luxor Temple to Karnak Temple, is being excavated and restored. The temple's architecture showcases the grandeur of ancient Egyptian civilization. The annual Opet Festival was celebrated here in ancient times, emphasizing its religious significance.",
@@ -809,7 +809,7 @@ places = [
         ]
     },
     {
-        "id": 41,
+        "id": 38,
         "name": "Valley of the Kings",
         "imagesrc": "https://www.historyhit.com/app/uploads/fly-images/5166545/shutterstock_valley-of-kings-788x537.jpg",
         "description": "The Valley of the Kings is a royal burial ground for pharaohs and nobles, located on the west bank of the Nile near Luxor. It is renowned for its elaborately decorated tombs, including the famous tomb of Tutankhamun. The valley contains 63 tombs and chambers, showcasing intricate hieroglyphs and stunning wall paintings. Each tomb provides unique insights into ancient Egyptian beliefs about the afterlife. Visitors can explore several tombs, each with its distinct features and artwork. The valley's isolation and hidden location were intended to protect the tombs from looters. Despite this, many tombs were plundered in antiquity. Today, it remains a major archaeological and tourist site, attracting researchers and history enthusiasts worldwide.",
@@ -834,7 +834,7 @@ places = [
         ]
     },
     {
-        "id": 42,
+        "id": 39,
         "name": "Valley of the Queens",
         "imagesrc": "https://www.touregyptclub.com/wp-content/uploads/2020/07/e6324_Valley-of-the-queens-temple.jpg",
         "description": "The Valley of the Queens is the burial site of the wives of pharaohs, located near the Valley of the Kings in Luxor. This serene and beautiful valley is home to around 90 tombs, each with intricate decorations and inscriptions. The tombs of the queens and their children feature stunning wall paintings and well-preserved reliefs. The most famous tomb in the valley is that of Nefertari, the beloved wife of Ramses II, known for its vivid and well-preserved artwork. The site provides valuable insights into the burial practices and beliefs of ancient Egyptian royalty. The tombs are less crowded than those in the Valley of the Kings, offering a more intimate experience. The valley's peaceful atmosphere and historical significance make it a must-visit for history enthusiasts.",
@@ -859,7 +859,7 @@ places = [
         ]
     },
     {
-        "id": 43,
+        "id": 40,
         "name": "Colossi of Memnon",
         "imagesrc": "https://th.bing.com/th/id/R.5938424af9b54be175f1231c6a36465d?rik=d58QZ1ZRhSffbQ&pid=ImgRaw&r=0",
         "description": "The Colossi of Memnon are two massive stone statues of Pharaoh Amenhotep III, located on the west bank of the Nile River near Luxor. These iconic statues have stood for over 3,400 years and are among the most recognizable landmarks in Egypt. Each statue is about 18 meters high and weighs approximately 720 tons. The Colossi originally guarded the entrance to Amenhotep's mortuary temple, which was one of the largest and most magnificent temples in ancient Egypt. Today, the temple is mostly in ruins, but the Colossi remain an impressive sight. The statues have been a source of fascination for travelers and historians for centuries. They are particularly famous for the 'singing' phenomenon, where one of the statues would emit a musical sound at dawn, a mystery that captivated ancient visitors. The Colossi of Memnon are an enduring symbol of the grandeur of ancient Egyptian civilization.",
@@ -884,7 +884,7 @@ places = [
         ]
     },
     {
-        "id": 44,
+        "id": 41,
         "name": "Hatshepsut's Mortuary Temple",
         "imagesrc": "https://th.bing.com/th/id/R.cd6928a999017dce9faf88ba3ec5dd26?rik=kRunuCc8C7GgiQ&pid=ImgRaw&r=0",
         "description": "Hatshepsut's Mortuary Temple, also known as Deir el-Bahari, is an impressive funerary temple built for the female pharaoh Hatshepsut. Located on the west bank of the Nile near Luxor, the temple is renowned for its stunning architecture, including terraces and colonnades that blend seamlessly with the surrounding cliffs. The temple complex is dedicated to the sun god Amun-Ra and features beautiful reliefs depicting Hatshepsut's divine birth and her expedition to the Land of Punt. The temple's innovative design and artistic achievements reflect the high point of ancient Egyptian architecture and craftsmanship. Visitors can explore the various chapels, sanctuaries, and the central courtyard. The temple's serene location and historical significance make it a fascinating site to visit. Hatshepsut's Mortuary Temple stands as a testament to the legacy of one of Egypt's most successful and enigmatic pharaohs.",
@@ -909,7 +909,7 @@ places = [
         ]
     },
     {
-        "id": 45,
+        "id": 42,
         "name": "Luxor Museum",
         "imagesrc": "https://i0.wp.com/www.ourpassionfortravel.com/wp-content/uploads/2019/08/Turin-Edits-380.jpg?resize=640%2C427&is-pending-load=1#038;ssl=1",
         "description": "Luxor Museum is a prominent museum located in Luxor, Egypt, showcasing an impressive collection of artifacts from the region. The museum offers a more intimate and focused experience compared to the larger Egyptian Museum in Cairo. Visitors can admire a range of exhibits, including statues, jewelry, pottery, and mummies, all beautifully displayed in a modern and well-lit setting. Highlights include the statues of Amenhotep III and the cache of royal mummies discovered in the nearby Valley of the Kings. The museum's chronological layout provides a comprehensive overview of Luxor's history from the Old Kingdom to the Islamic era. Interactive displays and informative plaques enhance the visitor experience, making it educational and engaging. Luxor Museum is an essential visit for those interested in ancient Egyptian history and culture. The museum also offers stunning views of the Nile River from its outdoor terrace.",
@@ -934,7 +934,7 @@ places = [
         ]
     },
     {
-        "id": 46,
+        "id": 43,
         "name": "Temple of Seti I",
         "imagesrc": "https://i.redd.it/gzvdealgc8751.jpg",
         "description": "The Temple of Seti I is an unfinished temple located in Abydos, dedicated to the god Osiris. Known for its beautiful reliefs and inscriptions, the temple offers a fascinating glimpse into ancient Egyptian religious practices. The temple was built by Seti I and later completed by his son, Ramses II. Its unique L-shaped design features several chapels dedicated to different deities, including Osiris, Isis, and Horus. The quality and detail of the carvings are among the finest in Egypt, depicting scenes of the pharaoh's divine birth and his relationship with the gods. The temple also includes the Abydos King List, a chronological list of pharaohs from the earliest times to Seti I. Despite its unfinished state, the Temple of Seti I remains a significant site for its architectural and artistic achievements. Visitors can explore the various chambers and admire the well-preserved decorations that have survived thousands of years.",
@@ -959,7 +959,7 @@ places = [
         ]
     },
     {
-        "id": 47,
+        "id": 44,
         "name": "Temple of Ramesses II",
         "imagesrc": "https://foundtheworld.com/wp-content/uploads/2016/03/Abu-Simbel-Temple-5.jpg",
         "description": "The Temple of Ramesses II, located in the Valley of the Kings, is a magnificent structure known for its colossal statues of the pharaoh. Also known as the Ramesseum, this mortuary temple was dedicated to the god Ra and served as a place of worship and remembrance for Ramses II. The temple features a massive pylon, a hypostyle hall, and several sanctuaries. The colossal statues, originally flanking the entrance, are among the most striking features, showcasing the grandeur of Ramses II's reign. The walls of the temple are adorned with intricate reliefs depicting scenes from the Battle of Kadesh and other significant events. Despite the passage of time, the temple's architecture and artwork remain impressive. The site provides valuable insights into the religious and political life of ancient Egypt. Visitors can explore the ruins and appreciate the craftsmanship and scale of this monumental temple.",
@@ -984,7 +984,7 @@ places = [
         ]
     },
     {
-        "id": 48,
+        "id": 45,
         "name": "Tomb of Tutankhamun",
         "imagesrc": "https://th.bing.com/th/id/R.649e847763275c9fdf534c433d901f2d?rik=AqW3yAf%2b2rJPpw&pid=ImgRaw&r=0",
         "description": "The Tomb of Tutankhamun, discovered nearly intact by Howard Carter in 1922, is one of the most famous archaeological finds in history. Located in the Valley of the Kings, the tomb of the boy king Tutankhamun is renowned for its wealth of treasures and its relatively small size compared to other royal tombs. The tomb's antechamber, burial chamber, and treasury were filled with stunning artifacts, including the iconic golden mask of Tutankhamun. The discovery of the tomb provided invaluable insights into the burial practices and material culture of ancient Egypt. Visitors to the tomb can see the well-preserved wall paintings and the original stone sarcophagus. The treasures of Tutankhamun are now housed in the Egyptian Museum in Cairo, but the tomb itself remains a significant and popular tourist attraction. The story of its discovery and the legacy of Tutankhamun continue to captivate people worldwide.",
@@ -1009,7 +1009,7 @@ places = [
         ]
     },
     {
-        "id": 49,
+        "id": 46,
         "name": "Tomb of Nefertari",
         "imagesrc": "https://th.bing.com/th/id/R.a4b45c06de6a181f40dc18b64bebf070?rik=2L72mPMLfY2haw&pid=ImgRaw&r=0",
         "description": "The Tomb of Nefertari, located in the Valley of the Queens, is one of the most beautiful and well-preserved tombs in Egypt. Nefertari was the beloved wife of Ramses II, and her tomb reflects her high status and the love her husband had for her. The tomb is renowned for its vivid and colorful wall paintings, depicting Nefertari in various divine and daily life scenes. The quality of the artwork and the preservation of the colors are exceptional, offering a glimpse into the artistry of ancient Egyptian craftsmen. The tomb includes a series of chambers, each adorned with intricate and symbolic decorations. The Tomb of Nefertari is considered one of the finest examples of ancient Egyptian funerary art. Access to the tomb is limited to preserve its delicate condition, making it a rare and exclusive experience for visitors. The tomb's beauty and historical significance make it a highlight of any visit to Luxor.",
@@ -1034,7 +1034,7 @@ places = [
         ]
     },
     {
-        "id": 50,
+        "id": 47,
         "name": "Tomb of Thutmose III",
         "imagesrc": "https://egypt-museum.com/wp-content/uploads/2022/07/Interior-of-the-Tomb-of-Thutmose-III.jpg",
         "description": "The Tomb of Thutmose III, located in the Valley of the Kings, is a uniquely designed tomb featuring a spiral staircase and vibrant wall paintings. Thutmose III, often referred to as the Napoleon of ancient Egypt, was one of the greatest military pharaohs. His tomb reflects his importance and the grandeur of his reign. The tomb is accessed through a steep descent, leading to a series of chambers decorated with scenes from the Amduat, an ancient Egyptian funerary text. The vivid and detailed paintings provide insights into the religious beliefs and practices of the time. The tomb's innovative design and the quality of its artwork make it a significant site in the Valley of the Kings. Despite being plundered in antiquity, the tomb remains an important archaeological and tourist destination. Visitors can explore the chambers and admire the intricate decorations that have survived the ravages of time.",
@@ -1059,7 +1059,7 @@ places = [
         ]
     },
     {
-        "id": 51,
+        "id": 48,
         "name": "Tomb of Ramesses VI",
         "imagesrc": "https://media.odynovotours.com/thumbnail/tour/51000/11588086465848472/ValleyoftheKings1_50715-720w.jpg",
         "description": "The Tomb of Ramesses VI, located in the Valley of the Kings, is known for its detailed astronomical ceiling and colorful wall decorations. The tomb is one of the most beautifully decorated in the valley, showcasing the artistic achievements of ancient Egyptian craftsmen. The ceiling features intricate depictions of the night sky, including constellations and astronomical symbols. The walls are adorned with scenes from various funerary texts, including the Book of the Dead and the Book of Gates. The tomb's layout and design reflect the importance of Ramesses VI and his desire to ensure a safe passage to the afterlife. Despite damage and looting over the centuries, the tomb remains an important and popular site for visitors. The preservation of the colors and the quality of the artwork make it a highlight of any visit to the Valley of the Kings. The tomb provides valuable insights into ancient Egyptian beliefs about the afterlife and the pharaoh's role in the cosmos.",
@@ -1084,7 +1084,7 @@ places = [
         ]
     },
     {
-        "id": 52,
+        "id": 49,
         "name": "Hot Air Balloon Ride",
         "imagesrc": "https://www.kemetexperience.com/wp-content/uploads/2019/09/Luxor-hot-balloon.jpg",
         "description": "A Hot Air Balloon Ride over Luxor offers a unique and breathtaking perspective of the ancient city and its surroundings. The early morning flights provide stunning views of the temples, the Nile River, and the desert landscape as the sun rises. This experience allows visitors to see Luxor from a new angle, capturing the beauty and majesty of the historical sites from above. The ride typically lasts about an hour, during which passengers can enjoy a serene and peaceful journey through the sky. The balloons are operated by experienced pilots, ensuring a safe and enjoyable experience. The views of landmarks such as the Valley of the Kings, Karnak Temple, and Hatshepsut's Mortuary Temple are truly unforgettable. A hot air balloon ride is a must-do activity for those seeking a memorable and unique way to experience Luxor. The combination of adventure and history makes it an ideal addition to any visit to this ancient city.",
@@ -1109,7 +1109,7 @@ places = [
         ]
     },
     {
-        "id": 53,
+        "id": 50,
         "name": "Dendera Temple Complex",
         "imagesrc": "https://th.bing.com/th/id/R.811e42da0a335d2a6a9cb143c1ae5ed9?rik=QbSEes%2bQ3D4NEQ&pid=ImgRaw&r=0",
         "description": "The Dendera Temple Complex, located north of Luxor, is one of the best-preserved temple sites in Egypt. Dedicated to the goddess Hathor, the complex features a stunning zodiac ceiling, which is one of its most famous attractions. The main temple, the Temple of Hathor, showcases elaborate carvings and well-preserved reliefs depicting scenes of the pharaohs and deities. The complex also includes the Temple of Isis, the Sacred Lake, and several smaller chapels and shrines. The detailed astronomical and astrological decorations provide valuable insights into ancient Egyptian beliefs and practices. The temple's impressive architecture and intricate artwork make it a significant historical and cultural site. Visitors can explore the various chambers and admire the craftsmanship that has survived thousands of years. The Dendera Temple Complex offers a fascinating glimpse into the religious and artistic achievements of ancient Egypt, making it a must-visit for history enthusiasts.",
@@ -1134,7 +1134,7 @@ places = [
         ]
     },
     {
-        "id": 54,
+        "id": 51,
         "name": "Philae Temple",
         "imagesrc": "https://egypttravelblog.com/wp-content/uploads/2021/02/Philae-Isis-Temple-Shutterstock-copy.jpg",
         "description": "Philae Temple, located on Agilkia Island in Aswan, is dedicated to the goddess Isis and is renowned for its picturesque setting. The temple complex, with its stunning architecture and intricate carvings, offers a fascinating glimpse into ancient Egyptian religious practices. The temple was relocated from its original location to Agilkia Island to save it from the rising waters of the Nile due to the construction of the Aswan High Dam. Visitors can explore the beautiful courtyards, columns, and sanctuaries, all set against the backdrop of the Nile. Philae Temple is especially enchanting during the evening sound and light show, which brings the history of the temple to life. The serene surroundings and historical significance make it a must-visit site in Aswan.",
@@ -1158,7 +1158,7 @@ places = [
         ]
     },
     {
-        "id": 55,
+        "id": 52,
         "name": "Aswan High Dam",
         "imagesrc": "https://cdn.britannica.com/34/76234-050-97AA0FE0/Aswan-High-Dam-Egypt.jpg",
         "description": "The Aswan High Dam is an engineering marvel located on the Nile River in Aswan. Completed in 1970, the dam controls the annual flooding of the Nile and has created Lake Nasser, one of the largest man-made lakes in the world. The dam plays a crucial role in Egypt's irrigation and electricity supply, providing a steady water source and generating hydroelectric power. Visitors can learn about the construction and significance of the dam at the nearby visitor center. The panoramic views from the top of the dam are impressive, offering a unique perspective of the Nile and the vast expanse of Lake Nasser.",
@@ -1178,7 +1178,7 @@ places = [
         ]
     },
     {
-        "id": 56,
+        "id": 53,
         "name": "Nubian Museum",
         "imagesrc": "https://mlrhpz8jmuut.i.optimole.com/cb:Ie5o.50122/w:495/h:400/q:mauto/rt:fill/g:ce/ig:avif/f:best/https://www.egypttoursplus.com/wp-content/uploads/2014/03/Nubia-Museum-Aswan.-Entrance-Photo-by-JMCC1.jpg",
         "description": "The Nubian Museum in Aswan is dedicated to showcasing the history, art, and culture of the Nubian people. Opened in 1997, the museum houses a vast collection of artifacts, including pottery, jewelry, statues, and tools, dating back to prehistoric times. The museum also features exhibits on the history of Nubia, from ancient civilizations to the modern era, including the impact of the Aswan High Dam on the Nubian community. The beautifully landscaped gardens surrounding the museum and the stunning architecture make it a pleasant place to explore. Interactive displays and informative panels provide a comprehensive understanding of Nubian heritage.",
@@ -1202,7 +1202,7 @@ places = [
         ]
     },
     {
-        "id": 57,
+        "id": 54,
         "name": "Unfinished Obelisk",
         "imagesrc": "https://th.bing.com/th/id/R.b8719d06a06be0c6d8c5781c6a7af506?rik=FbR0GS44YMH4rw&pid=ImgRaw&r=0",
         "description": "The Unfinished Obelisk is an ancient obelisk located in a granite quarry in Aswan. It was abandoned due to a crack that appeared during its construction, providing valuable insight into the stone-working techniques of ancient Egypt. The obelisk, if completed, would have been the largest ever erected, standing at approximately 42 meters tall. Visitors can explore the site and see the marks left by ancient tools, offering a fascinating glimpse into the process of obelisk creation. The site is an open-air museum, and informative signs explain the significance of the obelisk and the quarry.",
@@ -1226,7 +1226,7 @@ places = [
         ]
     },
     {
-        "id": 58,
+        "id": 55,
         "name": "Elephantine Island",
         "imagesrc": "https://th.bing.com/th/id/R.51b6ae42f3ee40518ec9dc8e15651260?rik=GRWLqa5LFVFYmw&pid=ImgRaw&r=0",
         "description": "Elephantine Island is a historically rich island in the Nile River, located in Aswan. The island is home to several archaeological sites, including ancient ruins and temples. It also hosts the Aswan Museum, which features artifacts from the island and surrounding areas. The island's name comes from its shape, which resembles an elephant's tusk. Visitors can explore the ruins of the Temple of Khnum, the ancient Nilometer, and the remains of a Jewish community that once resided there. The island is a serene escape, with lush gardens and traditional Nubian villages, offering a glimpse into both ancient and contemporary life in Aswan.",
@@ -1250,7 +1250,7 @@ places = [
         ]
     },
     {
-        "id": 59,
+        "id": 56,
         "name": "Kom Ombo Temple",
         "imagesrc": "https://th.bing.com/th/id/R.c1d4ed8356df180d2fe09a1c512419a5?rik=S%2foWyeTUxWN9iA&pid=ImgRaw&r=0&sres=1&sresct=1",
         "description": "Kom Ombo Temple is a unique double temple located a short distance from Aswan, dedicated to the gods Sobek and Horus. The temple is symmetrically divided into two halves, each with its own sanctuaries, halls, and chambers. Built during the Ptolemaic dynasty, the temple features well-preserved reliefs and carvings that depict various scenes from ancient Egyptian mythology. Visitors can explore the temple complex, including the birth house, the mummified crocodiles, and the intricate carvings on the walls. The temple's location on a hill offers panoramic views of the Nile River and the surrounding countryside.",
@@ -1274,7 +1274,7 @@ places = [
         ]
     },
     {
-        "id": 60,
+        "id": 57,
         "name": "Aswan Botanical Garden",
         "imagesrc": "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/51891/2000x2000-0-70-15606f8f59f2e999232785ac4e335b04.jpg",
         "description": "The Aswan Botanical Garden is situated on Kitchener's Island in the Nile River. The garden is home to a wide variety of exotic plants and trees, collected from all over the world. The lush greenery and peaceful ambiance make it a perfect place for a relaxing stroll. Visitors can enjoy the beautifully landscaped gardens, complete with walking paths, shaded areas, and benches. The island is accessible by felucca, a traditional sailboat, adding to the charm of the visit. The botanical garden is a popular spot for picnics, bird watching, and enjoying the scenic views of the Nile.",
@@ -1294,7 +1294,7 @@ places = [
         ]
     },
     {
-        "id": 46,
+        "id": 58,
         "name": "Tombs of the Nobles",
         "imagesrc": "https://www.thebritishacademy.ac.uk/media/images/Boats-Nile-River-Aswan-Egypt.55c6a9f9.fill-1000x600.jpg",
         "description": "The Tombs of the Nobles are rock-cut tombs located on the west bank of the Nile in Aswan. These tombs belonged to ancient Egyptian nobles and officials and offer a fascinating glimpse into their burial practices and artwork. The tombs are decorated with colorful reliefs and inscriptions depicting scenes from daily life, religious rituals, and the afterlife. Visitors can explore several tombs, each with its own unique features and historical significance. The site also offers stunning views of the Nile and the surrounding landscape. The tombs provide valuable insight into the lives and beliefs of the ancient Egyptians.",
@@ -1318,7 +1318,7 @@ places = [
         ]
     },
     {
-        "id": 61,
+        "id": 59,
         "name": "Abu Simbel Temples",
         "imagesrc": "https://res.cloudinary.com/culturemap-com/image/upload/ar_4:3,c_fill,g_faces:center,w_980/v1628778964/photos/322989_original.jpg",
         "description": "The Abu Simbel Temples are massive rock temples located near the Sudanese border, about 280 km from Aswan. Built by Ramses II, the temples are dedicated to the gods Ra-Horakhty, Amun, and Ptah, as well as Ramses II himself. The larger temple features four colossal statues of Ramses II, while the smaller temple is dedicated to his queen, Nefertari. The temples were relocated in the 1960s to save them from the rising waters of Lake Nasser. The intricate carvings and impressive architecture make the temples a UNESCO World Heritage Site. Visitors can explore the temples and learn about their historical and cultural significance.",
@@ -1342,7 +1342,7 @@ places = [
         ]
     },
     {
-        "id": 62,
+        "id": 60,
         "name": "St. Simeon Monastery",
         "imagesrc": "https://www.kemetexperience.com/wp-content/uploads/2019/09/St.-Simeon-Monastery-Aswan.jpg",
         "description": "St. Simeon Monastery is an ancient Christian monastery located in the desert, across from Elephantine Island in Aswan. Founded in the 6th century, the monastery offers panoramic views of the Nile and the surrounding landscape. The monastery complex includes well-preserved churches, living quarters, and defensive walls. Visitors can explore the remains of the monastery and learn about the lives of the monks who once lived there. The site provides a sense of tranquility and a unique perspective on early Christian monastic life in Egypt. The journey to the monastery can be made by camel or on foot, adding to the adventure.",
@@ -1366,7 +1366,7 @@ places = [
         ]
     },
     {
-        "id": 63,
+        "id": 61,
         "name": "Felucca Ride on the Nile",
         "imagesrc": "https://www.traveltalktours.com/wp-content/uploads/2021/11/shutterstock_1383558347-scaled.jpg",
         "description": "A felucca ride on the Nile River is one of the most serene and enjoyable activities in Aswan. Feluccas are traditional wooden sailboats that have been used on the Nile for centuries. These rides offer a peaceful way to take in the scenic beauty of Aswan, with its lush islands, sandy shores, and ancient monuments. The gentle movement of the sailboat and the sound of the wind in the sails create a relaxing atmosphere. Rides can be arranged for a few hours or for a full day, with options to include meals and stops at various attractions along the river. A felucca ride is a perfect way to experience the timeless beauty of the Nile.",
@@ -1387,7 +1387,7 @@ places = [
         ]
     },
     {
-        "id": 64,
+        "id": 62,
         "name": "Qubbet el-Hawa (Dome of the Wind)",
         "imagesrc": "https://cdn.localadventures.io/cdn-cgi/image/w=1920,h=1080,q=85,f=auto/330367/Visitando-El-Cairo-Sharm-el-sheikh-Dahab-89aa794.jpg",
         "description": "Qubbet el-Hawa, also known as the Dome of the Wind, is an ancient archaeological site located on the west bank of the Nile River near Aswan. This site is famous for its impressive dome-shaped tombs carved into the rock, which date back to the Old and Middle Kingdoms of Egypt. The tombs are known for their well-preserved hieroglyphs and intricate carvings that provide valuable insights into the funerary practices and beliefs of ancient Egyptians. The site offers stunning views of the Nile and the surrounding desert landscape. Visiting Qubbet el-Hawa provides a unique opportunity to explore lesser-known but historically significant burial sites and learn about the lives of the elite during Egypt's early dynastic periods.",
@@ -1412,7 +1412,7 @@ places = [
         ]
     },
     {
-        "id": 65,
+        "id": 63,
         "name": "Naama Bay",
         "imagesrc": "https://www.egypttoursportal.com/images/2024/03/Naama-Bay-Sharm-El-Sheikh-Egypt-Tours-Portal.jpg",
         "description": "Naama Bay is the vibrant heart of Sharm El Sheikh, known for its lively nightlife, diverse dining options, and bustling shopping experiences. The bay is a hub of activity both day and night, offering something for everyone. Visitors can enjoy a variety of restaurants serving international cuisine, vibrant bars, and nightclubs. The area is also famous for its beautiful beaches and clear blue waters, perfect for swimming and water sports. Numerous hotels and resorts line the bay, providing luxurious accommodations with stunning views. The promenade is a great place for evening strolls, with its lively atmosphere and street performers. Naama Bay truly captures the essence of Sharm El Sheikh, making it a must-visit destination.",
@@ -1432,7 +1432,7 @@ places = [
         ]
     },
     {
-        "id": 66,
+        "id": 64,
         "name": "Ras Mohammed National Park",
         "imagesrc": "https://ucarecdn.com/acdc1ccf-cf22-4fa4-b58a-e6e62a56ddd7/-/crop/680x357/0,2/-/preview/-/resize/x400/",
         "description": "Ras Mohammed National Park is a renowned spot for diving and snorkeling, famous for its stunning coral reefs and rich marine life. Located at the southern tip of the Sinai Peninsula, this protected area offers some of the best underwater experiences in the world. Divers and snorkelers can explore vibrant coral gardens and encounter a diverse array of marine species. The park is also home to beautiful beaches and lagoons, perfect for relaxation and swimming. Visitors can hike along scenic trails that offer breathtaking views of the Red Sea. Ras Mohammed is a haven for nature enthusiasts and a must-visit for anyone interested in marine biodiversity. The park also plays a crucial role in marine conservation efforts.",
@@ -1457,7 +1457,7 @@ places = [
         ]
     },
     {
-        "id": 67,
+        "id": 65,
         "name": "Tiran Island",
         "imagesrc": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d0/10/24.jpg",
         "description": "Tiran Island is a must-visit for snorkeling and diving enthusiasts, known for its crystal-clear waters and abundant underwater life. Located at the entrance of the Gulf of Aqaba, the island is surrounded by stunning coral reefs teeming with vibrant marine species. Snorkelers and divers can explore the underwater paradise, encountering colorful fish, sea turtles, and even the occasional shark. The island itself offers pristine beaches and tranquil surroundings, making it a perfect spot for relaxation. Boat trips to Tiran Island are a popular activity, providing a full day of adventure and exploration. The island's unique ecosystem and natural beauty make it a highlight of the Red Sea region. Tiran Island is an unmissable destination for nature lovers and water sports enthusiasts alike.",
@@ -1479,7 +1479,7 @@ places = [
 
  
     {
-        "id": 70,
+        "id": 66,
         "name": "SOHO Square",
         "imagesrc": "https://d1eslbuxori8y2.cloudfront.net/savoygroup-sharm.com-1676013518/cms/cache/v2/5859442d91489.jpg/1919x1079/fit/80/2aa680bba6e8055f5a976c1490b17b73.jpg",
         "description": "SOHO Square is a major entertainment hub in Sharm El Sheikh, featuring a variety of restaurants, shops, and attractions. The square is a lively destination for both tourists and locals, offering a mix of dining options, from casual eateries to fine dining restaurants. Visitors can enjoy shopping at the numerous boutiques and stores, which offer everything from souvenirs to high-end fashion. SOHO Square also features a skating rink, bowling alley, and various performance venues, providing entertainment for all ages. The area comes alive at night with live music, shows, and vibrant nightlife. SOHO Square is known for its festive atmosphere and is a great place to experience the social scene of Sharm El Sheikh. It is a must-visit for those looking to enjoy a fun and dynamic environment.",
@@ -1499,7 +1499,7 @@ places = [
         ]
     },
     {
-        "id": 71,
+        "id": 67,
         "name": "Shark’s Bay",
         "imagesrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/e0/84/60/sharks-bay-umbi-diving.jpg?w=600&h=-1&s=1",
         "description": "Shark’s Bay is known for its beautiful beaches, luxury resorts, and excellent snorkeling spots. Located near the southern tip of the Sinai Peninsula, the bay offers crystal-clear waters and vibrant marine life. Visitors can enjoy a range of water activities, including snorkeling, diving, and swimming. The area is home to several high-end resorts that provide luxurious accommodations and top-notch amenities. The beachfront is perfect for relaxation, with soft sands and calm waters. Shark’s Bay also offers stunning views of Tiran Island and the surrounding sea. The bay is a popular destination for both relaxation and adventure, making it a great spot for a memorable vacation.",
@@ -1519,7 +1519,7 @@ places = [
         ]
     },
     {
-        "id": 72,
+        "id": 68,
         "name": "Nabq Bay",
         "imagesrc": "https://i.ytimg.com/vi/74c5IkAk6ow/maxresdefault.jpg",
         "description": "Nabq Bay is a serene area known for its luxurious resorts, mangrove forests, and rich marine life. Located just north of Sharm El Sheikh, it offers a peaceful and picturesque setting away from the hustle and bustle. The bay is famous for its crystal-clear waters and vibrant coral reefs, making it an excellent spot for snorkeling and diving. Visitors can explore the unique mangrove forests that line the shoreline, providing a habitat for diverse wildlife. Nabq Bay is also home to several high-end resorts that offer top-notch amenities and services. The tranquil environment and stunning natural beauty make it perfect for a relaxing getaway. Nabq Bay is a hidden gem that offers a perfect blend of luxury and nature.",
@@ -1539,7 +1539,7 @@ places = [
         ]
     },
     {
-        "id": 73,
+        "id": 69,
         "name": "Old Market (Sharm El Sheikh)",
         "imagesrc": "https://live.staticflickr.com/5252/5397428971_d05eed7b3b_b.jpg",
         "description": "The Old Market in Sharm El Sheikh is a bustling market offering a taste of local culture with its spices, souvenirs, and traditional crafts. This vibrant bazaar is a must-visit for anyone looking to experience the authentic atmosphere of an Egyptian souk. Visitors can wander through narrow alleys filled with shops selling a variety of goods, from handcrafted jewelry to colorful textiles. The market is also a great place to try local delicacies and traditional Egyptian cuisine. The lively environment, with its vibrant colors and scents, provides a unique shopping experience. Bargaining is a common practice, allowing visitors to engage with local vendors and get the best deals. The Old Market is a cultural hotspot that offers a glimpse into the daily life and traditions of the local community.",
@@ -1559,7 +1559,7 @@ places = [
         ]
     },
     {
-        "id": 74,
+        "id": 70,
         "name": "El Fanar Beach",
         "imagesrc": "https://jannanmatkassa.wordpress.com/wp-content/uploads/2012/10/el_fanar_laituri-e1351534944496.jpg",
         "description": "El Fanar Beach is famous for its relaxing atmosphere, fantastic snorkeling opportunities, and stunning sunset views. Located at the southern tip of the Sinai Peninsula, it offers a serene escape from the busier tourist spots. The beach is known for its clear waters and vibrant coral reefs, making it a favorite spot for snorkeling and diving. Visitors can enjoy the tranquil environment, with soft sandy shores and beautiful seaside scenery. The beach is also home to a popular beach club, providing comfortable amenities and services. El Fanar Beach is particularly renowned for its breathtaking sunsets, offering a picturesque end to a day of relaxation and exploration. It is a perfect destination for those seeking peace, beauty, and adventure in Sharm El Sheikh.",
@@ -1584,7 +1584,7 @@ places = [
         ]
     },
     {
-        "id": 75,
+        "id": 71,
         "name": "The Heavenly Cathedral",
         "imagesrc": "https://explore.rehlat.ae/static/media/searchdestination/thingstodo/images/sharm_el_sheikh/the_heavenly_cathedral/large_The_Heavenly_1Cathedral.webp",
         "description": "The Heavenly Cathedral is an awe-inspiring Coptic Orthodox church in Sharm El Sheikh, known for its magnificent interior frescoes. The church is a modern architectural marvel, with its grand dome and intricate designs. Inside, visitors are greeted by stunning murals that depict various biblical scenes and saints. The cathedral's beauty is enhanced by the use of vibrant colors and detailed artistry. It serves as a place of worship and spiritual reflection for the local Coptic community. The Heavenly Cathedral is also open to visitors, offering a serene environment to admire the artistry and soak in the peaceful ambiance. The church is a testament to the rich cultural and religious heritage of Egypt, making it a significant landmark in Sharm El Sheikh.",
@@ -1604,7 +1604,7 @@ places = [
         ]
     },
     {
-        "id": 76,
+        "id": 72,
         "name": "Al Mustafa Mosque",
         "imagesrc": "https://cdn.getyourguide.com/img/tour/64bd42481a8b6.jpeg/97.jpg",
         "description": "Al Mustafa Mosque is a remarkable mosque in Sharm El Sheikh, known for its grand architecture and peaceful ambiance. The mosque features a stunning blend of traditional Islamic and modern architectural elements. Its grand minarets and intricate façade make it a prominent landmark in the city. Inside, the mosque is equally impressive, with beautifully decorated interiors and spacious prayer halls. Al Mustafa Mosque serves as a place of worship for the local Muslim community and is open to visitors who wish to learn more about Islamic culture. The serene environment and architectural beauty of the mosque provide a tranquil setting for reflection and contemplation. It is a significant cultural and religious site in Sharm El Sheikh, welcoming people of all faiths.",
@@ -1624,7 +1624,7 @@ places = [
         ]
     },
     {
-        "id": 77,
+        "id": 73,
         "name": "Farsha Cafe",
         "imagesrc": "https://www.pelago.co/img/products/EG-Egypt/4-hours-private-stargzaing-at-farsha-cafe-sharm-el-sheikh-sky/265d9fdc-80c6-42e5-a6fc-886022e97ba3_4-hours-private-stargzaing-at-farsha-cafe-sharm-el-sheikh-sky-medium.jpg",
         "description": "Farsha Cafe is a unique, cliffside cafe in Sharm El Sheikh, offering panoramic views of the Red Sea and a bohemian atmosphere. The cafe is known for its eclectic decor, featuring traditional Bedouin seating and vibrant, colorful accents. Visitors can relax on comfortable cushions and enjoy a variety of refreshments, from fresh juices to traditional teas. The view from Farsha Cafe is breathtaking, especially during sunset, when the sky is painted with hues of orange and pink. The relaxed ambiance and stunning scenery make it a popular spot for both locals and tourists. Farsha Cafe also hosts occasional live music and events, adding to its charm and appeal. It is a perfect place to unwind and soak in the beauty of the Red Sea coast.",
@@ -1644,7 +1644,7 @@ places = [
         ]
     },
     {
-        "id": 78,
+        "id": 74,
         "name": "Ras Um Sid",
         "imagesrc": "https://sharm-el-sheikh.com/wp/wp-content/uploads/2013/12/club-sharm-800x445.jpg",
         "description": "Ras Um Sid is a great snorkeling and diving spot in Sharm El Sheikh, known for its beautiful coral reefs and marine biodiversity. Located on the southern tip of the Sinai Peninsula, it offers clear waters and a rich underwater world. Snorkelers and divers can explore vibrant coral gardens and encounter a variety of marine species, including colorful fish, sea turtles, and more. The area is also famous for its picturesque lighthouse, which provides stunning views of the Red Sea. Ras Um Sid is a popular destination for both beginners and experienced divers, offering easy access to some of the best diving sites in the region. The natural beauty and abundant marine life make it a must-visit spot for underwater enthusiasts.",
@@ -1669,7 +1669,7 @@ places = [
         ]
     },
     {
-        "id": 79,
+        "id": 75,
         "name": "Sinai Desert Adventures (Camel Safari)",
         "imagesrc": "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/310681/2000x2000-0-70-baa84ffebf63c2d4ce60620f8e39b2f5.jpg",
         "description": "Experience the beauty of the Sinai Desert on a guided camel safari, complete with traditional Bedouin hospitality. These adventures offer a unique way to explore the vast desert landscape, with its rolling dunes and stunning scenery. Visitors can ride camels along ancient trails, discovering the natural wonders and rich history of the region. The safari typically includes a visit to a Bedouin camp, where guests can enjoy traditional meals and learn about the Bedouin way of life. The tranquil environment and breathtaking views make the camel safari a memorable experience. Whether at sunrise or sunset, the desert offers a magical backdrop for this adventure. Sinai Desert Adventures provide a blend of cultural immersion and natural beauty, perfect for those seeking an authentic desert experience.",
@@ -1694,7 +1694,7 @@ places = [
         ]
     },
     {
-        "id": 81,
+        "id": 76,
         "name": "Shali Fortress",
         "imagesrc": "https://i.pinimg.com/originals/dc/e0/38/dce038b4f536c0959167a1566d75886d.jpg",
         "description": "Shali Fortress is an ancient mud-brick fortress that offers panoramic views of the oasis and surrounding desert. The fortress, built in the 13th century, served as a protective citadel for the inhabitants of Siwa. It is a great place to explore the history and architecture of the area. The labyrinth of narrow alleys, crumbling walls, and ancient ruins evoke a sense of adventure and history. Shali Fortress is constructed from kershef, a traditional material made from salt and clay, which gives it its unique appearance. Over time, the fortress has weathered natural elements, creating a dramatic and evocative landscape. Visitors can climb to the top of the fortress for breathtaking views and to imagine the daily lives of its original inhabitants. It is an essential site for anyone interested in Siwa's rich heritage and stunning desert vistas.",
@@ -1723,7 +1723,7 @@ places = [
         ]
     },
     {
-        "id": 83,
+        "id": 77,
         "name": "Siwa House Museum",
         "imagesrc": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/12058485/ancient_egypt.jpg",
         "description": "The Siwa House Museum provides deep insights into the traditional Siwan way of life, showcasing local customs, crafts, and artifacts. The museum is housed in a traditional Siwan home, giving visitors an authentic experience of the region's cultural heritage. Visitors can explore exhibits that include traditional clothing, jewelry, pottery, and tools used by the Siwan people. The museum also features dioramas and displays that depict daily life, agricultural practices, and the unique social customs of Siwa. Through its comprehensive collection, the museum aims to preserve and promote the understanding of Siwan heritage. It is a place where history comes alive, allowing visitors to connect with the past and gain a deeper appreciation for the rich cultural tapestry of this oasis. The Siwa House Museum is a must-visit for those interested in anthropology, history, and the unique traditions of this remote desert community.",
@@ -1752,7 +1752,7 @@ places = [
         ]
     },
     {
-        "id": 84,
+        "id": 78,
         "name": "The Oracle Temple of Amun",
         "imagesrc": "https://i.pinimg.com/736x/5a/82/22/5a822221f57e3b37e9dde7846040158b.jpg",
         "description": "Dating back to the 6th century BC, the Oracle Temple of Amun was once visited by Alexander the Great. It is an important historical and archaeological site with significant cultural heritage. The temple was a major center of worship for the ancient Egyptians, dedicated to the god Amun. The site includes remnants of the temple's structure, including columns and inscriptions that offer a glimpse into its grandeur and religious significance. The oracle, renowned for its prophecies, drew pilgrims from far and wide seeking divine guidance. Exploring the temple, visitors can imagine the rituals and ceremonies that once took place within its sacred walls. The location of the temple, atop a hill, provides stunning views of the surrounding desert and oasis. It is a place where history, spirituality, and natural beauty converge, making it a must-visit destination for history enthusiasts and curious travelers alike.",
@@ -1781,7 +1781,7 @@ places = [
         ]
     },
     {
-        "id": 85,
+        "id": 79,
         "name": "Fatnas Island (Fantasy Island)",
         "imagesrc": "https://live.staticflickr.com/3261/2583866146_a3bfc62589_n.jpg",
         "description": "A picturesque spot on the edge of Lake Siwa, Fatnas Island, also known as Fantasy Island, is perfect for relaxing, enjoying the sunset, and soaking in the tranquil atmosphere. The island is renowned for its stunning palm groves, serene environment, and breathtaking views of the surrounding landscape. Visitors can take leisurely strolls through the lush vegetation, enjoy a refreshing swim in the lake, or simply relax and watch the sun set over the horizon. Fatnas Island offers a peaceful retreat from the hustle and bustle of daily life, making it an ideal spot for nature lovers and those seeking a moment of tranquility. The island is also a great place for photography, with its picturesque scenery providing endless opportunities for capturing the beauty of Siwa. Whether you're looking to unwind, explore, or simply enjoy the natural beauty, Fatnas Island is a must-visit destination in Siwa.",
@@ -1810,7 +1810,7 @@ places = [
         ]
     },
     {
-        "id": 86,
+        "id": 80,
         "name": "Mountain of the Dead (Gebel al-Mawta)",
         "imagesrc": "https://www.cleopatraegypttours.com/wp-content/uploads/2019/02/mountain-of-the-dead-tomb-768x499.jpg",
         "description": "The Mountain of the Dead, or Gebel al-Mawta, is a fascinating historical site home to numerous ancient tombs carved into the rock. Dating back to the 26th Dynasty and the Ptolemaic period, these tombs provide a unique glimpse into Siwa's rich history. Visitors can explore the intricate carvings and paintings that adorn the tomb walls, depicting scenes of daily life, religious rituals, and the afterlife. The mountain itself offers stunning views of the surrounding desert and oasis, making it a popular spot for both history enthusiasts and nature lovers. The tombs, although weathered by time, still retain much of their original beauty and detail. As you wander through the site, you can imagine the ancient rituals and ceremonies that once took place here. The Mountain of the Dead is not only a place of historical significance but also a testament to the enduring legacy of the ancient Siwan civilization.",
@@ -1839,7 +1839,7 @@ places = [
         ]
     },
     {
-        "id": 87,
+        "id": 81,
         "name": "Great Sand Sea",
         "imagesrc": "https://www.egypttoursportal.com/images/2021/04/The-Great-Sea-of-Sand-in-Siwa-Best-Places-to-Go-Sand-Boarding-In-Egypt-Egypt-Tours-Portal.jpg",
         "description": "Experience the vastness of the Great Sand Sea with a safari tour that offers dune bashing, sandboarding, and camping under the stars. This expansive desert, one of the world's largest dune fields, stretches over 72,000 square kilometers. Guided tours include exhilarating 4x4 rides over the towering dunes, thrilling opportunities to try sandboarding, and serene nighttime camping with stargazing in one of the clearest skies away from city lights. The Great Sand Sea is home to unique desert flora and fauna adapted to the harsh environment, making it a fascinating destination for nature enthusiasts. Whether you're seeking adrenaline-pumping activities or peaceful solitude, the Great Sand Sea provides an unforgettable desert adventure, blending excitement with the tranquility of the vast, pristine sandscapes..",
@@ -1869,7 +1869,7 @@ places = [
     },
    
     {
-        "id": 89,
+        "id": 82,
         "name": "Temple of Umm Ubayd",
         "imagesrc": "https://th.bing.com/th/id/R.26c1e0285372002dbaca30185bbc51dd?rik=E5Ma7%2b8HXMfR5A&pid=ImgRaw&r=0",
         "description": "The Temple of Umm Ubayd, dating back to the 30th Dynasty, offers a glimpse into ancient Siwa's religious practices. Dedicated to the god Amun, this mostly ruined temple played a significant role in the spiritual life of the Siwan people. Visitors can explore its impressive columns and carvings, experiencing an aura of mysticism and history. Often overshadowed by more famous sites, the Temple of Umm Ubayd provides a quieter, more contemplative experience. The surrounding landscape adds to its charm, offering a serene backdrop for exploration. For those interested in ancient history and archaeology, the Temple of Umm Ubayd is a hidden gem waiting to be discovered.",
@@ -1898,7 +1898,7 @@ places = [
         ]
     },
     {
-        "id": 90,
+        "id": 83,
         "name": "Bir Wahed",
         "imagesrc": "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/mandators/41668/cms/562261/940x500-1-50-6390724b050e855010f613cdcb4269d0.jpg",
         "description": "Bir Wahed is a unique attraction in the Siwa Oasis, known for its natural hot and cold springs and stunning salt lakes. Located in the heart of the desert, this spot offers a surreal and tranquil experience. Visitors can soak in the therapeutic waters of the hot spring, which are rich in minerals and believed to have healing properties. The nearby cold spring provides a refreshing contrast, perfect for cooling off after a warm soak. The salt lakes in the area are also a major draw, with their striking white shores and clear blue waters. These lakes are known for their high salt content, which allows for effortless floating. The serene beauty of Bir Wahed, combined with its unique natural features, makes it a must-visit destination for those seeking relaxation and natural beauty. Guided tours often include visits to Bir Wahed, offering insights into the geological and cultural significance of the area.",
@@ -1928,7 +1928,7 @@ places = [
     },
    
 {
-    "id": 92,
+    "id": 84,
     "name": "Adrere Amellal",
     "imagesrc": "https://egyptiangeographic.com/uploads/news/egyptiangeographic.com_15520562091.jpg",
     "description": "Adrere Amellal is a luxurious eco-lodge nestled in the Siwa Oasis, known for its sustainable and environmentally-friendly practices. Built entirely from natural materials such as salt rock and mud, the lodge blends seamlessly with the surrounding landscape. Adrere Amellal offers an exclusive and tranquil retreat, where guests can disconnect from the modern world and reconnect with nature. The lodge features beautifully designed rooms and suites, each offering stunning views of the desert and the nearby salt lakes. Guests can enjoy organic, locally-sourced meals prepared with traditional Siwan techniques. The lodge also offers a range of activities, including guided desert hikes, visits to nearby archaeological sites, and stargazing sessions. The serene and secluded environment of Adrere Amellal provides the perfect backdrop for relaxation and rejuvenation. With its commitment to sustainability and luxury, Adrere Amellal is a unique and unforgettable destination for discerning travelers.",
@@ -1959,7 +1959,7 @@ places = [
 
 
 {
-    "id": 93,
+    "id": 85,
     "name": "Gebel al-Dakrur",
     "imagesrc": "https://www.marsaalamtours.com/images/tours_img/Siwa-tour-from-Cairo.jpg.jpg.jpg",
     "description": "Gebel al-Dakrur is a prominent mountain in the Siwa Oasis, known for its stunning views and historical significance. The mountain is a popular hiking destination, offering trails that lead to the summit where visitors can enjoy breathtaking panoramas of the surrounding desert. Gebel al-Dakrur is also known for its therapeutic hot sands, which are believed to have healing properties. Locals and tourists alike visit the mountain for traditional sand baths, which are said to cure various ailments and provide relaxation. The area around Gebel al-Dakrur is rich in history, with ancient ruins and artifacts that tell the story of Siwa's past. The annual Dakrour Festival, held in October, celebrates local culture with traditional music, dance, and food. Whether you're interested in hiking, exploring historical sites, or experiencing traditional healing practices, Gebel al-Dakrur offers a unique and memorable experience.",
@@ -1989,7 +1989,7 @@ places = [
 },
 
 {
-    "id": 94,
+    "id": 86,
     "name": "Siwa Lake",
     "imagesrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/76/37/79/salte.jpg?w=1200&h=-1&s=1",
         "description": "Siwa Lake is a picturesque body of water located in the Siwa Oasis, surrounded by lush palm groves and stunning desert landscapes. This saltwater lake is one of the most tranquil spots in the oasis, offering visitors a chance to relax and unwind in a serene environment. The lake is known for its high salt content, which makes floating on the water a unique and buoyant experience. The shores of Siwa Lake are perfect for picnicking, bird-watching, and enjoying the natural beauty of the area. The surrounding palm groves provide a shady retreat from the sun, making it an ideal spot for a leisurely afternoon. Whether you're looking to float in the lake, explore the surrounding nature, or simply enjoy the peaceful ambiance, Siwa Lake is a must-visit destination in the Siwa Oasis.",
@@ -2019,7 +2019,7 @@ places = [
 },
 
     {
-        "id": 95,
+        "id": 87,
         "name": "Wadi El Rayan",
         "imagesrc": "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/50720/900x600-1-50-092e7dddb7dbe11549ee18b62967b01f.jpg",
         "description": "Wadi El Rayan is a stunning protected area known for its two man-made lakes connected by Egypt's only waterfalls. Located in the Fayoum desert, it offers a unique blend of natural beauty and recreational activities. Visitors can enjoy boat rides, bird watching, and even sandboarding on the surrounding dunes. The serene environment and picturesque landscapes make it an ideal spot for nature lovers and photographers. Wadi El Rayan is also home to various wildlife species, including rare migratory birds.",
@@ -2044,7 +2044,7 @@ places = [
         ]
     },
     {
-        "id": 96,
+        "id": 88,
         "name": "Lake Qarun",
         "imagesrc": "https://www.etltravel.com/wp-content/uploads/2011/03/qarun-lake-fayoum.jpg",
         "description": "Lake Qarun, also known as Birket Qarun, is one of Egypt's largest natural lakes, located in the Fayoum Oasis. It is a popular destination for fishing, bird watching, and relaxing by the water. The lake's historical significance dates back to ancient times when it was part of the ancient Moeris Lake. Today, visitors can enjoy the scenic views and explore the surrounding archaeological sites, including ancient temples and ruins. The area is also known for its diverse wildlife, making it a paradise for nature enthusiasts.",
@@ -2069,7 +2069,7 @@ places = [
         ]
     },
     {
-        "id": 97,
+        "id": 89,
         "name": "Karanis (Kom Oshim)",
         "imagesrc": "https://th.bing.com/th/id/OIP.Pa__TfjE0wVlVa1OkcV_LgHaEH?rs=1&pid=ImgDetMain",
         "description": "Karanis, also known as Kom Oshim, is an ancient Greco-Roman town in Fayoum. It was established during the 3rd century BC and provides a fascinating glimpse into ancient Egyptian life. The site includes well-preserved ruins of houses, temples, and public buildings. Visitors can explore the remnants of the town's infrastructure, including streets and drainage systems. Karanis is also home to a small museum that houses artifacts discovered in the area, offering insights into the daily lives of its ancient inhabitants.",
@@ -2094,7 +2094,7 @@ places = [
         ]
     },
     {
-        "id": 98,
+        "id": 90,
         "name": "Tunis Village",
         "imagesrc": "https://th.bing.com/th/id/R.70e5b5e01c47cadb9a1331fedf335eba?rik=MeyTB33aFZtUzg&pid=ImgRaw&r=0",
         "description": "Tunis Village is a charming artisanal village in Fayoum, renowned for its pottery workshops and beautiful setting by Lake Qarun. It attracts artists, craftsmen, and visitors seeking a peaceful retreat. The village offers a variety of activities, including pottery making, painting, and cooking classes. Its picturesque landscapes and traditional mud-brick houses add to its charm. Tunis Village is also a hub for cultural festivals and art exhibitions, making it a vibrant cultural destination in Fayoum.",
@@ -2119,7 +2119,7 @@ places = [
         ]
     },
     {
-        "id": 99,
+        "id": 91,
         "name": "Qasr Qarun",
         "imagesrc": "https://th.bing.com/th/id/OIP.Buap4Pqns3RAgBYZMUZaCgHaFj?rs=1&pid=ImgDetMain",
         "description": "Qasr Qarun, also known as the Temple of Dionysias, is an ancient Ptolemaic temple located on the western edge of Lake Qarun. Dedicated to the crocodile god Sobek, the temple dates back to the 3rd century BC. The well-preserved structure features intricate carvings and hieroglyphs. Visitors can explore the temple's inner chambers, courtyards, and roof, which offers panoramic views of the surrounding area. Qasr Qarun is a significant archaeological site, providing insights into the religious practices of the ancient Egyptians.",
@@ -2144,7 +2144,7 @@ places = [
         ]
     },
     {
-        "id": 100,
+        "id": 92,
         "name": "Hawara Pyramid",
         "imagesrc": "https://th.bing.com/th/id/R.799c940d057b3ec409fb5d55ce58b90d?rik=Veq4t34LNuW19Q&pid=ImgRaw&r=0",
         "description": "The Hawara Pyramid, built by Pharaoh Amenemhat III during the Middle Kingdom, is one of Fayoum's most notable ancient structures. Located near the modern village of Hawara, the pyramid is renowned for its once-elaborate labyrinth that protected the pharaoh's burial chamber. Although much of the superstructure has eroded over time, the site remains an important archaeological landmark. Visitors can explore the surrounding area, which includes remnants of ancient buildings and artifacts, providing a glimpse into Egypt's rich history.",
@@ -2169,7 +2169,7 @@ places = [
         ]
     },
     {
-        "id": 101,
+        "id": 93,
         "name": "Pyramid of Lahun",
         "imagesrc": "https://th.bing.com/th/id/R.0b70a1bdc625a734134cdce22663eae0?rik=ktDcN8hH35NZIQ&pid=ImgRaw&r=0",
         "description": "The Pyramid of Lahun, also known as the Pyramid of Senusret II, is a significant archaeological site in Fayoum. Built during the 12th Dynasty, it is located near the modern village of Al-Lahun. The pyramid is unique for its mudbrick construction and the complex network of tombs and structures surrounding it. Excavations have revealed valuable artifacts and insights into the burial practices of the Middle Kingdom. Visitors can explore the site and learn about the engineering techniques used by ancient Egyptian builders.",
@@ -2194,7 +2194,7 @@ places = [
         ]
     },
     {
-        "id": 102,
+        "id": 94,
         "name": "Fayoum Pottery School",
         "imagesrc": "https://ceramicstoday.files.wordpress.com/2021/10/img_1140.jpg?w=1024",
         "description": "The Fayoum Pottery School, located in the heart of Fayoum, is a renowned institution dedicated to the art of pottery making. Established to preserve and promote traditional Egyptian pottery techniques, the school offers workshops and classes for visitors of all ages. Participants can learn the entire process, from shaping the clay to firing and glazing. The school also features an exhibition space where the works of students and local artists are displayed. It is an excellent place to experience local culture and create unique souvenirs.",
@@ -2219,7 +2219,7 @@ places = [
         ]
     },
     {
-        "id": 103,
+        "id": 95,
         "name": "Gabal El-Mudawara",
         "imagesrc": "https://th.bing.com/th/id/R.3ce5e6cf869a11fefe8f100afe9e58d1?rik=IEF4Q7rGdZ9HWQ&pid=ImgRaw&r=0",
         "description": "Gabal El-Mudawara, also known as the 'Painted Mountain,' is a striking natural landmark located near Lake Qarun in Fayoum. The mountain is famous for its colorful rock formations and scenic views. Visitors can hike up to enjoy panoramic vistas of the surrounding desert and lake. The area is also popular for bird watching, especially during migration seasons. Gabal El-Mudawara is a must-visit for nature enthusiasts and photographers looking to capture the beauty of Egypt's desert landscapes.",
@@ -2244,7 +2244,7 @@ places = [
         ]
     },
     {
-        "id": 104,
+        "id": 96,
         "name": "Dimeh al-Siba",
         "imagesrc": "https://th.bing.com/th/id/R.71e6295d9e5e4951056171beb91bbd37?rik=xKYme93W5NW%2f4A&pid=ImgRaw&r=0",
         "description": "Dimeh al-Siba, also known as Soknopaiou Nesos, is an ancient Greco-Roman town located in the Fayoum region. The site includes well-preserved ruins of temples, houses, and public buildings. It offers a unique glimpse into the life and culture of ancient Egyptians and Greeks. Archaeological excavations have uncovered numerous artifacts, including pottery, coins, and inscriptions. Visitors can explore the ruins and learn about the town's historical significance as a center of commerce and religion.",
@@ -2269,7 +2269,7 @@ places = [
         ]
     },
     {
-        "id": 105,
+        "id": 97,
         "name": "Medinet Madi",
         "imagesrc": "https://th.bing.com/th/id/OIP.oQUPoi8XJy5Yq_wop2282AHaEH?rs=1&pid=ImgDetMain",
         "description": "Medinet Madi, an ancient town in Fayoum, is renowned for its well-preserved temple complex dedicated to the crocodile god Sobek and the snake goddess Renenutet. Built during the Middle Kingdom and expanded during the Ptolemaic period, the site includes impressive ruins of temples, shrines, and other structures. Visitors can explore the intricate carvings and hieroglyphs that adorn the temple walls, offering insights into ancient Egyptian religious practices. Medinet Madi is a significant archaeological site, reflecting the architectural and cultural achievements of ancient Egypt.",
@@ -2294,7 +2294,7 @@ places = [
         ]
     },
     {
-        "id": 106,
+        "id": 98,
         "name": "Qasr Al-Sagha",
         "imagesrc": "https://www.realfayoum.com/wp-content/uploads/2019/06/IMG_1852.jpg",
         "description": "Qasr Al-Sagha, or the 'Golden Fortress,' is an enigmatic ancient structure located north of Lake Qarun in Fayoum. The purpose of the fortress remains a mystery, with no inscriptions or clear historical records to explain its origin. The building's massive limestone blocks and precise construction have intrigued archaeologists and visitors alike. The site offers stunning views of the surrounding desert and lake, making it a popular destination for those interested in Egypt's lesser-known ancient sites.",
@@ -2319,7 +2319,7 @@ places = [
         ]
     },
     {
-        "id": 107,
+        "id": 99,
         "name": "Petrified Forest Protected Area",
         "imagesrc": "https://th.bing.com/th/id/R.ca40916ee24c189d5945fbe62b6eca0c?rik=jlmlcLxjbffOFw&pid=ImgRaw&r=0",
         "description": "The Petrified Forest Protected Area in Fayoum is a fascinating natural site featuring fossilized trees dating back millions of years. This unique area offers visitors a glimpse into Egypt's prehistoric past. The petrified wood, some of which resembles stone logs, is scattered across the desert landscape. The site is ideal for hiking and exploring the natural history of the region. Educational tours and guided walks are available to provide insights into the geological processes that created this remarkable forest.",
@@ -2344,7 +2344,7 @@ places = [
         ]
     },
     {
-        "id": 108,
+        "id": 100,
         "name": "El Fayoum Museum",
         "imagesrc": "https://th.bing.com/th/id/R.1eb49d8f4bef6724d79fc8e5e35692e0?rik=Jf8VQsKlMPDEIg&pid=ImgRaw&r=0&sres=1&sresct=1",
         "description": "El Fayoum Museum, located in the city of Fayoum, showcases a rich collection of artifacts from the region's ancient and modern history. The museum features exhibits on the area's prehistoric period, Pharaonic, Greco-Roman, and Islamic eras. Highlights include Fayoum portraits, pottery, jewelry, and everyday objects. The museum provides visitors with a comprehensive understanding of the cultural and historical development of Fayoum. It is an essential stop for those interested in learning more about the region's heritage.",
@@ -2369,7 +2369,7 @@ places = [
         ]
     },
     {
-        "id": 109,
+        "id": 101,
         "name": "Wadi El Hitan",
         "imagesrc": "https://th.bing.com/th/id/OIP.vXMElSPX6uekAAGoUvoR5QHaE5?rs=1&pid=ImgDetMain",
         "description": "Wadi El Hitan, also known as the 'Valley of the Whales,' is a UNESCO World Heritage site in Fayoum, famous for its fossilized whale skeletons. The site offers an extraordinary glimpse into the evolution of whales from land-dwelling to marine creatures. Visitors can explore the well-preserved fossils and learn about the area's geological history through informative displays. The valley's dramatic desert landscape and the presence of ancient marine fossils make it a unique destination for both nature enthusiasts and paleontology buffs.",

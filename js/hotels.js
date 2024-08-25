@@ -290,7 +290,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/paradise-inn-beach-resort.html"
     },
     {
-        id: 500,
+        id: 30,
         name: "Aifu Resort El Montazah",
         city: "alexandria",
         insideimg: "https://www.etltravel.com/wp-content/uploads/2019/12/aifu-resort-el-montazah-alexandria-16-1.jpg",
@@ -300,7 +300,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/aifu-resort.html"
     },
         {
-        id: 30,
+        id: 31,
         name: "Sofitel Winter Palace Luxor",
         city: "luxor",
         insideimg: "https://www.ahstatic.com/photos/1661_rotwags_00_p_1024x768.jpg",
@@ -310,7 +310,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/winter-palace-luxor.html"
     },
     {
-        id: 31,
+        id: 32,
         name: "Hilton Luxor Resort & Spa",
         city: "luxor",
         insideimg: "https://www.hilton.com/im/en/LUXHITW/15907967/deluxe-guest-room-king-bed-image-1.jpg?impolicy=crop&cw=5000&ch=2799&gravity=NorthWest&xposition=0&yposition=270&rw=768&rh=430",
@@ -320,7 +320,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/hilton-luxor-resort-spa.en-gb.html"
     },
     {
-        id: 32,
+        id: 33,
         name: "Steigenberger Nile Palace Luxor",
         city: "luxor",
         insideimg: "https://assets.hrewards.com/assets/562_SHR_Luxor_Nile_Palace_rooms_Executive_Suite_Panoramic_Nile_View_ec0586a976.JPG",
@@ -330,7 +330,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/steigenberger-nile-palace-luxor.html"
     },
     {
-        id: 33,
+        id: 34,
         name: "Pavillon Winter Luxor",
         city: "luxor",
         insideimg: "https://www.ahstatic.com/photos/1662_rokgd_00_p_1024x768.jpg",
@@ -340,7 +340,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/new-winter-pavillon-palace.en-gb.html"
     },
     {
-        id: 34,
+        id: 35,
         name: "Jolie Ville Kings Island Luxor",
         city: "luxor",
         insideimg: "https://jolievilleluxor.com/wp-content/uploads/2022/05/home-suite.jpg",
@@ -350,7 +350,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/jolie-ville-kings-island-luxor.html"
     },
     {
-        id: 35,
+        id: 36,
         name: "Iberotel Luxor",
         city: "luxor",
         insideimg: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333394387.jpg?k=95e3e98ad8a3350fdae1de843538d83ccb3c2ea5211259f0a000648765ec4a7c&o=&hp=1",
@@ -360,7 +360,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/iberotel-luxor.html"
     },
     {
-        id: 36,
+        id: 37,
         name: "Achti Resort Luxor",
         city: "luxor",
         insideimg: "https://assets.hrewards.com/assets/SHR_Resort_Achti_room_superior_Gardentwin_019c4a8c7a.jpg",
@@ -370,7 +370,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/sheraton-luxor-resort.html"
     },
     {
-        id: 37,
+        id: 38,
         name: "Sonesta St. George Hotel - Convention Center",
         city: "luxor",
         insideimg: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/389388493.jpg?k=3b5671d9e1bbdbb8e5a1137d62ada03c868db85012697f1100a12255642894d2&o=&hp=1",
@@ -380,7 +380,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/sonesta-st-george-luxor.html"
     },
     {
-        id: 38,
+        id: 39,
         name: "Aracan Eatabe Luxor Hotel",
         city: "luxor",
         insideimg: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185992191.jpg?k=69dbab60f625b00a3d7c01c4310d402a204055bc68097372c82ffa044c9343d1&o=&hp=1",
@@ -391,7 +391,7 @@ Hotels = [
     },
    
     {
-        id: 39,
+        id: 40,
         name: "Mercure Luxor Karnak",
         city: "luxor",
         insideimg: "https://mercure-luxor-karnak-hotel.albooked.com/data/Photos/OriginalPhoto/10808/1080855/1080855247/Mercure-Luxor-Karnak-Exterior.JPEG",
@@ -401,7 +401,7 @@ Hotels = [
         link: "https://ar.trivago.com/en-145/oar/hotel-mercure-luxor-karnak?search=100-13843"
     },
     {
-        id: 40,
+        id: 41,
         name: "Nefertiti Hotel Luxor",
         city: "luxor",
         insideimg: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/24/31/77/nefertiti-hotel.jpg?w=700&h=-1&s=1",
@@ -411,7 +411,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/nefertiti.html"
     },
     {
-        id: 41,
+        id: 42,
         name: "Sofitel Legend Old Cataract Aswan",
         city: "aswan",
         insideimg: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/326740552.jpg?k=41358df4e13a8938f2586a9a55083f37fcc46af4c3f1547be7d3e0ba6ad4a0c8&o=&hp=1",
@@ -421,7 +421,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/sohitel-legend-old-cataract.html"
     },
     {
-        id: 42,
+        id: 43,
         name: "Movenpick Resort Aswan",
         city: "aswan",
         insideimg: "https://m.ahstatic.com/is/image/accorhotels/Aswan_xxxxxxxxxxxx_i120697:3by2?wid=364&hei=243&dpr=on,2.625&qlt=75&resMode=sharp2&op_usm=0.5,0.3,2,0&iccEmbed=true&icc=sRGB",
@@ -431,7 +431,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/movenpick-resort-aswan.html"
     },
     {
-        id: 43,
+        id: 44,
         name: "Basma Hotel Aswan",
         city: "aswan",
         insideimg: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/273724229.jpg?k=3eb6c972ecc00c1e24d3df7536bebabc760ee940b1b2cc8c69e37f67305a108e&o=&hp=1",
@@ -441,7 +441,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/basma-aswan.html"
     },
     {
-        id: 44,
+        id: 45,
         name: "Pyramisa Isis Island Aswan Resort",
         city: "aswan",
         insideimg: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/cb/e4/8d/pyramisa-isis-island.jpg?w=700&h=-1&s=1",
@@ -451,7 +451,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/lti-pyramisa-isis-island-aswan.html"
     },
     {
-        id: 45,
+        id: 46,
         name: "Tolip Aswan Hotel",
         city: "aswan",
         insideimg: "https://lh6.googleusercontent.com/proxy/VGqpsi-2b0oXK1OhY-awGwGZQgwGKebYPWw0ixgoC0Qa9lQW1K98JgJ4BjNzpQiJmvjXF96uGmNO0ClBANZ0",
@@ -462,7 +462,7 @@ Hotels = [
     },
 
     {
-        id: 46,
+        id: 47,
         name: "Keylany Hotel",
         city: "aswan",
         insideimg: "https://images.trvl-media.com/lodging/17000000/16330000/16320100/16320029/3459d278.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
@@ -472,7 +472,7 @@ Hotels = [
         link: "https://ar.trivago.com/en-145/oar/hotel-keylany-assuan-aswan?search=100-86760"
     },
     {
-        id: 47,
+        id: 48,
         name: "Nile Hotel Aswan",
         city: "aswan",
         insideimg: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/184006712.jpg?k=5da37e44fc67b97a99562f59fcff0f3c4af716a644812b362cb095d533ceb380&o=&hp=1",
@@ -482,7 +482,7 @@ Hotels = [
         link: "https://www.booking.com/hotel/eg/pyramisa-isis-corniche-aswan-resort.html"
     },
     {
-        id: 48,
+        id: 49,
         name: "Hapi Hotel",
         city: "aswan",
         insideimg: "https://www.etltravel.com/wp-content/uploads/2020/01/hapi-hotel-aswan-egypt-6-1.jpg",
@@ -493,7 +493,7 @@ Hotels = [
     },
 
     {
-        id: 49,
+        id: 50,
         name: "Ekadolli Nubian Guesthouse",
         city: "aswan",
         insideimg: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/13057954.jpg?k=b4c703d542b0f2ea425d48de47eb52a270a370fe53599be3b7cd36e8097abc26&o=&hp=1",
@@ -604,7 +604,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/monte-carlo-sharm-resort-spa.html"
     },
     {
-        "id": 62,
+        "id": 61,
         "name": "Hilton Sharm Waterfalls Resort",
         "city": "sharm",
         "insideimg": "https://images.classic-collection.co.uk/content/DataObjects/PropertyReference/Image/image_664_4_v1.jpg",
@@ -614,7 +614,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/hilton-sharm-waterfalls-resort.html"
     },
     {
-        "id": 63,
+        "id": 62,
         "name": "Tunis Village Ecolodge",
         "city": "fayoum",
         "insideimg": "https://cf.bstatic.com/xdata/images/hotel/max500/433296536.jpg?k=1f6d42befd60290d10532593ec8a5fce95ede80baf3a4ebc588aeae444bd0b9b&o=&hp=1",
@@ -624,7 +624,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/tunis-village-ecolodge.html"
     },
     {
-        "id": 64,
+        "id": 63,
         "name": "Kom El Dikka Agri Lodge",
         "city": "fayoum",
         "insideimg": "https://fayoumegypt.com/wp-content/uploads/2015/02/Kom-el-Dikka-Agri-Lodge-4.jpg",
@@ -634,7 +634,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/kom-el-dikka-agri-lodge.html"
     },
     {
-        "id": 65,
+        "id": 64,
         "name": "Zad El Mosafer Guest House",
         "city": "fayoum",
         "insideimg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/ad/26/fb/muy-comodo-y-limpio.jpg?w=1400&h=-1&s=1",
@@ -644,7 +644,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/zad-el-mosafer-guest-house.html"
     },
     {
-        "id": 66,
+        "id": 65,
         "name": "Lazib Inn Resort & Spa",
         "city": "fayoum",
         "insideimg": "https://th.bing.com/th/id/R.86d21d36f959e8bad50fb8cc087b25d1?rik=nA%2blRqgzu5cZGQ&pid=ImgRaw&r=0",
@@ -654,7 +654,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/lazib-inn-resort-spa.html"
     },
     {
-        "id": 67,
+        "id": 66,
         "name": "Byoum Lakeside Hotel",
         "city": "fayoum",
         "insideimg": "https://th.bing.com/th/id/R.da522156da96b5eac78dcedd37d3b638?rik=rigOPJ%2bDB043Hg&pid=ImgRaw&r=0",
@@ -664,7 +664,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/byoum-lakeside.html"
     },
     {
-        "id": 68,
+        "id": 67,
         "name": "New Panorama Resort",
         "city": "fayoum",
         "insideimg": "https://www.skionpalace.gr/wp-content/uploads/2016/02/skion-garden-540x304.jpg",
@@ -675,7 +675,7 @@ Hotels = [
     },
    
     {
-        "id": 70,
+        "id": 68,
         "name": "Helnan Auberge Fayoum",
         "city": "fayoum",
         "insideimg": "https://i.pinimg.com/originals/62/98/a2/6298a2186d4199e1bb5fbe414c0acd4d.jpg",
@@ -685,7 +685,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/helnan-auberge-fayoum.html"
     },
     {
-        "id": 71,
+        "id": 69,
         "name": "Tunis Pyramids Hotel",
         "city": "fayoum",
         "insideimg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5e/62/a1/caption.jpg?w=1200&h=-1&s=1",
@@ -695,7 +695,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/tunis-pyramids.html"
     },
     {
-        "id": 74,
+        "id": 70,
         "name": "Bawiti Oasis Resort",
         "city": "fayoum",
         "insideimg": "https://bawiti-oasis-resort-egypt.booked.net/data/Photos/OriginalPhoto/9724/972417/972417907/Bawiti-Oasis-Resort-Egypt-Exterior.JPEG",
@@ -705,7 +705,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/bawiti-oasis-resort.html"
     },
     {
-        "id": 75,
+        "id": 71,
         "name": "Adrere Amellal",
         "city": "siwa",
         "insideimg": "https://www.adrereamellal.com/adrere/wp-content/uploads/2019/09/Royal-Suite-Modifica-768x576.jpg",
@@ -715,7 +715,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/adrere-amellal.html"
     },
     {
-        "id": 76,
+        "id": 72,
         "name": "Siwa Shali Resort",
         "city": "siwa",
         "insideimg": "https://th.bing.com/th/id/OIP.UPY9uQZrUN2jtut1rgbB5QHaE8?rs=1&pid=ImgDetMain",
@@ -725,7 +725,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/siwa-shali-resort.html"
     },
     {
-        "id": 77,
+        "id": 73,
         "name": "Taziry Ecolodge & Sustainable Village",
         "city": "siwa",
         "insideimg": "https://taziry.com/wp-content/uploads/2017/11/4-Taziry-Chalet-for-5.jpg",
@@ -735,7 +735,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/taziry-ecolodge.html"
     },
     {
-        "id": 78,
+        "id": 74,
         "name": "Siwa Paradise Hotel",
         "city": "siwa",
         "insideimg": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263179108.jpg?k=4fb742482b46368f4f7584782335358d795dfb7f51d00d2736c7c85a573a7d93&o=&hp=1",
@@ -745,7 +745,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/siwa-paradise.html"
     },
     {
-        "id": 79,
+        "id": 75,
         "name": "Ghaliet Ecolodge & Spa",
         "city": "siwa",
         "insideimg": "https://ataeg.com/wp-content/uploads/2020/12/ghaliet-ecolodge-spa-6.jpg",
@@ -755,7 +755,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/ghaliet-ecolodge-spa.html"
     },
     {
-        "id": 80,
+        "id": 76,
         "name": "Siwa Relax Retreat",
         "city": "siwa",
         "insideimg": "https://planetescape.pl/app/uploads/2021/01/Siwa-Relax-Retreat9.jpg",
@@ -766,7 +766,7 @@ Hotels = [
     },
     
     {
-        "id": 82,
+        "id": 77,
         "name": "Shali Lodge",
         "city": "siwa",
         "insideimg": "https://i.pinimg.com/736x/aa/6b/51/aa6b51ddbdff88ccfb52181ad9c309c7--egypt-lodges.jpg",
@@ -776,7 +776,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/shali-lodge.html"
     },
     {
-        "id": 83,
+        "id": 78,
         "name": "Albabenshal Boutique Hotel",
         "city": "siwa",
         "insideimg": "https://th.bing.com/th/id/R.5b1309d64dc5da85f08f3f966949606c?rik=e3QVheDFL%2fL36w&pid=ImgRaw&r=0",
@@ -786,7 +786,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/albabenshal-boutique.html"
     },
     {
-        "id": 84,
+        "id": 79,
         "name": "Siwa Oasis Hotel",
         "city": "siwa",
         "insideimg": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/92da0454694259.5965de204e0af.jpg",
@@ -796,7 +796,7 @@ Hotels = [
         "link": "https://www.booking.com/hotel/eg/siwa-oasis.html"
     },
     {
-        "id": 85,
+        "id": 80,
         "name": "Siwa Dreams Hotel",
         "city": "siwa",
         "insideimg": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/263179108.jpg?k=4fb742482b46368f4f7584782335358d795dfb7f51d00d2736c7c85a573a7d93&o=&hp=1",
