@@ -378,7 +378,7 @@ places = [
     {
         "id": 18,
         "name": "Alexandria National Museum",
-        "imagesrc": "https://beautifulglobal.com/wp-content/uploads/2015/06/Alexandria-National-Museum-In-Egypt-COVER.jpg",
+        "imagesrc": "https://th.bing.com/th/id/R.0abc8a90417bb50b675fe48e925739b2?rik=kxXz08jBzr%2faXA&pid=ImgRaw&r=0&sres=1&sresct=1",
         "description": "The Alexandria National Museum showcases the rich history of Alexandria. It is housed in a restored Italian-style mansion and contains over 1,800 artifacts that span from the Pharaonic to the Roman and Byzantine periods. The museum's exhibits are arranged chronologically, providing a comprehensive overview of Alexandria's past. Highlights include statues, jewelry, coins, and pottery, as well as items recovered from underwater archaeological sites. Interactive displays and multimedia presentations enhance the visitor experience. The museum is an essential destination for anyone interested in the historical and cultural heritage of Alexandria.",
         "price": {
             "Prices": {
@@ -689,7 +689,7 @@ places = [
     {
         "id": 32,
         "name": "The Walk Sidi Gaber",
-        "imagesrc": "https://scontent.fcai19-7.fna.fbcdn.net/v/t39.30808-6/381063527_314648071218210_4086580402837759484_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=FI4y2gBpi_4Q7kNvgFlg9lz&_nc_ht=scontent.fcai19-7.fna&oh=00_AYBss4ycStEv86Xvr0z2g72Xki_lrl2T1_N33VvWa27nCA&oe=66B87892",
+        "imagesrc": "https://www.propertyfinder.eg/property/1566303755/668/452/MODE/d38e34/703026-440cdo.jpg",
         "description": "The Walk Sidi Gaber is a popular waterfront promenade in Alexandria, offering stunning views of the Mediterranean Sea. This scenic walkway is perfect for a leisurely stroll, jogging, or cycling, with its well-maintained paths and picturesque surroundings. The area is dotted with cafes, restaurants, and shops, making it a great spot to relax and enjoy the coastal ambiance. The Walk Sidi Gaber is particularly beautiful during sunset, providing a serene and romantic setting along the Alexandrian coast.",
         "price": {
             "Entry": "Free",

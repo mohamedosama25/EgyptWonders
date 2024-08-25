@@ -106,3 +106,12 @@ function hideLoadingScreen() {
 }
 
 window.addEventListener('load', hideLoadingScreen);
+
+document.addEventListener('keydown', function(event) {
+    if (event.key === 'Enter') {
+      const query = document.getElementById('searchInput').value;
+      if (query) {
+        window.location.href = `searchResults.html?query=${encodeURIComponent(query)}`;
+      }}
+    
+});
