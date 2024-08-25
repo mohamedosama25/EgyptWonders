@@ -168,10 +168,8 @@
 
     // Function to scroll to the bottom of the page
     function scrollToBottom() {
-      window.scrollTo({
-        top: document.body.scrollHeight,
-        behavior: 'smooth'
-      });
+      window.scrollTo(0, document.body.scrollHeight);
+
     }
   </script>
 </body>
