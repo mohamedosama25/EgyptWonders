@@ -52,7 +52,7 @@ places = [
         ]
     },
     {
-        "id": 25,
+        "id": 24,
         "name": "Stanley Bridge",
         "imagesrc": "https://i.pinimg.com/originals/35/47/43/35474395f68c4d2838d8ec96962d02e2.jpg",
         "description": "Stanley Bridge is a modern landmark in Alexandria, known for its stunning design and scenic views. The bridge spans the eastern harbor, connecting the Corniche to the Montaza district. It features four towers inspired by Islamic architecture, adding to its distinctive look. At night, the bridge is illuminated, creating a picturesque scene that attracts many visitors. Stanley Bridge is not only an important transportation route but also a popular spot for taking photographs and enjoying the sea views. It symbolizes the blend of modernity and tradition in Alexandria.",
@@ -70,7 +70,7 @@ places = [
         ]
     },
     {
-        "id": 18,
+        "id": 17,
         "name": "Montaza Palace and Gardens",
         "imagesrc": "https://www.islamicarchitecturalheritage.com/wp-content/uploads/2020/06/montaza-palace.jpg",
         "description": "Montaza Palace and Gardens are located along the Mediterranean coast. The palace was built in the early 20th century by Khedive Abbas II as a summer residence. The architectural style of the palace combines Ottoman and Florentine influences, making it a unique landmark. The surrounding gardens, covering about 370 acres, are beautifully landscaped with a variety of trees, flowers, and walking paths. The gardens also feature several picturesque beaches and a small marina. Montaza Palace and Gardens are a popular spot for both locals and tourists, offering a serene escape from the bustling city.",
@@ -95,7 +95,7 @@ places = [
         ]
     },
     {
-        "id": 41,
+        "id": 38,
         "name": "Valley of the Kings",
         "imagesrc": "https://www.historyhit.com/app/uploads/fly-images/5166545/shutterstock_valley-of-kings-788x537.jpg",
         "description": "The Valley of the Kings is a royal burial ground for pharaohs and nobles, located on the west bank of the Nile near Luxor. It is renowned for its elaborately decorated tombs, including the famous tomb of Tutankhamun. The valley contains 63 tombs and chambers, showcasing intricate hieroglyphs and stunning wall paintings. Each tomb provides unique insights into ancient Egyptian beliefs about the afterlife. Visitors can explore several tombs, each with its distinct features and artwork. The valley's isolation and hidden location were intended to protect the tombs from looters. Despite this, many tombs were plundered in antiquity. Today, it remains a major archaeological and tourist site, attracting researchers and history enthusiasts worldwide.",
@@ -120,7 +120,7 @@ places = [
         ]
     },
     {
-        "id": 61,
+        "id": 59,
         "name": "Abu Simbel Temples",
         "imagesrc": "https://res.cloudinary.com/culturemap-com/image/upload/ar_4:3,c_fill,g_faces:center,w_980/v1628778964/photos/322989_original.jpg",
         "description": "The Abu Simbel Temples are massive rock temples located near the Sudanese border, about 280 km from Aswan. Built by Ramses II, the temples are dedicated to the gods Ra-Horakhty, Amun, and Ptah, as well as Ramses II himself. The larger temple features four colossal statues of Ramses II, while the smaller temple is dedicated to his queen, Nefertari. The temples were relocated in the 1960s to save them from the rising waters of Lake Nasser. The intricate carvings and impressive architecture make the temples a UNESCO World Heritage Site. Visitors can explore the temples and learn about their historical and cultural significance.",
@@ -144,7 +144,7 @@ places = [
         ]
     },
     {
-        "id": 67,
+        "id": 65,
         "name": "Tiran Island",
         "imagesrc": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d0/10/24.jpg",
         "description": "Tiran Island is a must-visit for snorkeling and diving enthusiasts, known for its crystal-clear waters and abundant underwater life. Located at the entrance of the Gulf of Aqaba, the island is surrounded by stunning coral reefs teeming with vibrant marine species. Snorkelers and divers can explore the underwater paradise, encountering colorful fish, sea turtles, and even the occasional shark. The island itself offers pristine beaches and tranquil surroundings, making it a perfect spot for relaxation. Boat trips to Tiran Island are a popular activity, providing a full day of adventure and exploration. The island's unique ecosystem and natural beauty make it a highlight of the Red Sea region. Tiran Island is an unmissable destination for nature lovers and water sports enthusiasts alike.",
@@ -164,7 +164,7 @@ places = [
         ]
     },
     {
-        "id": 81,
+        "id": 76,
         "name": "Shali Fortress",
         "imagesrc": "https://i.pinimg.com/originals/dc/e0/38/dce038b4f536c0959167a1566d75886d.jpg",
         "description": "Shali Fortress is an ancient mud-brick fortress that offers panoramic views of the oasis and surrounding desert. The fortress, built in the 13th century, served as a protective citadel for the inhabitants of Siwa. It is a great place to explore the history and architecture of the area. The labyrinth of narrow alleys, crumbling walls, and ancient ruins evoke a sense of adventure and history. Shali Fortress is constructed from kershef, a traditional material made from salt and clay, which gives it its unique appearance. Over time, the fortress has weathered natural elements, creating a dramatic and evocative landscape. Visitors can climb to the top of the fortress for breathtaking views and to imagine the daily lives of its original inhabitants. It is an essential site for anyone interested in Siwa's rich heritage and stunning desert vistas.",
@@ -193,7 +193,7 @@ places = [
         ]
     },
     {
-        "id": 95,
+        "id": 87,
         "name": "Wadi El Rayan",
         "imagesrc": "https://d3rr2gvhjw0wwy.cloudfront.net/uploads/activity_galleries/50720/900x600-1-50-092e7dddb7dbe11549ee18b62967b01f.jpg",
         "description": "Wadi El Rayan is a stunning protected area known for its two man-made lakes connected by Egypt's only waterfalls. Located in the Fayoum desert, it offers a unique blend of natural beauty and recreational activities. Visitors can enjoy boat rides, bird watching, and even sandboarding on the surrounding dunes. The serene environment and picturesque landscapes make it an ideal spot for nature lovers and photographers. Wadi El Rayan is also home to various wildlife species, including rare migratory birds.",
